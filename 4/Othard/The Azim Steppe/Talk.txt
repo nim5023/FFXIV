@@ -1,0 +1,573 @@
+Mergen
+メルゲン
+Every day with my boy brings new discoveries. He reminds me of the man he was in many ways, but in others he is much different... 
+子育てってのは、楽しいねぇ。
+前代らしいところもあれば、少し違うところもあって、
+毎日見ていて飽きないよ。
+
+Qoyar
+コヤル
+It may take many years and much work, but I will become the warrior I once was!
+前のわたしは、ドタールにふさわしい武人でした。
+今はまだ、そんな風にはなれていませんが、
+いつか必ず、元通りになってみせますよ。
+
+Munglig
+ムングリグ
+This is more than just a game. This is war!
+遊びとはいえ、これは勝負……！
+真剣に向き合わねばな！
+
+Maral
+マラル
+It is neither easy nor enjoyable work, but someone needs to keep a record of our supplies.
+小さい居留地だからこそ、物資の数はしっかり把握しておかないと。
+どれも命を繋ぐために、大切なものだから……。
+
+Caalun
+カアルン
+We are worthy of neither Azim nor Nhaama's protection. We do not even deserve this fire that keeps us warm.
+太陽神アジムと月神ナーマ、
+そのどちらの加護も得られない、この洞窟の中では、
+炎だけが唯一、私たちを照らし、身と心を温めてくれるのだ。
+
+Ibakha
+イバクハ
+I did not ask for the title of udgan and I do not enjoy holding it. - Those who cling to such concepts are doomed to walk a path of greed. Our tribe will not make that same mistake again.
+神の声が聞こえようと、力が強かろうと、
+ウヤギルでは、位など存在せぬ。 - 人に順位をつけること……
+それは、欲を顕示し、さらなる欲を掻き立てる。
+我らにとっては、必要のないものなのだ。
+
+Bujir
+ブジール
+These murals tell stories of our ancestors' greed. Whenever our tribe gains something, we make sure to look upon these walls, that we do not fall victim to the same temptations as those who came before us.
+この壁に刻まれし絵は、ウヤギルの欲深き歴史……。
+教訓を忘れぬよう、何かを得たあとは、
+壁画を見つめるようにしているのです。
+
+Iturgen
+イトゥルゲン
+... - This seems to be the Qestir tribe's khan. He welcomes you to Reunion with a smile.
+…………。 - 彼が、ケスティル族の族長らしい。
+冒険者の来訪を歓迎しているようだ。
+目を細め、かすかに微笑んでいる。
+
+Khaishan
+カイシャン
+... - Khaishan eyes you with suspicion. It seems he is wary of you bringing harm to Iturgen.
+…………。 - イトゥルゲンを守っているのだろう。
+強い意思を秘めた目つきで、こちらを見つめてきた。
+
+Cotota
+コトタ
+... - Cotota meets your gaze for a second before looking away shyly.
+…………。 - 冒険者の顔を見て、思うところがあったらしい。
+なにやら、恥じらっているようだ……。
+
+Tamachag
+タマチャグ
+The Qestir believe all words are merely lies. That is why they do not speak. - It is also why I am forced to deal with so many troubled travelers, unable to understand Reunion's ways. I do not enjoy the role, but there are few others here willing to explain things orally.
+再会の市を治めるケスティル族は、
+言葉を嘘の温床と考えているため、とても無口なんだ。 - ……そのせいで、異国から来た連中は、
+オロニル族の俺にばかり、厄介事の相談を持ちかけてくる。
+そんなに、愛想がいいつもりはないんだがね。
+
+Beki
+ベキ
+... - The glint of confusion in Beki's eyes suggests she is not entirely sure why you have come up here.
+…………？ - 不思議そうに、首をかしげている。
+冒険者が何のために見張り台を登ってきたか、
+気になっているようだ。
+
+Baidur
+バイドゥル
+I have many goods from far beyond the borders of the Steppe. Mayhap they are common trinkets to you, traveler...but should you desire the familiar, you need only ask!
+アジムステップでは見かけない品々を取り扱ってるんだ。
+けど、外から来た君にすれば、大した品じゃないかなー？
+
+Botokhui
+ボトクイ
+Why, that exotic aura you emit... You must be a traveler from far-off lands! Can I interest you in some kumis?
+最近は、異国からの客人もめっきり少なくなってねえ。
+家畜の乳酒なんざ、誰も珍しがりやしないよ……。
+
+Suvd
+スウド
+I came here to sell my wool, but no one seems interested. I suppose the only tribes who would be are those that live to the north.
+羊毛を売りに来たんだけど、時期を間違えたかしら……。
+防寒具を求めて、北方の山岳地帯に住む部族が、
+もっと、市に来ていると踏んだんだけど……。
+
+Uto
+ウトウ
+Tell me, as a fellow outsider, what do you think of Qestiri customs? They are a bit of an odd bunch if you ask me, but at least they are willing to let non-Xaela trade here as well.
+あら、アナタも余所者なの？
+この辺りで暮らしてる連中は、みんな変わり者でね。
+特に、この集落を監督しているケスティル族はかなり独特よ。
+
+Yesui
+イェスイ
+Travelers from without are always welcome! Travelers with a taste for organs and coin to pay, that is!
+あら、旅人さんかしら？
+アジムステップの民は、異国からの客人を歓迎しますよ！
+あなたが、良き隣人でいるうちは、ね。
+
+Chambui
+チャンブイ
+Buuz! Fresh buuz! Guaranteed to satisfy! Made with game caught daily by the finest Dazkar hunters, and prepared by our husbands! Fresh buuz!
+アンタ、ボーズを食べてかないかい？
+アタシたち、ダズカル族の女衆が獲ってきた肉を、
+うちの旦那が調理したんだ！
+
+Narengawa
+ナレンガワ
+One must remember to reward their beasts of burden for their service. Were it not for her, I could not have crossed the northern mountains, nor brought so much to market.
+ご褒美の毛づくろいをしてあげてるの。
+この子がいなければ、北方の山々を越えて、
+大量の交易品を運ぶことなんてできなかったものね。
+
+Togene
+トゲネ
+All tribal rivalries are to be forgotten while one is in Reunion. That is the principle the marketplace was founded on. I truly hope the day comes when we are all at peace.
+この市は、常に様々な部族が行き交う交流の場でもあるの。
+異なる部族の人たちの会話を眺めるのは楽しいものよ。
+
+Nameless #1019364
+無名 #1019364
+(Balloon)
+.........
+……
+
+Nameless #1019365
+無名 #1019365
+(Balloon)
+.........?
+……？
+
+Nameless #1019369
+無名 #1019369
+(Balloon)
+Like to buy some milk?
+Probably good and sour
+by now!
+長旅には
+うちのミルクがお勧めだよ！
+
+Nameless #1019370
+無名 #1019370
+(Balloon)
+.........
+……
+
+Nameless #1019371
+無名 #1019371
+(Balloon)
+You look like you could
+use a basket. Or perhaps
+you know someone who
+could use a basket?
+編みカゴはいらない？
+
+Nameless #1019372
+無名 #1019372
+(Balloon)
+Baaaaaa!
+メェ～
+
+Ucugen
+ウスゲン
+All tribes may come and go freely from Reunion. Those who we consider friend...and those who we do not. - Vexing, perhaps, but such is the law. Few are so foolish as to break the peace, so precious is this place.
+ここには、色んな奴らが交易をしにやってくる。
+中には、あたしの部族と友好的な部族もいれば、
+その逆の……どうしたって相容れない連中もいる。 - でも、ここで揉め事を起こそうって奴は滅多にいない。
+なんの垣根もなく商売できる場所を、誰も失いたくないからね。
+
+Nigen
+ニゲン
+The gods said I should cook steak today, but they neglected to say if it should be rare, medium, or well-done...
+今日の献立の神託は受けましたが、
+どの食器を使って、どう食べるのかは伝えられなかったんです。
+チャラガイさんへ、相談しに行こうかしら……？
+
+Ujin
+ウジン
+She is lovely, is she not? The gods told me to feed her until she grew nice and plump.
+おっきい羊でしょ？
+神託どおりに、草だけじゃなくてお豆もあげるようにしたら、
+こんなに育ったんだよ！
+
+Nameless #1019397
+無名 #1019397
+(Balloon)
+You'll find none more
+skilled with a morin khuur.
+いい音色だな～
+
+Nameless #1019398
+無名 #1019398
+(Balloon)
+I'm to herd four score
+rutting rams with this?
+子羊を守ってくれよ！
+
+Nameless #1019399
+無名 #1019399
+(Balloon)
+Thirsty lambs... Leave
+some for the tribe, now.
+お乳がよく出ますように～
+
+Jenkshi
+ジェンクシ
+I feel such a strong connection to my darling sheep. I have even given them all names. Would you like to hear them?
+ケナガウシは、力持ちで役立つが、
+羊は毛も乳も採れるし、成長も早く、様々な役に立つ。
+なによりも、ふわっふわで、可愛い！
+
+Caur
+カウル
+The other day the gods told me to tell a friend, one I had been fighting with, five things that I appreciate about them. - Unfortunately, I was unable to overcome my own pride to actually speak with my friend that day. However, I have since learned the importance of being humble. I decided to apologize to her and we are now once again on good terms!
+あなたも聞いてくれる？
+知り合いの子が高慢ちきで、みんな手を焼いてたんだけど、
+「日が落ちる前に、友人の長所を5つ言え」って神託が下ったの。 - 自分のことしか考えてなかったから、神託をこなせなくてね。
+でも、それで反省したのか、心を入れ替えて、謙虚になったわ。
+失敗することも含めて、神の思し召しだったのね。
+
+Buqatai
+ブカタイ
+Nothing relaxes me more than listening to someone playing the morin khuur. My mother often used to lull me to sleep with one when I was a child.
+モリンホールの音色、とっても落ち着くだろ？
+アジムステップのこの辺りじゃ木材は貴重だが、
+この楽器は、作るだけの価値があるよ。
+
+Sukegei
+スケゲイ
+These sheep are the best family I have ever had.
+ボク、最近この仕事を任されたんだ。
+きちんと羊たちをまとめられるか、心配だけど……
+一族いちの犬も一緒だから、頑張ってるよ！
+
+Ligdan
+リグダン
+My dreams of late have been haunted by images of my mild-mannered pup here devouring my flock. I cannot think why. He has never even growled at them.
+ふぁ～あ……。
+羊が草を食んでる間、一眠りしたいとこだが、
+マンモスがこううるさくちゃ、眠れねえや。
+
+Ogodei
+オゴデイ
+Sheep are essential to our survival here on the Steppe, and it is my primary responsibility to take care of our flocks.
+羊は我らの命を繋ぐ、大切な家畜。
+その世話は大役なのだ。
+
+Abaka
+アバカ
+Beyond these doors is the throne room of our most radiant brother Magnai. You are to approach him with the utmost respect.
+ここから先は長兄の間だ。
+厳粛な場ゆえ、身なりをきちんと整えていけ。
+
+Charakha
+チャラカ
+All those who live here in the Dawn Throne are extremely capable warriors. Many, however, have grown a little too confident in their abilities and might need to be brought down a peg or two.
+この玉座に住む者は、みな手練ればかり。
+他部族や、旅人へ不遜な態度をとる者もいるだろうが、
+強者の自尊心がそうさせるゆえ、許してやってくれ。
+
+Guyug
+グユグ
+Regardless of the heavy rains or winds that sweep through these areas, the flames of these torches shall always burn bright, here in the Dawn Throne, where the first children of Father Azim were ushered into this world.
+雨が降ろうと、風が吹こうと、この灯を消しちゃならないのさ。
+なんてったって、太陽神アジムが創った最初のアウラ、
+明けの父が生まれた場所だからな。
+
+Bugunutei
+ブグヌテイ
+What business brings you to the Dawn Throne? Answer wisely.
+玉座への出入りは、俺が厳しく監視している。
+変な気を起こそうとするなよ。
+
+Sorocan
+ソロサン
+While being so high up makes it almost impossible for enemy forces or wild animals to attack us, it does come at a price. We must regularly herd our sheep to the fields below and back. Trust me when I say it is not nearly so easy as it sounds.
+ここはほかのところより高い場所にあるから、
+羊にやる水や草を運ぶのも、ひと苦労だよ。
+獣に襲われる心配がないのは、いいけれどね。
+
+Hooshal
+フーシャル
+Do not even think to sneak even a spoonful of our food. We barely have enough rations to feed our own people. We cannot afford to provide for all the hungry mouths that pass through here.
+つまみ食いは許さないぞ。
+旅の者へ気軽にふるまえるほど、食糧を余らせてはいないからな。
+
+Delbeg
+デルベグ
+I am observing the movements of the Dotharl. After all, they have launched a countless number of assaults on us in the past.
+オアシスを見張ってるんだ。
+あそこに住んでるドタール族とは、
+過去何度も、いざこざを経験しているからな。
+
+Yabuqa
+ヤブカ
+While I will not deny that there are many disputes between our tribes, we somehow always manage to resolve them. Allying ourselves with the Oronir was the best thing we could have done.
+どの部族も、決して一枚岩じゃない。
+それでも成り立っているのは、何かわけがあるからだ。
+……あまりいい理由じゃないかもしれないがな。
+
+Khaidai
+カイダイ
+Please, move away from the sheep! Can you not see you are disturbing them?
+……羊の邪魔になる、そんなに近づいてくるな。
+
+Nameless #1021826
+無名 #1021826
+(Balloon)
+Baa, baa, baa!
+メェ～　メッメェ～
+メェ～　メッメッメ～～～♪
+
+Nameless #1021827
+無名 #1021827
+(Balloon)
+Baa.
+メェ～
+
+Kishiligh
+キシリグ
+I just finished slaughtering these two lambs for their wool and meat. Their bleating yet fills my ears. Unlike we Dotharl, they shall never be reborn.
+つい先ほど、この羊の命を送ってやったところだ。
+羊たちは、俺たちのように生まれ変われはしない。
+だからこそ、その毛の一房、血の一滴までも大切に扱おう。
+
+Dagasi
+ダガシ
+Look at them. So full of vigor. Few things bring me more pleasure than seeing my sheep happy.
+あっ、頭突きされないよう、気をつけてね。
+うちの羊は、ほかの部族の子よりも活発なのよ。
+
+Agujam
+アグジャム
+You wish to train with us? It will not be easy. We live to do battle.
+む、お前も、我らと共に鍛えるか？
+ドタールの鍛錬は、そこらの部族とは違うぞ。
+
+Nameless #1022229
+無名 #1022229
+(Balloon)
+A finer spear I have not seen.
+この槍なら一発だな
+
+Nameless #1022557
+無名 #1022557
+(Balloon)
+Just look at it!
+うわぁ…
+なんだコレ！？
+
+Nameless #1022558
+無名 #1022558
+(Balloon)
+It's so scaly...
+空飛ぶトカゲだ！
+
+Nameless #1022559
+無名 #1022559
+(Balloon)
+Did it just speak!?
+しゃべるんだぜ！
+コイツ！
+
+Nameless #1022632
+無名 #1022632
+(Balloon)
+Children of the dawn
+let long your horns hang...♪
+太陽の子らよ…♪
+
+Nameless #1022636
+無名 #1022636
+(Balloon)
+Closer... Closer!
+フッ！ハッ！
+
+Nameless #1022639
+無名 #1022639
+(Balloon)
+Too taut...
+Much too taut.
+ちょっと弓力が強いかな…
+
+Nameless #1022645
+無名 #1022645
+(Balloon)
+Right between the legs!
+そこだ！いけ！
+
+Nameless #1022646
+無名 #1022646
+(Balloon)
+Lose this fight and your
+place at the fire is lost!
+腰を落として入り込め！
+
+Nameless #1022649
+無名 #1022649
+(Balloon)
+I am the wind. I am the sky.
+最強…無敵…
+
+Nameless #1022653
+無名 #1022653
+(Balloon)
+Ten thousand three hun-
+dred and sixty-eight.
+Ten thousand three hun-
+dred and sixty-nine.
+1368、1369回…
+
+Nameless #1022665
+無名 #1022665
+(Balloon)
+Why must we learn letters
+if it is our destiny to fight?
+え～！面倒だよ～
+
+Nameless #1022667
+無名 #1022667
+(Balloon)
+Oh, quiet, you!
+頑張りましょ
+
+Nameless #1022669
+無名 #1022669
+(Balloon)
+On the east wind rides
+the whisper of the land.♪
+大地の恵みは…♪
+
+Nameless #1022670
+無名 #1022670
+(Balloon)
+Come on! One more round!
+Best twenty-eight out of
+fifty-five!
+これに勝てば55戦28勝だ！
+
+Nameless #1022674
+無名 #1022674
+(Balloon)
+Let us meditate on this.
+次の狩りだが…
+
+Nameless #1022678
+無名 #1022678
+(Balloon)
+What am I even doing with
+this thing? I wanted to
+learn the spear...
+そろそろ弦を変えるか…
+
+Chagur
+チャグル
+Absolutely beautiful. Would you not agree?
+このヨルは、まだここへ来て日が浅い。
+人に慣れさせ、従うことを覚えさせなければな。
+
+Nameless #1022689
+無名 #1022689
+(Balloon)
+Have at me!
+負けぬ！
+
+Sechen
+セチェン
+It is not easy living in these caves. When the fire fades, you cannot even make out your own hands in the darkness. - However, this is the life our tribe deserves. We must never be tempted by greed again.
+洞窟の中の生活は、苦労するわ。
+食べ物も少ないし、火を常に焚いていないと、
+自分の足も見えなくなってしまうもの。 - けれど、だからこそ得られるものもある……。
+それこそ、「百一の啓示」がね。
+
+Nameless #1025536
+無名 #1025536
+(Balloon)
+Tell me more of how you
+fractured that man's skull!
+アジム・ブフ
+かっこいいっぺな…
+
+Nameless #1025611
+無名 #1025611
+(Balloon)
+No Namazu may wield a
+bow without supervision.
+ナマズが弓射をするとはな…
+
+Nameless #1025614
+無名 #1025614
+(Balloon)
+I almost made it up
+onto the horse today!
+はやく馬を
+乗りこなしたいっぺな
+
+Nameless #1025619
+無名 #1025619
+(Balloon)
+Are you in need of
+a target or three?
+的はたくさんあるっぺな
+
+Nameless #1025627
+無名 #1025627
+(Balloon)
+Time for a break? Yes, yes?
+や、休みたいっぺよ…
+
+Nameless #1025630
+無名 #1025630
+(Balloon)
+Wasshoi! Wasshoi!
+わっしょい！
+わっしょい！！
+
+Nameless #1025839
+無名 #1025839
+(Balloon)
+That's it, my friends.
+Now lift your knees higher.
+さぁ、もっと張り切って！
+
+Nameless #1025862
+無名 #1025862
+(Balloon)
+Is it appropriate to
+grab him like that?
+アジム・ブフは
+奥が深いっぺな～
+
+Nameless #1025863
+無名 #1025863
+(Balloon)
+As long as it's above
+the belt... I think...
+見てるだけで
+燃えてくるっぺよ！
+
+Nameless #1025866
+無名 #1025866
+(Balloon)
+Steady yourself!
+よーく狙え！
+
+Nameless #1025868
+無名 #1025868
+(Balloon)
+No, no. Over here!
+いや、こっちっぺよ
+
+Nameless #1025869
+無名 #1025869
+(Balloon)
+Over here! Yes, yes.
+こっちっぺな
+

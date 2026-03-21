@@ -1,0 +1,375 @@
+Nameless #1037732
+無名 #1037732
+(Balloon)
+Am I ever glad to be stationed so close to a campfire!
+火の近くの担当で
+ありがたいぜ…
+
+Nameless #1037737
+無名 #1037737
+(Balloon)
+This is perilous terrain, you hear me? Keep your guard up at all times!
+慣れない土地なんだ
+気を抜くなよ！
+
+Nameless #1037745
+無名 #1037745
+(Balloon)
+What wretched weather to be laboring in.
+As if this work weren't hard enough!
+ふぅ…この雪だと
+荷運びも一苦労だな
+
+Nameless #1037756
+無名 #1037756
+(Balloon)
+If any of these get too damp,
+it could spell trouble for us.
+雪で濡れた後には
+入念に手入れせねば
+
+Nameless #1037765
+無名 #1037765
+(Balloon)
+It...hurts... 
+うぅぅ……
+
+Nameless #1037768
+無名 #1037768
+(Balloon)
+Why did I live,
+when so many others...?
+なぜ俺だけ
+生き残ったんだ…
+
+Nameless #1037769
+無名 #1037769
+(Balloon)
+The air is ice itself.
+I may freeze to death at this rate.
+ひどい寒さだ
+凍えちまうよ…
+
+Nameless #1037776
+無名 #1037776
+(Balloon)
+<sniffle> I-I'm hungry...!
+お腹空いたよお…
+
+Nameless #1037777
+無名 #1037777
+(Balloon)
+Damn it all...! Is there truly nothing to be done!?
+ちくしょう…
+俺にはもう何も…！
+
+Nameless #1037781
+無名 #1037781
+(Balloon)
+M-My wife, my daughter, too... Th-They both... 
+妻も娘も、もう…
+
+Quintus
+クイントゥス
+I have made my position quite clear. Do not test my patience.
+……お前たちと交わすべき言葉はない。
+努々、己の立場を見誤らないことだ。
+
+Jullus
+ユルス
+...Why?
+……どうして…………。
+
+Alisaie
+アリゼー
+Everything's going to be all right now...
+もう大丈夫……大丈夫よ……。
+本当に、よくがんばったわ……。
+
+Urianger
+ウリエンジェ
+To employ healing magicks now would likely invite catastrophe, as thou canst attest from thy experiences at Victors' Spoils. - Indeed, the Garleans view our ability to manipulate aether with the same suspicion that many Eorzeans do magitek.
+このようなとき、つい治癒魔法を使ってしまいそうになる……
+ですが、「臣の褒賞」での一件は、しかと伺っております。 - 私たちの魔法と、彼らの魔導技術……
+どちらも、自分にとっては当たり前でありながら、
+相手にとっては恐るべき存在であると言えましょう……。
+
+G'raha Tia
+グ・ラハ・ティア
+Try as we might, any words of comfort we may offer are like to fall on deaf ears. - We are but strangers from foreign lands, perhaps in their eyes the very cause of their suffering to begin with. Nevertheless, we mustn't give up.
+今の彼らに言葉を届けることは難しい。
+何か大きなものを失くしたときに、
+赤の他人からの言葉なんて、ほとんど無力だ。 - ……だからせめて、時間いっぱいそばにいる。
+話は、涙が枯れたあとでいいんだ。
+
+Estinien
+エスティニアン
+I know not how to offer encouragement or solace to these poor souls. But if it's safe passage to our camp they need, I'd gladly oblige.
+俺は、こういうときに掛ける優しい言葉なんぞ知らん。
+だが、こいつらがキャンプなりどこへなり行きたいと言うなら、
+誰よりも安全に連れて行ってやる。
+
+Alisaie
+アリゼー
+Who could possibly be cold at a time like this? My heart is pounding with anticipation!
+大丈夫、今は寒さもへっちゃらよ！
+やっとテロフォロイと直接対決できそうなんだもの、
+気持ちなんて、むしろ熱く燃えてるくらいだわ！
+
+Alphinaud
+アルフィノ
+We'll stagger our departures so as not to raise suspicion. You go on ahead.
+よければ、君が最初に出発してくれ。
+少し間をあけたり、別のルートを通ったりして、
+「エンセラダス魔導工廠」を目指すよ。
+
+Y'shtola
+ヤ・シュトラ
+Fear not─no serious wounds have gone untreated. Nor will I stand for being left behind while the rest of you rush headlong into danger, so you needn't bother suggesting it.
+視界の方は、戦闘に支障がない程度には戻っているわ。
+私を置いていくなんて選択肢はなくってよ？
+
+Thancred
+サンクレッド
+...I think it's time I was off. If I look at Urianger for one more moment I'm liable to freeze solid.
+……ウリエンジェの奴、無理に着替えることなかっただろうに。
+見てるこっちが寒くなりそうだ、早く移動しよう。
+
+Urianger
+ウリエンジェ
+C-C-Cold? N-N-Nay, I feel nary a thing... Nary a thing...
+もももも問題はございません……
+けけけ計略を……ひひひ披露しましょう……。
+
+G'raha Tia
+グ・ラハ・ティア
+...And you're one hundred percent certain you're fit to fight? No odd specters haunting your wake? Nothing feels...tingly?
+身体の方は、その後も問題なさそうか？
+あのときオレとアリゼーに向かって鎌を振り上げた、
+使い魔みたいな存在……あれもゼノスの能力だったのかな。
+
+Estinien
+エスティニアン
+When I infiltrated the palace with Gaius, we took an entirely different route. Since then, the whole place has been reconstructed, and 'twould appear that path is no longer accessible.
+魔導列車を使った潜入は、俺もはじめてだ。
+ガイウスと来たときに使った経路は、
+城が造り変えられたせいで使えなくなっていたからな。
+
+Chuchuto
+チュチュト
+Training is of vital importance, as it allows us to be ready at a moment's notice─obvious advice, I know, but it's worth reminding ourselves every now and then. So, any spare time I have, I spend in the betterment of my abilities. - And on that note─listen, everyone! Train, and train hard. Let's show our enemies that no freezing winds or icy hellscapes will break our spirits.
+いつ何が起きても対応できるように、
+時間の許す限り、鍛錬に励んでおかなきゃね♪ - さあ、みんな！
+寒さなんかに負けずに、頑張るわよ！
+
+Cocobuki
+ココブキ
+Cocobygo! Cocobani! How many times must I tell you two to refrain from using magic around the Garleans!? - For now, we must trust that the engineers will complete the heating apparatus in due...due─<sneeze>─time.
+……ココビゴ、ココバニ。
+下手に魔法を使えば、ガレアン人を刺激しかねないと、
+何度言えばわかるのですか。 - 今は各国の技術者たちを信じて、
+暖房設備の完成を待つほかないでしょうね。
+クッ……クックッ……ク……クシュン！
+
+Chuchuto
+チュチュト
+We've the roads covered, don't you worry. Things may get chaotic out there, but just take it as slow and steady as you can, all right?
+私たちが責任をもって、道中を護衛するわ。
+混乱しているだろうから、ゆっくりでいいからね……。
+
+Cocobuki
+ココブキ
+Leave these fiends to my brothers and I. We will raze them to the ground with our most devastating magicks!
+この辺りの魔物の駆除は、我ら兄弟にお任せください。
+ククク……最強の呪術で殲滅してみせましょう！
+
+Rostik
+ロスティック
+To think that we'd end up taking the Ist Legion themselves─or what remains of them─into our care. Not so long ago, such a thing would've been inconceivable, but these are strange times indeed.
+保護したガレアン人の護衛を願いでた。
+……それにしても、あの第I軍団がな。
+このような事態、誰が想像できただろうか。
+
+Sanson
+サンソン大牙士
+It has all been leading up to this. As I'm assigned to the diversionary force, I doubt our paths will cross once the fighting starts, so I shall take this opportunity to wish you the very best of luck! - Truth be told, I am feeling more than a bit nervous. I have never been involved in something of such scale, but with Guydelot and the others at my side, I'm confident we will succeed.
+いよいよですね……！
+俺たちも陽動班として、作戦に参加します。
+どちらも激戦になるでしょうが……どうか、お気を付けて。 - 正直に言うと、こんな大舞台は初めてで緊張しています。
+……でも、不思議と大丈夫だって思えるんですよ。
+仲間の支援と、それにギドゥロの奏でる戦歌がありますから！
+
+Guydelot
+ギドゥロ
+We're still deciding who'll be staying behind and who'll act as a diversion. Emmanellain is to guard the camp, while Sanson and I join the van.  - Jehantel may have already waxed philosophical on this topic, but it is here upon the battlefield that a bard shows their true mettle. Wherever swords clash and magicks crackle, our song shall be heard.
+陽動に行く奴と、警備で残る奴で打ち合わせ中さ。
+俺やサンソンたちは陽動班だ。
+んで、そこのエマネランって奴が、警備で仕切ってる。 - ……お前もジェアンテルの爺さんに教わったと思うが、
+敵味方入り乱れる戦場でこそ、吟遊詩人は真価を発揮する。
+仲間が前で戦っている限り、俺は歌うことをやめねえよ。
+
+Broenbhar
+ブルーンバル
+Me an' the others'll cause enough ruckus to wake the dead, so you lot should have an easy time sneakin' in.
+お前たちが無事に侵入できるように、
+陽動作戦は、必ず成功させてみせるぜ。
+だからお前は俺たちを信じて、ただ前に進めばいい。
+
+Alka Zolka
+アルカ・ゾルカ
+Greetings, . A pity that our paths will be diverging on the battlefield, though we shall see each other again once the dust has settled, worry not. And when we do, you shall find me stronger than before.
+やあやあ、君！
+君と別行動になるのは、少々残念だけれど、
+僕たちはこの難局を乗り越え、ますます強くなれるはずさ！
+
+Alberic
+アルベリク
+The time is upon us. Neither you nor Estinien will break under the coming onslaught, of that I am sure. I too vow not to bend, to see us to victory. By my lance, I do swear.
+……いよいよだな。
+君とエスティニアンの正義の心は、決して折れない。
+私もこの槍に誓って、必ずこの作戦を成功に導くと約束しよう。
+
+Stephanivien
+ステファニヴィアン
+According to my prospectometer, this operation is guaranteed to succeed! - Pray give the enemy what for, , while we finish up preparations here!
+俺の計測器がはじき出した結果によれば、
+この作戦の成功率は100%だ！ - 俺たちが、ニセの橋をかけてる間に、
+は横から、
+敵の脳天ブチ撃ち抜いてやんな！
+
+Chuchuto
+チュチュト
+, we will take up the rear so as to ensure you are not caught unawares. Trust that we will always have your back. Now go finish this fight!
+たちが背後を突かれないように、
+私たちがここに残って、死守するわ。
+だから、背中は任せて……さあ、行ってらっしゃい！
+
+Cocobuki
+ココブキ
+Now that the tempered ones are aware of our plan, they will doubtless start pouring in at any moment. Hm hm hm... - But needn't worry─my brothers and I will see that none shall pass. Go forth and wreak your destruction!
+テンパードたちが作戦に気付いたら、
+この場所にも押し寄せてくることでしょう。 - クックック……されど心配は無用です。
+我らが、ひとりたりとも通しません。
+貴方は思う存分、破壊の限りを尽くしてきてください。
+
+Rostik
+ロスティック
+You, Thancred, and the others go on ahead. We'll make sure you're not pursued.
+お前やサンクレッドが、護りたいものを護れるように、
+私たちがここで後方を固めよう。
+さあ、行ってくるがいい。
+
+Lyse
+リセ
+I've just returned from guarding the airships, and now I've got to keep an eye on the captured imperials. Maybe a bit of chitchat will help lighten the mood.
+飛空艇の警備から、交替で戻ってきたんだけど……
+休憩はあとまわしで大丈夫。
+今はあの帝国兵たちを保護するのを手伝うよ。
+
+Pipin
+ピピン
+Thank goodness the Xth Legion decided to sue for peace when they did. We have been spared more senseless bloodshed, which is the last thing anyone─including the Ist─needs. - From their perspective, though, the promise of reinforcements was their last hope, and now they have no choice but to capitulate to the invaders. But we will prove to them that all is not lost, and we yet stand a chance of casting out the Telophoroi.
+第X軍団の戦意喪失により、
+第I軍団とも戦わずに済んだのは幸いだ。 - ……だが、彼らにとっては最大の希望を断たれたようなもの。
+ここでどうやって向き合っていくか、
+慎重に検討し、素早く実践する必要があるだろう。
+
+Emmanellain
+エマネラン
+It's no use taking in all these Garleans if we're going to let them freeze to death. We need heat, for goodness' sake! I knew I should've brought more warming tinctures!
+何でもいいから、早く暖を取れるようにしないとな。
+生き残りを保護できたとしても、
+みんなでカチコチになってたら、元も子もないだろ？
+
+A-Ruhn-Senna
+ア・ルン・センナ
+The time has come for me to head to the front line. - You see, with so many healers needed to treat the tempered, our allies want for support on the battlefield. That's where I come in.
+僕も、次は前線に出ることになったんだ。 - テンパードたちを看るのに、
+いよいよ人数が必要になってきたからね……。
+そっちに道士の人数を割く代わりに、僕が戦場を支えるよ。
+
+Emmanellain
+エマネラン
+Ah, you've finally come around! From what I gather, you'd been through rather a lot, what with your sudden disappearance. Then, even when you did return, there was some sort of fracas, it seems. Someone did explain it to me, but I must admit, I found the whole account positively mind-boggling. - And once again, your timing is impeccable. Why, you've recovered just in time to join the foray into the enemy stronghold. I do hope you're feeling up to it!
+おっ、お前、目が覚めたんだな！
+急に行方不明になったあと、戻ってきたけどひと悶着あって、
+手当てを受けているところ……って聞いたぞ。 - いよいよ大事な作戦が始まるってときに、
+マブダチが不調だなんて、オレ不安……いや心配だったんだ。
+元気になったようで、安心したぜ！
+
+Sicard
+シカルド
+All right, you lot! When we get the signal, we'll make the loudest racket Garlemald's ever heard!
+野郎ども、俺たちの役目はわかってるな！？
+作戦開始の合図があったら、真っ向からカチ込むぞ！
+腹から声出して、威勢よくなぁッ！
+
+Cocobuki
+ココブキ
+Cocobygo! Cocobani! How many times must I tell you two to refrain from using magic around the Garleans!? - For now, we must trust that the engineers will complete the heating apparatus in due...due─<sneeze>─time.
+……ココビゴ、ココバニ。
+下手に魔法を使えば、ガレアン人を刺激しかねないと、
+何度言えばわかるのですか。 - 今は各国の技術者たちを信じて、
+暖房設備の完成を待つほかないでしょうね。
+クッ……クックッ……ク……クシュン！
+
+Cocobuki
+ココブキ
+Leave these fiends to my brothers and I. We will raze them to the ground with our most devastating magicks!
+この辺りの魔物の駆除は、我ら兄弟にお任せください。
+ククク……最強の呪術で殲滅してみせましょう！
+
+Ephemie
+エフェミ
+'Tis somewhat strange to meet with you someplace other than the Rising Stones. I can't say I'm enjoying the cold, but I'm doing what I can to survive...   - As it were, I've begun a sort of cultural exchange with the Garleans: I share with them songs of the wandering minstrel, and they share with me stories of Emperor Solus and the assassin of legend. - Learning who their heroes are and what qualities they admire in people has been most edifying. I feel this venture will serve to deepen our mutual understanding and strengthen our nascent relationship.
+石の家の外で会うのは、少しだけ新鮮に感じるね。
+こっちの寒さには、まだ慣れないけど、どうにかやっているよ。 - 実はガレアンたちとの交流を始めていてね。
+異邦の詩人仕込みの英雄譚を聞かせるかわりに、
+彼らからも、ソル帝や伝説の暗殺者の逸話を聞いているのさ。 - ガレアンたちが、
+どんな存在を英雄視して、何に憧れを抱いてきたのか。
+それを知ることで、互いの関係が深まっていく気がするんだ。
+
+Jullus
+ユルス
+We insisted that Alphinaud and Alisaie take their rest, but you're no less deserving of respite. - To see you fight so tirelessly for causes greater than yourself, be they here or even in altogether different worlds, there's little wonder why you're revered as a hero. - Time and again we have witnessed you make the seemingly impossible possible, and it is nothing short of inspiring. Needless to say, we'll be striving to follow your example.
+アルフィノやアリゼーだけじゃなく、
+お前にも、これまで本当に世話になったな。
+今さらながら、「英雄」と呼ばれるのも当然だと思う。 - 国や民族の垣根を越え、
+より大きなもののために戦い続けてきて……
+異世界の者とまで友情を結んでしまうんだからな。 - そんな奇跡を目の当たりにした以上、
+俺たちガレアン人にだって不可能はないだろう。
+お前を手本として、必ず成し遂げてみせるぞ。
+
+Primus
+プリムス
+Jullus has told us all. You have Lord Gnaeus's permission to enter and speak with our residents, but not to petition them directly for support. Remember that.
+ユルス殿から通信にて事情は聞いている。
+グナエウス殿が、立ち入り許可を与えたそうだが、
+くれぐれも問題を起こすんじゃないぞ。
+
+Nameless #1045849
+無名 #1045849
+(Balloon)
+Is there something you'd like to eat?
+食べたいものはあるかい？
+
+Nameless #1045850
+無名 #1045850
+(Balloon)
+Ooh, the stew! Can you make it again?
+アレがいい！
+おじさんの好きなやつ！
+
+Nameless #1045851
+無名 #1045851
+(Balloon)
+Where do we go from here...
+これから、か…
+
+Nameless #1045852
+無名 #1045852
+(Balloon)
+The contingent should be along any moment now...
+そろそろ
+派遣団が来る頃だが…
+

@@ -1,0 +1,4 @@
+探査隊の護衛 	 Expedition Escort
+探査隊の資材加工係 	 Expedition Metallurgist
+探査隊の衛生係 	 Expedition Medic
+ブリギッド 	 Brigid

@@ -1,0 +1,234 @@
+Virgeaume
+ヴィルジョーム
+See these traps? Some bloody outlaws set them up, hoping for an easy catch. They're liable to injure the chocobos we catch to make our living, so it's our job to collect them before they do.
+これは、チョコボを捕まえる罠さ。
+もっとも、こんな危ない罠、俺たちはつかわない。
+ここにあるのは、荒くれ者どもが設置したものの回収品さ。
+
+Remaclon
+レマクロン
+Our bows have gotta be in prime shape at all times, because we never know when the catch of a lifetime'll cross our paths.
+こうやって弓の手入れをしておけば、
+いつどこで獲物に出会っても、対応できるのさ。
+
+Louisonet
+ルイゾネ
+Gysahl greens ain't just for raisin' chocobos, you see. They're a key component for the traps we use─the birds can't resist 'em.
+ギサールの野菜は、チョコボを育てるためじゃなく、
+罠を仕掛けるのにも役立つんだ。
+
+Priorfaix
+プリオルフェ
+Look at the sheen in the feathers, and the strong, sturdy legs─he'll make me some good coin at the markets, I'd wager.
+どうだい、中々いい体格だろう？
+これなら皇都の商人に高く売れるだろうさ。
+
+Grimold
+グリモルド
+Not all birds fetch a good price in the markets. Fortunately, they've plenty other uses, as you can well imagine.
+ここは何をする場所かって？
+わざわざ聞かなくたって、そこらに置いてあるブツを見れば、
+大方の想像はつくだろうよ。
+
+Leonulfe
+レオニュルフ
+Don't talk so bloody loud! I'm on the lookout for chocobos, and I can't very well concentrate with your yappin', now can I?
+あまり大声をださないでくれよ？
+チョコボを捕まえるためにキャンプを張っているんだからさ。
+
+Guenaret
+ゲナレ
+Let me know if there's any particularly feisty chocobos running about. I like myself a good hunt!
+近くに活きの良いチョコボがいたら、教えてくださいね！
+私が、バッチリ捕まえてみせますから！
+
+Aimebert
+エムベル
+I can stand here in silence till the next Astral Era─just wait here if you don't believe me! A hunter can't hope to make a big catch if he ain't patient.
+元気で賢そうなチョコボが見つかるのを、
+こうして外でじっと待つ……。
+忍耐も、猟師にとって大事な能力のひとつなんだよ。
+
+Ess Khas
+エス・カース
+We have no quarrel with man, but the young ones are still prideful. They look upon man with contempt. In time, they will understand the folly in their judgment.
+私を含め、ここにいる多くの者はヒトと争う気はないが、
+若いものたちには、ヒトを侮ったりしている者もいる。
+あまり出過ぎたことは、しない方が身のためだろうな。
+
+Sooh Non
+スー・ノン
+Without wings, you must take this passage to scale the tower. Above you will find more of my kin, but beware the cave of Mourn.
+塔の上まで行きたいなら、脇の階段を使うといい。
+どこかの階に、モーン大岩窟に繋がる橋もある。
+羽がないやつは大変だな、ガハハハハ！
+
+Khash Thah
+カーシュ・サー
+The bridge beyond this chamber leads to Mourn. It is a place of silence. Tread softly through its halls.
+ここから出てる橋を渡ると、モーン大岩窟に行けるよ。
+でも、洞窟の中では絶対に静かにしてね……！
+そうしないと、みんなに怒られちゃうよ～。
+
+Oohd Eil
+ウード・エイル
+Long ago, this land bathed in the flame of our ancestors. Molten rock still clings to the tower, a testament to their rage.
+塔に、赤い岩が付いているのが見えるだろう？
+あれは、激怒した先祖が、一帯を焼き払った際についたものだ。
+……先祖の怒りがどれほどのものか、想像に容易いだろう。
+
+Nehsk Fan
+ネスク・ファン
+Hmph. You are welcome here for now... But remember, we are always watching.
+ヒトか……変なマネをしようものなら、
+その時は容赦なく噛み殺すぞ……！
+
+Dragon Corpse
+ドラゴン族の遺骸
+There is no response.
+声をかけても返事がない……。
+すでに、息絶えているようだ……。
+
+Ool Ka
+ウール・カー
+...Burn it down...
+Burn them...all... <snore>
+…………なんだ……？
+ゆっくり……休ませて……くれ……。
+
+Chilpareux
+シルパルー
+None in Tailfeather can come close to beatin' Leonulfe's stew in flavor, that's why I spend most my time here. Try a bowl, an' you might not want to ever leave!
+こうやって、外にキャンプを張って食う飯は、
+テイルフェザーで食うのとはまた違って、旨いもんなんだ。
+あんたも一口どうだ？
+
+The Hungerer
+ウマソウ
+<click> <click> The Gnath of the Onemind─every day they eat the same thing. They eat the same bland paste. They have no idea of all the yummy, delicious foods in the world!
+シシシシシ……「繋がりし者たち」は、
+毎日、毎日、飽きもせず同じ練り物ばかり食べているわ。
+世界はこんなにもウマソウな物で満ちているというのに……。
+
+Estinien
+エスティニアン
+By the Fury... Must we now defeat a primal, that we might treat with a wyrm? I do begin to see how you gained your reputation for surmounting the insurmountable...
+グナース族が強気に出てきた理由がこれでわかったが……。
+お前はこれまでも、こんな調子で旅を続けてきたのか？
+……どうりで、場数を踏んだ者の目をしているわけだ。
+
+Alphinaud
+アルフィノ
+Once more a primal rears its head, and once more the task of slaying it falls to you. - Would that I, too, possessed the Echo...
+またしても、新たな蛮神か……。
+いざ戦いとなれば、君に負担をかけることになる……。 - 私にも「超える力」があれば、
+君とともに、蛮神と戦えるのに……。
+……悔しいよ、いつもすまない。
+
+Nameless #1013257
+無名 #1013257
+(Balloon)
+Am I holding this thing right?
+頼んだぞ…！
+
+Nameless #1013258
+無名 #1013258
+(Balloon)
+Agh! I nearly had one!
+釣りは苦手なんだよ…
+
+Nameless #1013259
+無名 #1013259
+(Balloon)
+The bloody things just won't bite...
+釣れねえなあ
+
+Kester Ironheart
+ケスター・アイアンハート
+The more distant and harsh the frontier, the louder the call that beckons me there. That's the plight of the explorer, and I wouldn't trade it for anything.
+秘境と呼ばれる場所ほど、危険なものさ。
+それを乗り越えて進むのが「探検家」ってもんだぜ。
+
+Nameless #1013821
+無名 #1013821
+(Balloon)
+Thank the gods!
+Help's finally arrived!
+お、助っ人さんだな！
+
+Nameless #1013940
+無名 #1013940
+(Balloon)
+I'll bet you'd work up a right sweat digging.
+採掘しやすくはないな…
+
+Nameless #1013941
+無名 #1013941
+(Balloon)
+Up, up, up it goes, then down, down, down!
+高低差があるな
+
+Nameless #1013942
+無名 #1013942
+(Balloon)
+I hope there's ore hereabouts.
+鉱床があるといいが…
+
+Nameless #1015364
+無名 #1015364
+(Balloon)
+I won't let them eat you.
+かわいいね～
+
+Nameless #1015370
+無名 #1015370
+(Balloon)
+You must unlearn what
+you have learned.
+まだまだ雑念が多いな…
+
+Nameless #1015371
+無名 #1015371
+(Balloon)
+What do you mean,
+“There is no try”?
+くそっ！
+あんな奴に負けるもんか！
+
+Nameless #1015377
+無名 #1015377
+(Balloon)
+Just what the
+colonel ordered.
+おい、押すなよ！？
+
+Nameless #1015380
+無名 #1015380
+(Balloon)
+Quiet! I'll not have you
+frighten off my quarry!
+音をさせるな！
+逃げられちゃうだろ！
+
+Nameless #1015382
+無名 #1015382
+(Balloon)
+<click> <click>
+シシシシシ…
+
+Nameless #1015383
+無名 #1015383
+(Balloon)
+In or out? <click>
+<click> Out or in?
+降りれん…
+シシシシシ…
+
+Nameless #1018304
+無名 #1018304
+(Balloon)
+<click> <click>
+My limbs...they will not stop moving.
+シシシシシ…
+止まらん
+

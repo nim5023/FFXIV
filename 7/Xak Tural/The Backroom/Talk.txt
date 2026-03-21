@@ -1,0 +1,50 @@
+Erenville
+エレンヴィル
+Let's keep our minds on the mission for now. Other matters can wait.
+気づいているかもしれないが……
+いや……とにかく、作戦に集中しよう。
+
+Gulool Ja
+グルージャ
+Shale said she left this machine running to process more of the data from the field station. Is it done yet?
+そういえば、ユウェヤーワータから持ち帰ったデータ、
+このマシンで解析を続けてるみたい。
+放っておけば、そのうち完了するのかなぁ？
+
+Krile
+クルル
+A pity Y'shtola was not present for “Sphene's” return. A cursory glance at the impostor's aether would have doubtless been enough to confirm our suspicions beyond a doubt....
+あなたが見た理王スフェーンが本物かどうか、
+ヤ・シュトラならエーテルを判別できたのにね。
+リビング・メモリーから戻るのを待ちましょう。
+
+G'raha Tia
+グ・ラハ・ティア
+Though we have too little information to draw any useful conclusions as yet, I daresay the Queen of Reason's behavior henceforth will be illuminating.
+情報が不十分な今の段階では、
+どんな臆断もするべきではないだろう。
+今は、新しい理王の出方を窺うしかなさそうだ。
+
+Wuk Lamat
+ウクラマト
+Gossan is helping us coordinate efforts with the administration here in Alexandria. We have to work hand in hand to ensure that the people can get back to their normal lives. - I worry about Gulool Ja, though. I know he's still frustrated that he couldn't do anything to stop the machines... If only there was a way to take his mind off things.
+ガバメントのほうは、
+ゴッサンが中心になって動いてくれてる。
+そっちとも連携して、みんなの日常をはやく取り戻さねぇとな。 - それと、グルージャが権限のことで思いつめちまわねぇように、
+気晴らしになることでもしてやれたらいいんだが……。
+
+Sphene
+スフェーン
+I will dedicate myself first to healing magicks so I may help treat people's wounds. - It will be a time-consuming process to reacquire my abilities, but a necessary one that I dare not rush. Even though there's no telling when Calyx will make his next move...
+まずは、傷を癒やす魔法から練習するつもりだよ。
+負傷者の治療を手伝えるようになるから。 - カリュクスがいつまで猶予をくれるかわからないけど、
+焦らずじっくり、魔力の回復と鍛錬に努めるよ。
+
+Krile
+クルル
+Raha and Alphinaud patrol the city, while Y'shtola and Alisaie continue treating levin sickness and those injured in the attack. - I shall stay here to help coordinate efforts, so I suggest taking the opportunity to get some rest.
+ラハくんとアルフィノくんは街の状況確認、
+ヤ・シュトラとアリゼーは例の病と負傷者の治療を続けているわ。 - 私は連絡役として行き来しつつ、
+人手の足りていない仕事を手伝おうかと思って。
+あなたはしっかり身体を休めておいてね。
+

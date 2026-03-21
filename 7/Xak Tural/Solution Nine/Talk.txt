@@ -1,0 +1,319 @@
+Tassos
+タッソス
+This area's off-limits. If you're after a drink, talk to Melancholy over at the bar.
+この先は立ち入り禁止だ。
+何か飲みに来たんだったら、そこにいるメランコリーに頼め。
+
+Corinna
+コリンナ
+We pride ourselves on stocking a beverage for every occasion. Feeling lousy and lethargic? Need a quaffable cure for your ailments? Look no further. From tonics to medicines, and everything in between, we have it all!
+どんなときでも、お客様の力となる飲み物を提供いたします。
+精がつくもの、目が覚めるもの、ちょっとした薬になるもの、
+各種取り揃えていますので、どうぞお申しつけください。
+
+Saralla
+サララ
+This establishment caters to lost souls seeking their true path. As a matter of fact, the services of our fortune-teller are in rather high demand of late... I'm afraid we're completely booked for the coming months.
+ここは道に迷い、道を求める方が訪れる導きの場。
+しかしながら、我が主の占いは誰しもが求めるもの……
+予約は先々まで埋まっているので、ご了承くださいませ。
+
+Nashu Mhakaracca
+ナシュ・マカラッカ
+Detective Hardiboiled has taken the Case of the Displaced Inspector, so for the moment we wait to see what he digs up. I'm sure there'll be plenty for us to do when the clues start to pour in!
+行方不明のヒルディブランド様については、
+ひとまず、ハルディボイルドさんによる捜索を待ちましょう。
+進展があったら、またお手伝いに来てくださいね～！
+
+Erenville
+エレンヴィル
+I have reached out to a few of my childhood acquaintances, but as we suspected, only those without regulators have any recollection of mourning Queen Sphene...
+俺の昔なじみにも少しあたってみたが、
+やはりスフェーンの葬儀のことを忘れていた。
+レギュレーターを着けていないものだけが例外のようだな。
+
+Milos
+ミロス
+I heard...what happened. You weren't hurt...were you?
+お外……大変って、聞いたよ……。
+お姉ちゃん……怪我、しなかった？
+
+Isadora
+イサドラ
+After speaking with Alisaie, I asked Milos what he thought, and we decided to remove our regulators. - But then we heard the commotion outside, and...I didn't realize how vulnerable I would feel without a regulator...
+アリゼーさんのお話もあったので、
+ミロスと相談して、レギュレーターを外すことにしたんです。 - でも、その矢先に外では騒ぎが起きて……
+家で息子の世話をしていたので無事でしたけど、
+レギュレーターがない不安は、やはりありますね。
+
+Milos
+ミロス
+Come...come visit us again!
+お姉ちゃん……！
+また……お話し、してね……！
+
+Upset Citizen
+不安そうな市民
+I thought long and hard about becoming Endless, but when I saw the chaos, the horror... I knew what I had to do. I registered my neo regulator. - Now I have nothing to fear...right?
+永久人ってのになるか、ずっと悩んでたんだけどさ、
+機械兵が暴れてるのを見たら、急に不安になっちまって……。
+結局、黒いレギュレーターの利用登録をしたんだ。 - これで……
+よかったんだよな……？
+
+Nameless #1054156
+無名 #1054156
+(Balloon)
+Should I register my regulator...?
+利用登録
+どうしようかな…
+
+Disquieted Citizen
+神経質そうな市民
+I finally got my hands on a neo regulator─and then came this close to crashing into a hover cargo! - The day I become Endless can't come soon enough... I only hope I live that long.
+まったく、ヒヤヒヤしたよ……。
+せっかく黒いレギュレーターを貰えたのに、
+あやうくホバーカーゴとぶつかるところだったんだ！ - 永久人にしてもらえる「約束の日」とやらまで、
+なんとしてでも生き延びないと……！
+
+Downcast Citizen
+憂鬱そうな市民
+My neo regulator's earned me more than a few envious stares from those who don't have their own. You don't look like the covetous type, though. - Of course, I registered mine ages ago, so it's not as if I could give it away even if I wanted. But that doesn't stop the occasional person from begging...
+ごらんのとおり、あたしは黒いレギュレーターを持ってるから、
+手に入らなかった連中の視線がきつくてね……。
+あんたはそういう手合いじゃないみたいで、ホッとしたわ。 - 利用登録なんて、とっくに済ませちゃったし、
+どんなに欲しがられても譲渡できないから、本当に困りものよ。
+
+Sphene
+スフェーン
+Preservation laboratories... I shudder to think at what they were researching, but this is no time to be squeamish.
+廃棄されたプリザベーションの研究施設……。
+少し怖くもあるけど、怯んでなんかいられないよ。
+
+Krile
+クルル
+An institute on Preservation's scale would have had many such facilities in the city. Yet I cannot help but wonder if this one is where my parents worked...
+プリザベーションほどの組織なら、
+研究施設もひとつじゃないとは思うけれど……
+私の両親も働いてた場所なんじゃないかって、つい考えちゃうわ。
+
+Shale
+シェール
+I'll share the method we used to find the containment complex once we're inside. It wasn't actually all that different to the story of how we stumbled across the Backroom. 
+どうやって格納殻10-29の存在に行き着いたかは、また追々……。
+坑道でお話しした、バックルーム発見に至る秘話と、
+おおよそ同じことですよ。
+
+Gulool Ja
+グルージャ
+Shale made me her assistant! She was teaching me the basics of “data management.”
+僕もシェールを手伝ったんだ！
+簡単なデータの扱い方も教えてもらったよ。
+
+Wuk Lamat
+ウクラマト
+It sounds like Gulool Ja played a big part in this breakthrough. I'll be sure to treat him to a fine feast once this is all over!
+ここを突き止めるとき、グルージャも大活躍したらしいぜ。
+落ち着いたら、ご褒美にうめぇもんでも食いにいかなきゃな！
+
+Sphene
+スフェーン
+I wonder what Otis and Zelenia would think of my becoming the queen of Alexandria as it is now. - Doubtless they would be pleased yet, knowing them, also beset by worry. - As their memory lives on inside me, so shall I strive to rule as if they advised me still─with a calm heart, and a mind open to counsel. 
+私が今のアレクサンドリアの国王になったことを知ったら、
+オーティスやゼレニアはどんな反応をするかな……。 - きっと喜んでくれるだろうし……
+彼らのことだから、すごく心配もするんだろうな。 - でも、そんな彼らの想いは、私の中でちゃんと生きてる。
+だからひとりで無茶もしないし、周りに頼ることも忘れない……
+私は大丈夫だよって、いなくなった人たちに誇れる王でいたいんだ。
+
+Krile
+クルル
+It is time we began a thorough investigation into the key and its capabilities. I've a feeling we'll be calling on your help in that endeavor ere all is said and done... - On a personal note, I should also like to learn more of the Milalla. The lore of the forgotten people will be indispensable in furthering my research.
+今後は「鍵」についても本格的に調べなくちゃ。
+さんの力も借りることになると思うから、
+そのときは声をかけさせてもらうわね。 - それと……個人的には、
+ミララ族のことももっと知りたいと思っているの。
+忘れられた人々の伝承と合わせて、調査を進めておくわ。
+
+Y'shtola
+ヤ・シュトラ
+Calyx demonstrated knowledge of both primal summoning and concepts. Discovering such techniques through independent study would be nigh on impossible, so we must assume he had a mentor... - But how are we to learn the identity of this beneficent teacher? Hopefully some hint is to be found amongst the remnants of Preservation's works.
+カリュクスは、蛮神召喚やイデアについて知っていた。
+独学で知ったとも思えないし、
+誰かがその知識をもたらしたと考えるべきでしょうけれど……。 - さて、どうやって突き止めたものかしらね。
+プリザベーションが残した痕跡の中に、
+手がかりがあるといいのだけれど。
+
+G'raha Tia
+グ・ラハ・ティア
+We've compiled a summary of events and submitted our report to Ojika. As representatives of the Students of Baldesion, our thoughts and findings will also be shared with the Forum. - In less official matters, I am glad to see Krile find a satisfying end to her personal journey...though it appears her appetite for asking questions has only been sharpened!
+今回の件にまつわる報告書は、オジカに提出しておいたよ。
+いずれシャーレアンの哲学者議会にも、
+バルデシオン委員会の活動報告として共有されるだろう。 - オレ個人としては、
+クルルの気持ちに一区切りがついたなら何よりだ。
+……それどころか、知りたいことが増えてるみたいだけどな！
+
+Alphinaud
+アルフィノ
+I am most curious to see how Alexandria is welcomed upon the broader stage of nations. - As a heretofore unknown, technologically advanced country, I expect it will be met with considerable wariness. I shall do my humble best to ease the tension of the initial introductions.
+新生アレクサンドリア連王国が、
+これから世界の国々とどう関わっていくか……
+私も見守り続けたいと思うよ。 - 未知の国、それも高い技術力を持っているとなれば、
+最初はとても警戒されるはずだ。
+微力ながら間を取り持てるよう、私も尽力していこう。
+
+Alisaie
+アリゼー
+The Alexandrians adopted our techniques so quickly that they no longer need our supervision to treat the enthralled. - You'd be surprised at how many porxie practitioners we've trained now. Angelo, too, has been looking rather proud of his efforts!
+テンパードになってしまった人たちの治療は、
+その後も順調に続いているみたい。
+もうすっかり、アレクサンドリアの人たちだけで対応できてるわ。 - ポークシーを扱える人も、ずいぶん増えたのよ？
+アンジェロも、心なしか得意げだったわ！
+
+Krile
+クルル
+Were it not for my ties to the Source, I would not be able to treat those afflicted with levin sickness, nor potentially aid my people in other ways as well─as I very much intend to. - There are still so many questions I wish to ask Miayli about my parents, and even more I hope to learn about the rest of the family.
+トレノとの縁は、これからも大切にしていくわ。
+原初世界に根ざして生きる私だからこそ、
+あの街のためにできることだって、あるはずだもの。 - それに、叔母様には両親のことを聞かせてもらいたいし、
+ポークシーの件もあるから、近いうちにまた会いにいかないとね！
+
+G'raha Tia
+グ・ラハ・ティア
+Warm fare-thee-wells can ease the sting of partings, as we come to terms with an absence not soon forgotten. - To tell those we hold dear what they've meant to us, and to wish them the best... We should seize that chance whensoever we can.
+アリゼーたちをトライヨラで見送って、
+オレたちもトレノで送り出してもらって……。 - 旅立ちの瞬間は、別れの寂しさもたしかにあるけど、
+互いの無事を祈る、優しい想いで溢れている。
+何度味わっても、いいものだよな。
+
+Doream
+ドリアム
+I used to jump rope with my dearest friend as a child... It's nice to be able to pass that on to them. - Nice to have the memory of her, too. She's not really gone, so long as I do. - Unlike my childhood lung capacity, I suspect... But I'm tempted to give it a go anyway!
+先日、記憶返還をしてもらったら、
+亡くなった友人たちとの思い出が戻ってきたの。
+幼い頃に、縄跳びやおいかけっこをして一緒に遊んでいたわ。 - なんだか懐かしくなっちゃって、
+子どもたちにも遊び方を教えてあげたところなのよ。
+私も混ざって、おいかけっこでもしようかしら。
+
+Honey B. Lovely
+ハニー・Ｂ・ラブリー
+Hello, my obedient little bees! It's me, Honey B. Lovely, with another edition of “This'll Sting”! Today, I have something special planned for you at Mosaic! - Oh, but if it isn't my dear friend ! I'm currently doing a broadcast─why don't you join me? - Come, my dears, say hello to the unenhanced grand champion! If you'd like to see more of her, be sure to stay tuned!
+ハニー・Ｂ・ラブリーの「突き刺しちゃうぞ☆」
+今回はモザイク・コーヒーにお邪魔してるよ～！ - あれ、ちゃんじゃない！？
+いま生配信中なんだけど、せっかくだから映ってって～！ - みんな～、生身の統一王者だよ～！
+よかったら、お気に入り登録よろしくね☆
+
+Sugar Riot
+シュガーライオット
+Excuse me, I'm trying to focus! - Ah, I didn't realize it was you. I was waiting for an image to come to me, you see, that I might paint it upon the canvas before me. - Perhaps I should simply give form to the inspiration you gave me in our battle. Though I daresay a single wall will not suffice...
+いま、集中ちてるところでちゅから、
+話ちかけないでくだちゃい！ - おや、あなたでちたか……。
+チュトリートのキャンパチュに何を描くか、
+イメージが湧いてくるのを待っていたところでちゅ。 - いっそ、あなたとの試合で得たインチュピレーチョンを、
+ここに昇華させちゃいまちょうか？
+でも、それには壁一面じゃ足りなそうでちゅ。
+
+Vamp Fatale
+ヴァンプ・ファタール
+My, my, how naughty. Coming into my apartment uninvited...are you so eager to be punished? - Hahaha... I jest. The one truly in need of punishment is that impudent girl─the one called Honey B. - She's become quite full of herself, lately. Someone needs to discipline her properly. Thoroughly... And it so happens we are to match each other next. I wonder, how will the little bee scream for me...
+あら、ここがアタシの部屋だってよくわかったわね。
+もしかして、お仕置きされたくて来たの？ - ウフフ、冗談よ……。
+アタシがもっともお仕置きしたいのは、
+最近調子に乗ってる、あのＢとかいう小娘よ。 - 幸いなことに、次の試合の相手にマッチメイクされたから、
+存分に血祭りにしてあげるわ。
+アタシに言わせれば、Ｂはバカ面のＢよ。
+
+Deep Blue
+ディープブルー
+W-Well, if it ain't the unenhanced grand champion herself. We're not up to no good, if that's what you're thinking. We were just about to tour the city, as a matter of fact─with safety foremost in our minds. - Say, er, no hard feelings about the gym, I hope? It was the president who told us to wreck the place, so we could psych you up for the fight. I took no enjoyment out of it. - He'd revealed the whole truth to us earlier on, y'see, so I couldn't help but worry this lout would give the whole thing up with that big mouth of his.
+な、なんだ、生身の統一王者サマじゃねェか。
+オレたち別に悪さしてるわけじゃねェぞ、
+これからツーリングに向かうんだ、もちろん安全運転でな。 - ジムを荒らしたのも、お前を本気にさせるため、
+オーナーの指示で仕方なくやったことだ。 - オレたちはすべてを聞かされていたからよ。
+レッドホットのバカが本当のことを言っちまわないか、
+ヒヤヒヤもんだったぜ。
+
+Red Hot
+レッドホット
+What is it? We're about to head out for a street race. Keen to see how fast these modified spinners can go. - In case you're wondering, Blue came up with the idea of messing up the kitty cat's gym. He couldn't stop smiling as he smashed things. - Matter of fact, he even... Wait. I think that was all supposed to be a secret...
+お前、何の用だ？
+オレたち、これから違法改造したスピナーで、
+公道レースするところだ。 - ジムを荒らしたのは、兄者がオーナーに提案してやったこと、
+ずいぶん楽しそうだったぞ。 - あ、ここは嘘つけばよかったのか……？
+
+Friendly Fan
+物柔らかな女性
+I had faith that you would usher in a new era for the Arcadion, . And I'm thankful that you did. - Especially now that I know using a feral soul can trigger the onset of such a horrible disease. It's truly a relief that matches will now be fought between unenhanced fighters. - And what's more, I've heard those afflicted will make a full recovery and eventually return to the ring. The Arcadion's future has never been more exciting!
+さん、
+アルカディアを変革してくれてありがとう！ - まさか、魔物の力を使うことで、
+魂を蝕まれてるなんて知らなかったけど……
+生身の闘技ショーになったからもう安心ね。 - 病を患っていた闘士たちもみんな快復し、
+闘技に復帰するらしいから、これから楽しみだわ！
+
+Mild-mannered Fan
+温厚な男性
+O-Oh my, the unenhanced grand champion is speaking to me! E-Er, congratulations on your victory! - A-And, thank you for inspiring us with your feats in the ring! It truly saddens me that I will not be able to see your unfaltering figure in matches for a while. In the meantime, I hope to draw courage from watching the other fighters, who now do their best to battle unenhanced!
+わわっ、生身の統一王者がボクに声を……
+と、とにかく、おめでとう！ - そして、闘うことでボクたちに元気をくれて、ありがとう！
+キミの雄姿がしばらく見られないのは残念だけど、
+ほかの闘士たちの生身の闘いに胸が躍るよ！
+
+Haughty Fan
+高飛車な女性
+I wish to...retract my statement from earlier, when I called you a novelty. You withstood Vamp Fatale's punishment, and not many could say the same. - But I should warn you: the dominatrix has amassed a sizable fortune from her cosmetic and confectionery brands. She's one of the most influential people in the city. Try to act high and mighty now that you're grand champion, and you may not like the consequences...
+あなたのこと、イロモノと言ったこと訂正するわ。
+だって、ヴァンプ・ファタールのお仕置きに耐えたんですから、
+なかなか大したものですわ。 - でも、彼女は化粧品やお菓子のブランドで巨万の富を得た、
+この街きっての実力者でもあるの。
+統一王者だって調子に乗ってると、痛い目に遭いますわよ。
+
+Questionable Fan
+軽薄な男性
+I'll be damned, you really did change the Arcadion... Suppose I can still see muscular women duking it out, though. Plus there's the Xtremes, who'll get up to all sorts of madness as usual. - Hells, maybe shows will be even more thrilling now that everyone's fighting unenhanced. I'll give this new era of the Arcadion a chance.
+まさか、本当に変革しちゃうなんてな。
+ま、オレのお気に入りのエクストリームズは、
+魔物の魂なんかなくても過激さは変わらないだろう。 - むしろ、生身の方がスリルが増すってもんだ。
+これからも危険なトリックを見せつけてくれるに違いないぜ！
+
+Hostile Fan
+強面の男性
+Ugh, look what you've done to my precious Arcadion... <sigh> Fine, I will acknowledge that this change is for the best. It wasn't right that fighters were getting sick from using feral souls. - But just so you know, the Tyrant isn't finished with you yet. He's out there, training as hard as he can so he can beat you someday!
+ううう、俺たちのアルカディアをぶっ壊しやがって……。
+だが、魔物の魂で闘士たちが病気になっちまうなら、
+この変革を認めるしかない。 - 言っとくが、ザ・タイラントはこのままじゃ終わらないぞ。
+いつか生身であんたを負かすため、
+激しいトレーニングに打ち込んでいるはずだ……！
+
+Sensitive Fan
+線の細い男性
+Miss Honey is returning from her retirement as a fighter! With her broadcasts and concerts on top of that, it'll be hard for we fans to keep up with everything! 
+ハニー・Ｂがアルカディアに復帰するんだ！
+でも、コンサートや生配信も追わなきゃいけないから、
+ボクたちも忙しくなるな～。
+
+Intense Fan
+粗野な男性
+The Brute Bomber's back! He'll return the fire that's been missing from the Arcadion, even without a feral soul!
+ブルートボンバー復活だ！
+生身でもその暑苦しさは十分だからな、
+これからも大暴れしてくれることを期待してるぜ……！
+
+Flamboyant Fan
+派手な女性
+Hey, hey! Dancing Green's making his grand return to the ring─now the party'll never end, baby!
+生身の統一王者、ウェーイ！
+ダンシング・グリーンも復帰するから、
+もうパーティーは終わらないわ！
+
+Visionary Fan
+繊細な女性
+How will Sugar Riot choose to express the inspiration you gave her in your match? It's all I can think about.
+シュガーライオットの復帰で期待するのは、
+あなたから得たインスピレーションをどう表現するか？
+それに尽きますね。
+
+Dignified Fan
+凛とした女性
+To think the Howling Blade and other fighters were suffering from a terrible soul-ravaging disease... You have my sincere gratitude for saving them.
+ハウリングブレードも、引退した闘士たちも、
+恐ろしい病気を患っていたなんてね。
+彼らを救ってくれたあなたには感謝しかないわ。
+

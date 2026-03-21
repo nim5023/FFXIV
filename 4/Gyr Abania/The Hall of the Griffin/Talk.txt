@@ -1,0 +1,62 @@
+Raubahn
+ラウバーン
+One wrong step, and I would've lost my will to that fiend for the rest of my days. 'Tis a sobering thought...
+貴様がいてくれなければ、
+吾輩も、あやうく蛮神の虜となっていたところだ。
+感謝するぞ……。
+
+Thancred
+サンクレッド
+We encountered our fair share of enthralled outside the palace. Enough to delay us from lending you a timely hand, I'm afraid...
+王宮の外にも、かなりの数のテンパードが潜伏していてな。
+どうにか排除できたが、駆けつけるのが遅くなった。
+……すまない。
+
+Y'shtola
+ヤ・シュトラ
+I think I shall make a habit of checking for primal influence before our meetings from now on.
+私がもう少し早く、テンパードと化した闘士を、
+見破ることができていれば……。
+
+Arenvald
+アレンヴァルド
+That was unlike any battle I've ever seen. I'm not entirely sure how I survived it, to be honest.
+無我夢中で、どうやって生き残ったのか、
+いまひとつ覚えていないくらいだよ……。
+
+Alphinaud
+アルフィノ
+Lyse is certainly living up to her own ideal. Not every commander would choose to enlist a former enemy's aid in battle.
+リセは、かつての敵に助力を乞い、
+共闘することを選んだ。
+それが彼女なりの、理想への一歩ということだろう。
+
+Emmanellain
+エマネラン
+Well, well! If I'd known what a social gathering this would turn out to be, I'd have dressed for the occasion! Still, this seems the perfect opportunity to mingle with the other guests. - Would I be correct in assuming those ladies over yonder are Cirina and Sadu of the Steppe? Hmm... Perhaps I should introduce myself, though I don't much like the look of that fellow with the enormous axe.
+ヒュウ！
+これだけバラバラな連中が集まる機会は、そうないぜ？
+出発前に、いろいろ話を聞いてみるとするか。 - まずは、草原のアウラ族の……シリナさんと、サドゥさんだろ？
+……そのうしろにいるデカ斧男は、ちょっと近寄りがたいな。
+
+Sadu
+サドゥ
+I care not for the ironmen or their troubles. It is the destiny of the weak to die in ignominy. - Even so, I will do as I have agreed. I volunteered to join this band at Cirina's request, and if she thinks it a worthy cause, that is reason enough. - Though we hail from different tribes, our bond has grown strong of late. She is much better company on a hunt than any of the Steppe's oafish men could dream to be.
+帝国の連中がどうなろうが、オレの知ったことか。
+ジンドウテキシエンなんてものにも、意義を感じられない。
+生きられなけりゃ滅びる……それだけだ。 - だが、派遣団のやり方は守ってやるよ。
+納得の上で、東方連合に名を連ねたんだからな。
+何より、シリナからの頼みだ。 - オレとこいつは、今じゃ悪くない仲なんだぜ？
+最近じゃ、連れ立って狩りにいくこともある。
+どこぞのクソ男なんかより、よほど親密ってわけだ。
+
+Magnai
+マグナイ
+With the Mol─champions of the Naadam─and the Dotharl having sent so many here, I had thought to defend the Steppe in their absence. - And I would have done so were it not for my Steppe brothers. They urged me to grant our allies the Sun's might, that his radiance may deliver them unto victory. - Though I must tolerate the presence of this feral Dotharli dog, as first among my brothers, I could do no less than accept this challenge. My deeds will become the stuff of legends.
+覇者たるモル族に加え、ドタール族まで主力を供出するならば、
+余輩は草原に残り、それを護るのが役目であると考えていた。 - だが、兄弟たちに懇願されたのだ。
+余輩の威光を、集いし異邦の者らにも示してほしいと。
+それによって、新たな希望も芽吹くやもしれぬと。 - 長兄として、その切なる願いに応じぬわけにはいくまい。
+狂犬のごとき女と同行するのは遺憾だが、
+十全な活躍を、お前の目にも焼きつけるがいい。
+

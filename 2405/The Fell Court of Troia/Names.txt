@@ -1,0 +1,9 @@
+唸っている妖異 	 Feral Voidsent
+様子を窺っている妖異 	 Watchful Voidsent
+陶然としている妖異 	 Forlorn Voidsent
+怯える妖異 	 Fearful Voidsent
+トロイア城の獄吏 	 Troian Gaoler
+トロイア城の清掃係 	 Troian Manservant
+トロイア城の番犬 	 Troian Guard Dog
+トロイア城の守衛 	 Troian Doorkeeper
+トロイア城の騎士 	 Troian Knight

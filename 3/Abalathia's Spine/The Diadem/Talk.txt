@@ -1,0 +1,161 @@
+Dennia
+デニア
+The thick clouds and swirling winds have kept these isles isolated from the outside world for ages. As a result, there are creatures here like none other. - By the same token, this isolation also means the place has yet to be divested of its natural bounty. It's a veritable treasure trove of resources, as the Ishgardians have quickly discovered.
+ここ「ディアデム諸島」は、
+分厚い雲の壁によって、ほかの地域と隔絶されてきたため、
+独自の生態系が築かれています。 - また、長らく手つかずであったため、
+有用な資源が豊富に存在してもいます。
+資源採集地として、最適の場所という訳ですね。
+
+Cointiliaud
+コワンティリョー
+Of late, we see many a visiting forager using a most peculiar contraption. To be able to lay a beast low and reduce it to a heap of resources in one fell swoop... I am impressed, I must allow.
+近頃、ギャザラーたちが奇妙なツールを使っているな。
+魔物を倒して、身体の一部を資源化するとは、
+おそれいったぞ！
+
+Maunie
+モニー
+Owin' to the unstable aether, the environment of these isles can change as sudden as a gust. That's a sure recipe for aether sickness, let me tell you, and it doesn't make our work easy.
+この島はエーテルが乱れやすくてね。
+環境の急な変化も多くて、アタイらも苦労してるんだ。
+アンタもエーテル酔いに気をつけなよ。
+
+Barnabaix
+バルナベ
+Our ship, the Bounty, was torn apart by the winds of the Diadem. Though we survived the crash, others were not so fortunate...and in the days that followed, still others fell victim to the beasts which roam these isles. - At the time, we thought we might have to spend the rest of our lives here, which is why we set about constructing this camp from the wreckage. - These days, there's no shortage of travelers come to forage these isles for their resources. At the Holy See's request, we offer them the use of our outpost, that they might rest and resupply─and retreat, should they find themselves overmatched.
+俺たちは、飛空艇「バウンティ号」の元乗員だ。
+飛空艇が強風に流されて難破し、この暗礁空域に流れ着いた。 - 今でこそ、ディアデム諸島に探索に来る連中が増えたが、
+当時は、ここから抜け出す術がなかった……。
+だから、俺たちは生きていくために、必死でここを築いたのさ。 - 最近では、イシュガルドの連中に依頼され、
+「ディアデム諸島」で唯一の休憩所として運用している。
+俺たちみたいに苦労する漂流者を出さないためにな……。
+
+Lyolf
+リオルフ
+To look at the Diadem now, you wouldn't think it used to be a place of danger and death, home to fiends that haunt your very nightmares. - But the promise of riches once drew many a sky pirate and adventurer here, and here they fought a vicious horde of ufitis. Not all lived to tell the tale. - The safety that we enjoy now, we owe in no small part to those courageous souls. We must see to it that their sacrifice isn't forgotten.
+今でこそ、穏やかなディアデム諸島ですが、
+以前は、凶暴な魔物がひしめいていたんですよ。 - 往時には、富を求める空賊や冒険者たちが押しかけ、
+ウフィティの群れと、激しい戦いを繰り広げたものです。
+この墓の中には、その犠牲者たちも……。 - 現在の安全な環境は、
+彼らの尊い犠牲の上に成り立っているのです。
+私は、その事実を語り継いでいこうと思うのですよ……。
+
+Iofa
+イオファ
+Recent changes in the aether have made the Diadem considerably safer than it was before, and it now throngs with those seeking to avail themselves of its wealth of resources. Nonetheless, the only thing that is truly certain about these isles is their uncertainty, and you would do well to tread warily.
+この地は今もエーテルの変容が続いている……。
+以前より安全に資源が採集できるようになったからって、
+気を抜いちゃいけないよ。
+
+Dennia
+デニア
+The thick clouds and swirling winds have kept these isles isolated from the outside world for ages. As a result, there are creatures here like none other. - By the same token, this isolation also means the place has yet to be divested of its natural bounty. It's a veritable treasure trove of resources, as the Ishgardians have quickly discovered.
+ここ「ディアデム諸島」は、
+分厚い雲の壁によって、ほかの地域と隔絶されてきたため、
+独自の生態系が築かれています。 - また、長らく手つかずであったため、
+有用な資源が豊富に存在してもいます。
+資源採集地として、最適の場所という訳ですね。
+
+Cointiliaud
+コワンティリョー
+The aetheromatic auger is a formidable weapon, indeed. I shudder to think of the devastation it might unleash if it could be used outside these isles!
+ディアデム諸島の濃密なエーテルを、
+圧縮して打ち出すエーテルオーガー……。
+この島の外でも使えたら、最強の武器になるんだがなぁ。
+
+Maunie
+モニー
+What with the unstable aether, the weather 'round these isles can change in the blink of an eye. I just hope it cools off soon─I can almost feel the skin meltin' from my bones!
+急に環境エーテルの質が変化するのは、
+この島じゃよくあることだけど、こうも暑いとやってられないね！
+まったく、息がつまりそうだよ！
+
+Barnabaix
+バルナベ
+Our ship, the Bounty, was torn apart by the winds of the Diadem. Though we survived the crash, others were not so fortunate...and in the days that followed, still others fell victim to the beasts which roam these isles. - At the time, we thought we might have to spend the rest of our lives here, which is why we set about constructing this camp from the wreckage. - These days, there's no shortage of travelers come to forage these isles for their resources. At the Holy See's request, we offer them the use of our outpost, that they might rest and resupply─and retreat, should they find themselves overmatched.
+俺たちは、飛空艇「バウンティ号」の元乗員だ。
+飛空艇が強風に流されて難破し、この暗礁空域に流れ着いた。 - 今でこそ、ディアデム諸島に探索に来る連中が増えたが、
+当時は、ここから抜け出す術がなかった……。
+だから、俺たちは生きていくために、必死でここを築いたのさ。 - 最近では、イシュガルドの連中に依頼され、
+「ディアデム諸島」で唯一の休憩所として運用している。
+俺たちみたいに苦労する漂流者を出さないためにな……。
+
+Lyolf
+リオルフ
+To look at the Diadem now, you wouldn't think it used to be a place of danger and death, home to fiends that haunt your very nightmares. - But the promise of riches once drew many a sky pirate and adventurer here, and here they fought a vicious horde of ufitis. Not all lived to tell the tale. - The safety that we enjoy now, we owe in no small part to those courageous souls. We must see to it that their sacrifice isn't forgotten.
+今でこそ、穏やかなディアデム諸島ですが、
+以前は、凶暴な魔物がひしめいていたんですよ。 - 往時には、富を求める空賊や冒険者たちが押しかけ、
+ウフィティの群れと、激しい戦いを繰り広げたものです。
+この墓の中には、その犠牲者たちも……。 - 現在の安全な環境は、
+彼らの尊い犠牲の上に成り立っているのです。
+私は、その事実を語り継いでいこうと思うのですよ……。
+
+Iofa
+イオファ
+Recent changes in the weather patterns here have had an unexpected impact on the flora and fauna. Do take care when you go out gathering.
+エーテルの変容によるこの気候変動は、
+生態系や植生にも影響を与えているんだ。
+採集活動の際には、注意するんだね。
+
+Nameless #1033948
+無名 #1033948
+(Balloon)
+I see... You miss your fellows...
+そうか…
+お前、寂しいのか…
+
+Nameless #1033949
+無名 #1033949
+(Balloon)
+Ooh ooh... <whimper>
+ウホ…
+
+Dennia
+デニア
+The thick clouds and swirling winds have kept these isles isolated from the outside world for ages. As a result, there are creatures here like none other. - By the same token, this isolation also means the place has yet to be divested of its natural bounty. It's a veritable treasure trove of resources, as the Ishgardians have quickly discovered.
+ここ「ディアデム諸島」は、
+分厚い雲の壁によって、ほかの地域と隔絶されてきたため、
+独自の生態系が築かれています。 - また、長らく手つかずであったため、
+有用な資源が豊富に存在してもいます。
+資源採集地として、最適の場所という訳ですね。
+
+Cointiliaud
+コワンティリョー
+All the changes in the atmosphere have the auger working overtime. At this rate, though, I feel that living here in the long term is all but an impossibility.
+この島のエーテルが濃密なおかげで、オーガーが起動するが……
+こうも気候が変わっちまうんじゃ、ここで生活するのは難しいな。
+
+Maunie
+モニー
+Since when did it get so cold in these parts!? I swear I'm about to freeze to death!
+この間まで暑かったってのに、なんて寒さなんだろうね！
+まったく、凍えちまうよ！
+
+Barnabaix
+バルナベ
+Our ship, the Bounty, was torn apart by the winds of the Diadem. Though we survived the crash, others were not so fortunate...and in the days that followed, still others fell victim to the beasts which roam these isles. - At the time, we thought we might have to spend the rest of our lives here, which is why we set about constructing this camp from the wreckage. - These days, there's no shortage of travelers come to forage these isles for their resources. At the Holy See's request, we offer them the use of our outpost, that they might rest and resupply─and retreat, should they find themselves overmatched.
+俺たちは、飛空艇「バウンティ号」の元乗員だ。
+飛空艇が強風に流されて難破し、この暗礁空域に流れ着いた。 - 今でこそ、ディアデム諸島に探索に来る連中が増えたが、
+当時は、ここから抜け出す術がなかった……。
+だから、俺たちは生きていくために、必死でここを築いたのさ。 - 最近では、イシュガルドの連中に依頼され、
+「ディアデム諸島」で唯一の休憩所として運用している。
+俺たちみたいに苦労する漂流者を出さないためにな……。
+
+Lyolf
+リオルフ
+To look at the Diadem now, you wouldn't think it used to be a place of danger and death, home to fiends that haunt your very nightmares. - But the promise of riches once drew many a sky pirate and adventurer here, and here they fought a vicious horde of ufitis. Not all lived to tell the tale. - The safety that we enjoy now, we owe in no small part to those courageous souls. We must see to it that their sacrifice isn't forgotten.
+今でこそ、穏やかなディアデム諸島ですが、
+以前は、凶暴な魔物がひしめいていたんですよ。 - 往時には、富を求める空賊や冒険者たちが押しかけ、
+ウフィティの群れと、激しい戦いを繰り広げたものです。
+この墓の中には、その犠牲者たちも……。 - 現在の安全な環境は、
+彼らの尊い犠牲の上に成り立っているのです。
+私は、その事実を語り継いでいこうと思うのですよ……。
+
+Iofa
+イオファ
+Drastic changes in the weather and atmosphere have had a profound effect on the flora in this area. You'd scarcely believe some of the more bizarre specimens I've witnessed in recent days.
+エーテルの変容による気候変動は、
+植生にも大きな変化を与えています。
+こんな環境にも適応できる生態系は、まだまだ謎が多いんです！
+

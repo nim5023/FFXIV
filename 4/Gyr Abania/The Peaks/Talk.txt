@@ -1,0 +1,297 @@
+Lyse
+リセ
+Excuse me, but could I have a moment of your time?
+ねぇ、少しお話しさせてもらってもいいかな？
+
+Meffrid
+メッフリッド
+Seems to me there's less food to go around than the last time I was here...
+以前に訪れたときよりも、食糧事情が悪化しているようだ。
+
+Cynical Youth
+屈強な若者
+Eh? What's this about?
+話ってなんだい？
+
+Gelen
+ゲレン
+When the quarry stopped providin' for us we decided to build our homes in it instead. I've seen a crack or two appear in my walls lately, but I'd still put money on this house outliving me!
+アラガーナでは、昔の石切場の跡を利用して、
+こうして横穴式の住居にしているのさ。
+こう見えて、何百年モノの古株なんじゃよ。
+
+Hidden Hearth
+ヒッデン・ハース
+When my sister first went to work at Byron's Bread I had hoped she might be able to share some of their harvest with me. Alas, it does not seem like they produce much in the first place.
+姉がバイロンズブレッドに嫁いだから、
+食材を融通してもらえるかもと期待したけど……
+分けるほどの収穫はないみたい。
+
+Hodgkin
+ホッジキン
+As I'm too weak to do any hard labor, Raganfrid tasked me with managing village affairs. It's not the most enjoyable work, but then there's little enjoyable about Ala Gannha in the first place.
+俺は、ラガンフリッド村長の金勘定や、
+村の話し合いのとりまとめを手伝ってるんだ。
+もともと体が頑丈じゃないんでね……。
+
+Angry Coeurl
+アングリー・クァール
+This here's the leftovers. Dust and gravel and the like. Us too, you might say. We've shaped the Peaks, and they've shaped us in turn.
+こいつは、石を切り出したときに出た砂だ。
+昔は、こうした山が、いくつもいくつも、
+連なっていたというがね。
+
+Leueue
+リューユー
+My brother over there is on the lookout for nasty people. Not really sure what he plans to do if one does happen to appear.
+お兄ちゃんたち、村の警備の訓練ごっこをしてるの。
+でも、本当に悪い人が来たら、逃げたほうがいいと思うんだ……。
+
+Nameless #1020851
+無名 #1020851
+(Balloon)
+Get lost! They'll find me!
+見つかっちゃうだろ！
+
+Ansger
+アンスガー
+We still receive orders for stone now and then. Though they're so few in number I can more than handle them all myself.
+未だに、細々と石の注文が入ってくる。
+そんときだけ、俺たちは、石切作業をしてるんだ。
+
+Gervesin
+ゲルヴェシン
+Cooking up a tasty stew to fuel our friend quarrying over there. I'd help him by taking up a pickaxe myself, but we'd end up with more stone than we could ever sell. There just isn't that much demand for it nowadays.
+寂しい石切場だろ？
+採石場はふつう、もっと大人数で仕事をするもんだ。
+でも、男らは出て行っちまったし、発注も少ないからな。
+
+Bent Frond
+ベント・フロンド
+Oh, my poor back. I spend every waking hour working these rocky fields and for what? One of the most pathetic harvests I have ever seen.
+ああ、しんどい。
+昔から、痩せた土地に作物が実るのが不思議だったけど、
+ここに嫁いで、その本当の意味を知ったわ。
+
+Leaning Ent
+リーニング・エント
+There must be some use I can find for this pile of hay...
+俺は、戦うのが苦手でな。
+土いじりが好きだったから、ここに留まったんだが……
+腹ペコで農作業ってのも、さすがに体に堪えるよ。
+
+Eager Raptor
+イーガー・ラプター
+I do hope you haven't come looking to buy crops. 'Fraid we've nothing to sell at the moment.
+作物の買い付けか……？
+悪いが、売れるほどの収穫はないな……。
+
+Nameless #1020863
+無名 #1020863
+(Balloon)
+If the blight takes these,
+we won't last through
+the winter.
+力強く育つのよ…
+
+Nameless #1020864
+無名 #1020864
+(Balloon)
+There's more rock here
+than soil. It's a miracle
+anything grows at all.
+はぁ…石ばっかり…
+
+Pale Morning
+ペール・モーニング
+If there's something you need, I'd suggest speaking with officer Brazen Brook. Things tend to go much more smoothly when he's involved.
+おや、冒険者さん、ウチらに用かい？
+それなら、隊長のブレイゼン・ブルックに言っておくれ。
+そっちの方が、話が早いだろうからね。
+
+Nameless #1020879
+無名 #1020879
+(Balloon)
+Must keep the barrels
+free of soot, or it'll be
+our heads flying come war.
+むう、汚れがとれん
+
+Nameless #1020881
+無名 #1020881
+(Balloon)
+Thanking them? They
+should be thanking us
+for protecting their
+backwood arses!
+住民感情に注意か…
+
+Guntmar
+グントマル
+No need to be concerned of enemy movement to the north. If anything moves even an ilm out there, we'll see it.
+ここで、北側の監視をしている。
+何か動きがあれば、すぐに把握できるからな。
+
+Oggery
+オゲリー
+Have you seen any trees in need of attention? Sagging boughs? Rotting roots?
+弱っている木を見かけなかったか？
+
+Godafre
+ゴダフレ
+Anything you need? Give me a hand with my stock, and I'll see about lowering my prices. 
+何が入用だ？
+仕入れを手伝ってくれれば、融通してやるよ。
+
+Rawkin
+ローキン
+These crates are─or rather, were─filled with food. I thought it'd last longer, but it looks like we're nearly out. I pray we have enough to buy more.
+この木箱の中には、村で買った食料品なんかが入っていた。
+しかし、いくら調べても、もうほとんどが空だ。
+また買い付けねばならんが、その分のギルすら残り少なくてな……。
+
+Nameless #1020897
+無名 #1020897
+(Balloon)
+Papin, darling. Would you
+mind fetching your ma
+a skin of water?
+この子のために、
+私が頑張らなくちゃ…
+
+Nameless #1020898
+無名 #1020898
+(Balloon)
+They say the Bull tilled
+this very soil by dragging
+a ten-tonze boulder he
+broke from Mount Yorn.
+畑仕事は堪えるのう…
+
+Baynard
+ベイナード
+I suppose I could try dragging this stone along the ground if no one comes to help me...
+応援は、まだか……。
+ひとりじゃ、この石の山を運べそうもない……。
+
+Ansehelm
+アンスヘルム
+I've not even done much today and I'm already knackered. Some days this village just saps the life out of me.
+はあ～大した仕事でもないのに、
+まともに食ってないせいか、すぐに疲れるな……。
+
+Nameless #1021539
+無名 #1021539
+(Balloon)
+A bucketful of naught,
+this here is.
+これもダメか…
+
+Gerbert
+ゲルベルト
+Ah, the old joints aren't what they used to be. I can hardly believe I used to go up and down these slopes with ponzes of stone in hand.
+そろそろ、坂の登り降りがきつくなったと話していたんだ。
+昔は、石を運びながらでも、楽々だったというのにの。
+
+Nameless #1021545
+無名 #1021545
+(Balloon)
+Now where in the seven
+hells did he go?
+あいつ…
+どこいった？
+
+Nameless #1021547
+無名 #1021547
+(Balloon)
+I suppose I could go back
+to work... I also suppose I
+could slay young Zenos in
+a duel.
+やる気が出ないな
+
+Hruodiger
+フロディガー
+Aye, this one can't fail! I can feel my purse growing heavier already...
+ククク……。
+新しい金儲けの方法を思いついた……。
+
+Dob
+ドッブ
+There are broken warmachina all over the place if you know where to look. Someone should probably salvage them...
+壊れた魔導兵器を集めようぜ。
+いろいろ役立ちそうだ。
+
+J'nairoh
+ジャ・ナイロ
+You'll find there are quite a number of taverns and inns here in Ala Ghiri. After all, this was originally a trading hub. The Garleans saw little need for trade, however, and used our village only for drink and debauchery. Good riddance, I say.
+アラギリはもともと宿場街だったから、酒場や宿屋が多いのよ。
+帝国占領下でも、帝国兵相手の歓楽街として生き残ってきたわ。
+私の店のサービス……気になる？
+
+Nameless #1021588
+無名 #1021588
+(Balloon)
+Pass me that arak, friend!
+My bottle is mysteriously
+empty. Hah hah hah!
+このアラック、うめえ！
+
+Nameless #1021596
+無名 #1021596
+(Balloon)
+Wait...
+But that would mean─
+喜んでいいのかしら…
+
+Rahu
+ラフ
+It's not easy keeping watch out here with only Guntmar to keep me company. But if we don't do it, I'm afraid no one else will.
+ここでの監視は、過酷だけど……
+誰かがやらなきゃいけないからな。
+
+Nameless #1022393
+無名 #1022393
+(Balloon)
+Can they really be
+the Fist of Rhalgr?
+あいつら
+星導教…なのか？
+
+Nameless #1022395
+無名 #1022395
+(Balloon)
+That technique...
+It couldn't be!
+あの技…まさか！
+
+Nameless #1022969
+無名 #1022969
+(Balloon)
+Iffin I find either o' yous
+dockin' the dells o' any
+o' these here maids, I'll
+cut ye neck to crotch.
+まだまだ気は抜けんな
+
+Nameless #1022972
+無名 #1022972
+(Balloon)
+A fine spear, she is.
+I cannot rightly say I've
+e'er seen finer.
+槍に異常なしっと
+
+Nameless #1022975
+無名 #1022975
+(Balloon)
+Biggest crystal east of
+the Velodyna, you say?
+I've seen bigger.
+あれが流星の天蓋…
+
+Wiscar
+ウィスカー
+I'll continue to serve as a proud member of the Resistance! Though, now that I say it...if there's nothing left to resist, does it make any sense to go on calling ourselves the Resistance?
+心機一転、アラミゴ解放軍で頑張るつもりさ！
+

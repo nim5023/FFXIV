@@ -1,0 +1,289 @@
+Hellanikos
+ヘラニコス
+And who might you be? A lost familiar, perhaps?
+...Oh, I do wish you wouldn't stare. Does it surprise you to see someone whose visage remains unshrouded?
+君は……誰かの使い魔か？
+そんなにまじまじと顔を見られると、少々恥ずかしいよ。
+ここの子にとっては、仮面をしていないのが珍しいかい？
+
+Solon
+ソロン
+My friend's supposed to pay me a visit, but there's still no sign of them. Perhaps they're too absorbed in their research...
+友人が外から訪ねてくるはずなんだが、なかなか来なくてね。
+研究に夢中になっているのかな。
+
+Demokritos
+デモクリトス
+Those researchers are from the Akadaemia Anyder's Words of Halmarut, here to observe the state of the local flora. - I wish they would give equal attention to the ambient environment─specifically, how much noise they are adding to it with their little debate!
+彼らはアナイダ・アカデミアの、
+ハルマルト院に所属する研究員だ。
+ここで観察中の植物の、育成状況を見に来られてね。 - ただ、帰られる間際に、
+エルピスの環境に関する議論を始めてしまって……。
+まいったなぁ。
+
+Xouthos
+クストス
+Losing myself in thought or a fascinating tome is how I set my mind to rights. How do you revive your flagging spirits?
+思索に耽るのも、読書に没頭するのも、
+自分が息抜きできていれば、それが休息さ。
+キミがもっとも心休まる休息は、どんなものだい？
+
+Perimede
+ペリメネ
+See how the aether of Lethe returns to the star as it rains down from above. Naught is wasted.
+レーテー海に溶け込んだエーテルは、
+こうやって地上に降り注いで、世界へと還っていくのよ。
+この世界に無駄なものなんて、なにひとつないの。
+
+Nameless #1037930
+無名 #1037930
+(Balloon)
+Just a few samples ought to suffice, I should imagine.
+少し摘んでいこうかな
+
+Nameless #1037932
+無名 #1037932
+(Balloon)
+Rest is vital for one's efficiency, you know?
+休息も仕事のうちってね
+
+Sappho
+サッフォ
+I rest but do not sleep,
+When you are far away,
+Softer a dream-island,
+Than our children find in Lethe.
+はぁ……心地よくって眠たくなっちゃうわねぇ……。
+創造魔法を使う上で、たっぷり寝て頭を休めることは、
+とっても大事なことなのよ、ふあぁ……。
+
+Menandros
+メナンドロス
+I love my work, yet at times such as this, the mind wanders... Where might I go, what monuments to man's ingenuity might I see, had I only the time to spare?
+エルピスでの仕事も充実しているが、
+こうして休息する合間に、外に思いを馳せて……
+次の休暇にどの都市を旅しようか考えるのも、乙なものだよ。
+
+Nameless #1037938
+無名 #1037938
+(Balloon)
+Shhh! Step softly, will you? You will wake them.
+シー…静かに
+寝かせてあげておくれ
+
+Zeuxis
+ゼウクシス
+What shall we do next, my little ones? A spot of sunbathing, perhaps?
+よしよし、みんないい子だね。
+あの子の水浴びが終わったら、日光浴をしようか。
+
+Eukleides
+エウクレイデス
+There is never a dull moment with the oreiai. Their fondness of minerals makes them highly unique, and I daresay they will be no less popular!
+オレイアスの観察は、いくつも発見があって楽しいよ。
+鉱物を好む生物は珍しいけど、これから人気が出るかもなぁ。
+
+Nameless #1037943
+無名 #1037943
+(Balloon)
+There, there. All is well. You've nothing to fear.
+よしよし、いい子ですね
+
+Paramonos
+パラモノス
+Observing voracious predators and the like is an incredibly dangerous occupation, which is precisely why I keep my distance, and leave the rest to you familiars. After all, I am far too important to risk my neck gathering dung samples and the like.
+観察中の生物は、強さも特性もまちまちじゃ。
+むやみやたらと戦いを挑んで、返り討ちにあわぬよう、
+きちんと見極めるんじゃぞ。
+
+Kallias
+カリアス
+So much to do, so much bother involved in getting it done! I could have a familiar perform my duties instead, but even creating one in the first place is far more effort than I'm willing to expend.
+ああ！　もう忙しい～！
+使い魔の手も借りたいところだけど、
+自分で創るのは苦手なんだよね……。
+
+Nameless #1037951
+無名 #1037951
+(Balloon)
+...Well, this stinks.
+…困ったねぇ
+
+Eurydome
+エウリドメ
+Extraordinary... It's not every day I see such a charming familiar. Why, I'd much rather observe a pretty little thing like you than all those brutish creatures everyone insists on making!
+あらあら、まぁまぁ。
+あなたみたいな、個性的で可愛らしい使い魔が出歩いていると、
+観察させてほしいって勧誘されちゃうわよぉ？
+
+Pheidias
+ペイディアス
+For a familiar, you appear quite inquisitive. Perhaps you were created to learn? Well, if there is anything you wish to know, I would be glad to explain.
+君はずいぶんと利発そうだけど、
+もしかして学習が目的の使い魔なのかな？
+気になることがあるなら、なんでも教えてあげるよ！
+
+Nameless #1037960
+無名 #1037960
+(Balloon)
+This would make a fine location for the rearing of aquatic creatures.
+新しい水棲生物
+ここで飼育しようかしら
+
+Nameless #1037961
+無名 #1037961
+(Balloon)
+You overexert yourself, and your health will suffer for it. Rest, I beg you.
+ちょっと働きすぎじゃないか？
+少し休まないと
+
+Blaste
+ブラステ
+My role here? I specialize in the observation of flora. Some of the larger species, such as trees and so forth, continue to grow over the course of many centuries, which requires a great deal of patience on my part. Thankfully, I'm quite content to spend my days in these idyllic surrounds.
+私の観察対象は植物で、
+とりわけ樹木は、観察に数十年の時間を要します。
+焦らず気長に、が仕事を続けるコツですね。
+
+Hippothoe
+ヒポトエー
+I have so enjoyed the time I've spent with the ailouroi... If only all of our creations were so sweet.
+今日も元気に、アイルーロスちゃん観察のお仕事！
+面白い生物の観察はやりがいがあるよー！
+
+Gryllos
+グリュロス
+Perhaps I shall petition for “incorrigible” to be added to the list of this concept's innate traits...
+今回の研究対象は実に興味深いよ……。
+こんなに手を焼かされるのは初めてだ。
+
+Nameless #1037973
+無名 #1037973
+(Balloon)
+You did marvelously in your flight training today. Very well done indeed!
+今日の飛行訓練は終わり
+よくがんばったな！
+
+Nameless #1037974
+無名 #1037974
+(Balloon)
+Given its body weight and the effort it requires to remain aloft, I would say this creature can fly for... 
+体重、羽ばたきの消耗度から
+連続飛空時間を算出して…
+
+Chloris
+クロリス
+Surrounded by such wonders, one cannot help but envision new concepts... Not all of them good, mind you.
+エルピスの職員は、観察の仕事をしているうちに、
+創造生物の着想を得ることが多いから……
+自分の創造したイデアを登録している人も多いのよ。
+
+Alkmene
+アルクメネ
+I am observing concepts that specialize in illusions, of course. Can't you tell?
+あら、君には見えないかしら？
+今はね、自身に幻影を投影する生物の観察をしているのよ。
+
+Oloros
+オロロス
+So many fascinating creations frolicking about, yet here I am trapped with these climate records. If I don't receive a more stimulating assignment soon, my mind is like to crumble to dust.
+過去のエーテル濃度に関する文献を調べているんだ。
+十二節の園は、エルピスの環境エーテルを整える要なんだよ。
+
+Deukalion
+デウカリオン
+...Hm. Have you seen me eat anything today? Between my observational work and my writing, I've been so busy that I cannot quite recall if I did.
+俺はここで観察者の仕事をしながら、空いた時間に、
+水中植物の創造に関する論文を執筆しているんだ。
+敬愛するハルマルト様に、一度読んでいただきたくてな。
+
+Nameless #1037986
+無名 #1037986
+(Balloon)
+Neigh...!
+ピヒーン！
+
+Lampito
+ラムピト
+It is finally time to test our creation's capability for flight. We mean to start from a modest height in case there are any unintended...mishaps.
+これから、この子の飛翔能力を試すのよ。
+まずは低いところから、安全にね。
+
+Euaion
+エウアイオン
+Oh, hello there. I haven't seen you before. Did someone create you just recently?
+やあ、どうも。
+あんまり見かけない顔だけど、
+誰かが最近創った使い魔なのかな？
+
+Epiphron
+エピフロン
+Fascinating. Yes, simply fascinating. You don't often see a familiar show such interest in someone other than its master.
+主人がいるだろうに僕のことまで気にかけてくれて、
+君は優しい使い魔だね。
+
+Glaukon
+グラウコン
+Are you quite all right? Even for a mere familiar, you appear to be suffering from a most distressing dearth of aether. Do let me know if you require help, yes?
+使い魔とはいえ、そこまでエーテルが薄いと、
+ここでやっていくのは大変じゃないかい？
+辛かったらいつでも言うんだよ。
+
+Nameless #1037995
+無名 #1037995
+(Balloon)
+Maybe you do, too. Would explain why it's taken such a liking to you.
+君のこと
+気に入っちゃったみたいだね
+
+Rhodopis
+ロドピス
+Well, aren't you a doughty familiar. I'm not one for fighting myself, but if I had one such as you at my side, I would no doubt feel a great deal safer.
+君は立派な使い魔だねえ。
+わたしは、戦いが得意ではないから、
+君みたいな使い魔がひとりいてくれると助かるんだけどなぁ。
+
+Glaphyra
+グラフィラ
+I consider it essential to exchange ideas with my colleagues regarding my observation work. Without such external stimulation, one has a tendency to lose the forest for the trees, so to speak.
+自分の担当している生物の観察方針について、
+他の職員たちに意見を聞くことは、とても大事なのよ。
+ひとりの考えでは偏りが生じてしまう可能性があるから。
+
+Melanippe
+メラニッペ
+I always feel much better after taking a short respite to converse and debate with my associates.
+仕事の合間に同僚とここで語らうのが、
+いいリフレッシュになるの。
+
+Telamon
+テラモーン
+Those fish that swim up waterfalls─mayhap they would be able to climb more efficiently if we slimmed down their bodies to reduce friction.
+あの滝を登れる魚を……
+そうだな、身体を細長くして抵抗を減らせば……。
+
+Meleagros
+メレアグロス
+I am a taxonomist, an artist in the medium of names. It is my job to adorn the flora and fauna of Etheirys─such as these creatures you see here─with names befitting their natural beauty.
+アーテリスを美しい名前で彩るために……
+私は「造名者」という役割を担っている。
+いまは、この子たちの名前を考えているんだ。
+
+Perikles
+ペリクレス
+What was on the agenda for today? There was observing the abyssus here, and after that...
+ええと、今日の観察予定は、っと。
+アブッソスの詳細観察と、それから……。
+
+Erinna
+エーリンナ
+Registrations for amphibious creatures have come to dominate of late, but felines remain as popular as ever.
+最近は、水陸両棲の生物人気に押されているけれど、
+猫科の生物は、イデア登録の人気が安定して高いのよ。
+
+Propylaion Guide
+プロピュライオンの案内人
+...Pardon? Why, yes, this is Propylaion. I know not where it is you intend to go from here, but might I suggest waiting for your master?
+こちらはエルピスの玄関口であるプロピュライオンです。
+ほかの都市へ向かう場合もここからのご案内となりますが、
+使い魔であるならば、主人を待った方がよいのではありませんか？
+

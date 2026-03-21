@@ -1,0 +1,59 @@
+Nameless #1033022
+無名 #1033022
+(Balloon)
+If you need supplies, you'll have to speak with Bajsaljen.
+勝手な持ち出しは禁止だ
+
+Nameless #1033027
+無名 #1033027
+(Balloon)
+You call those squats? I want to see your arse kiss the floor!
+鍛錬あるのみ！
+
+Nameless #1033031
+無名 #1033031
+(Balloon)
+How far can we stretch this, I wonder...
+この材料だと…
+
+Nameless #1033263
+無名 #1033263
+(Balloon)
+Nothing but empty sea.
+怪しい船影は見えないな！
+
+Sjeros
+セロウシュ
+I believe it goes without saying our operation would falter if not for your aid. I pray you stay safe out there, Blade . The Resistance is counting on you.
+この戦いに勝利するには、解放者殿の御力が不可欠でございます。
+我らレジスタンスも持てるすべての力で攻め込む所存ですので、
+どうか、ご助力を！
+
+Resistance Supplier
+レジスタンスの整備兵
+We have learned much from the enemy supplies and accoutrements we recovered from the southern front. Indeed, we have already begun to incorporate this newfound knowledge into new arms for the Resistance.
+敵の装備なども回収、分析をして、
+味方側の武具に技術転用できないかと考えておるのです。
+なんとか実現させようと、苦心しておりますよ。
+
+Allagan Node
+追憶システム
+Please insert weapon for─ <blip> unbeatable prices at Rowena's House of Splendors!
+ピピ……入力データ、確認中……。
+レジスタンス・ウェポン、ボズヤ、覗覚石……
+……ロウェナ商会、オカイドク情報……ピー。
+
+Resistance Appraiser
+レジスタンスの鑑定係
+The forgotten fragments are indeed a remarkable find. With a little more research, we may yet find a way to employ them in battle as did the queen's guard.
+かつて女王に仕える衛士が用いていた、
+特殊なシャードが、現存していることが判明しました。
+これを戦場で活用できないか調べているのですよ。
+
+Sladkey
+スラッドキー
+Though the IVth Imperial Legion are our hated enemies, I am curious to know more of the esoteric knowledge they possess. Perhaps I will have a chance to study it further...
+第IV軍団は恐るべき敵ばかりでしたね……。
+聖石片により変異した存在などもいたらしく、興味は尽きません。
+いずれ研究の機会もあるかと、記録にまとめているのです。
+

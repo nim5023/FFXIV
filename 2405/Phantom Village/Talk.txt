@@ -1,0 +1,25 @@
+Expedition Escort
+探査隊の護衛
+Even the journey to the encampment is fraught with dangers─hence my insistence on traveling in groups for protection!
+ベースキャンプまでの移動中も安全とはかぎらないからね。
+前線に出るときは、皆で一緒に行くよ！
+
+Expedition Metallurgist
+探査隊の資材加工係
+Space on board the ship was scarce, so I only brought the bare minimum of tools and equipment. Everything else I can simply craft out here in the field as the need arises!
+探査ではどんな道具が必要になるかわからねぇが、
+かと言って、なんでもかんでも船に積み込むわけにもいかねぇ。
+だから、必要に応じてイチから作ってみせるのさ。
+
+Expedition Medic
+探査隊の衛生係
+For all we know, the isle may be harboring diseases unknown to medical science. If you find yourself suffering from any untoward symptoms, let me know immediately!
+島内には未知の病原菌が存在している可能性もある。
+不審な症状を確認したら、すぐに報せて！
+
+Brigid
+ブリギッド
+As an aetheric artisan, I am curious to see what the weaponsmith achieves with my gifts─thus I shall remain a while longer, despite no longer being bound by our pact!
+同じ匠として、こやつが編み出す技術に興味があるのでナ。
+汝との契約は完了したが、まだしばらくはおる余！
+

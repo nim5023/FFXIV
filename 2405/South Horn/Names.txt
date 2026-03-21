@@ -1,0 +1,3 @@
+探査隊の護衛 	 Expedition Escort
+探査隊の戦闘要員 	 Expedition Lancer
+探査隊の園芸師 	 Expedition Botanist

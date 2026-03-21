@@ -1,0 +1,369 @@
+Nameless #1037283
+無名 #1037283
+(Balloon)
+See here? This cannot be right. We'll have to start again.
+この結果はおかしい
+観測し直すべきだ
+
+Nameless #1037490
+無名 #1037490
+(Balloon)
+Goodness me, where to start?
+どれから運ぼうかしら…
+
+Nameless #1037496
+無名 #1037496
+(Balloon)
+And all this is meant for...ah yes, Sharlayan Hamlet.
+これは全部
+リトルシャーレアン行きね
+
+Nameless #1037507
+無名 #1037507
+(Balloon)
+These conditions are excellent, so they should keep a great while.
+保存状態は問題なしっと
+
+Nameless #1037512
+無名 #1037512
+(Balloon)
+Gesticulate at me all you like, but that specimen is in need of another test.
+あのサンプル
+再点検した方がいいわ
+
+Nameless #1037525
+無名 #1037525
+(Balloon)
+Why, just look at them. They'll grow up big and strong soon enough!
+よしよし
+順調に育ってるわね
+
+Nameless #1037568
+無名 #1037568
+(Balloon)
+One must always be learning, even during periods of rest.
+休みの間も
+知識を蓄えねば…
+
+Nameless #1037571
+無名 #1037571
+(Balloon)
+You call these documents research?
+They're not even worth wiping the privy floor with!
+もっと資料がほしい…
+
+Nameless #1037574
+無名 #1037574
+(Balloon)
+I've not heard a thing about when the blasted research is due! You?
+納期のこと
+君は何か聞いてるかい？
+
+Nameless #1037612
+無名 #1037612
+(Balloon)
+All appears very much in order here, I would say.
+ふむ…
+問題ないようだな
+
+Nameless #1037614
+無名 #1037614
+(Balloon)
+Check it again, would you? We cannot be too careful. 
+異常がないか
+もう一度、確認してくれ
+
+Alphinaud
+アルフィノ
+Excuse me, are you a gleaner? If you don't mind, I have some questions to ask...
+突然すまない、君はグリーナーだね？
+少し話を聞かせてほしいのだが……。
+
+Alisaie
+アリゼー
+...Hmmm, fascinating, but could we go back to what you were saying earlier?
+ええと、それはもういいから……
+さっきのところ、もっと詳しく聞かせてもらえない？
+
+Y'shtola
+ヤ・シュトラ
+Nay, I am not shirking my duties. I've not been down here in an age, and wished to get my bearings before I went bumbling about. - From what I can see, however, there is naught obviously out of place. It seems we shall have to resort to discreet inquiries, as usual.
+あら、サボっているわけではなくてよ？
+ここに来るのはとても久々だったから、
+思い出しがてら様子を見ていたの。 - ここから見える範囲には、これといっておかしなところはなし。
+やはり、地道に人から話を聞いていくしかなさそうね。
+
+Alisaie
+アリゼー
+I wonder what this place is actually for...
+ここには、私も初めて入ったわ。
+見慣れない装置ばかりだけど、何をしてるのかしら……？
+
+Thancred
+サンクレッド
+Knowing the Forum, even the people working down here are probably kept in the dark about the true purpose of this place...
+今は周知の事実だと思うが、ここに勤めている奴は、
+どれだけ哲学者議会の真の目的を知っていたんだろうな。
+
+Y'shtola
+ヤ・シュトラ
+The further underground we go, the more surprises we find.
+昇降機……予想どおりね……。
+向かうはラヴィリンソスの下層か……。
+
+Urianger
+ウリエンジェ
+On our journey here, I was filled with an inexplicable sense of elation to see vegetables other than carrots being cultivated. Why, it near brought a tear to mine eye...
+メリオール実験農場を通る際に、しみじみと感じました。
+ニンジン以外の、生きた農作物を見るのは久々だと……。
+
+G'raha Tia
+グ・ラハ・ティア
+We must be close to the Central Circuit, which is where Sharlayan's greatest secrets are held...if the tomes I perused told the whole story.
+この先に行くことになるのか……！？
+シャーレアンの最高機密が存在するといわれている、
+禁断の「セントラルサーキット」に……！？
+
+Estinien
+エスティニアン
+The fields we passed along the way brought back memories...of Ferndale. Unfortunately, we were never blessed with such abundant crops.
+途中の施設に、ずいぶん呑気な畑があったな。
+あんなに豊かに実っちゃいなかったが、ファーンデールにも……
+故郷の村にも、あんな畑があったのさ。
+
+Krile
+クルル
+Oh, there you are. Having words with Master Fourchenault, by any chance?
+ああ、来た来た。
+あなたとフルシュノさんが最後だったと思うけれど、
+何か話をしたりした……？
+
+Hester
+ヘスター
+This lift will escort passengers to the Central Circuit, but only those permitted access by the Forum. 
+この昇降機はセントラルサーキットに向かうためのものだ。
+哲学者議会の許可なき者を通すわけにはいかない。
+
+Nameless #1039744
+無名 #1039744
+(Balloon)
+The density, however...
+その点については
+悩んでいるんだ…
+
+Nameless #1039746
+無名 #1039746
+(Balloon)
+When you put it that way...
+そういう考え方を
+すればいいのか…
+
+Nameless #1039749
+無名 #1039749
+(Balloon)
+Will so much dust not cause respiratory problems?
+どうしても心配で…
+
+Alpha
+アルファ
+Kweh! Kweh, kweh! - Alpha appears to be trying to cheer you on.
+クエッ、クエクエ、クーエッ！ - アルファは、応援してくれているようだ。
+
+Omega
+オメガ
+<blip> <bloop> - The miniature model of Omega appears to be staring intently at the ark.
+ガガガ……。 - 玩具のオメガは、宇宙へと向かう船を、じっと見つめている。
+
+Nameless #1040367
+無名 #1040367
+(Balloon)
+It's fine to admit you're scared, you know?
+思い切って
+変えたらどうかな？
+
+Nameless #1040369
+無名 #1040369
+(Balloon)
+In the long run, however, most of you won't die!
+ダメダメ！
+全体を見てみるとね…
+
+Nameless #1040370
+無名 #1040370
+(Balloon)
+That estimate seems accurate to me...
+大丈夫よ！
+私の計算でも…
+
+Nameless #1040445
+無名 #1040445
+(Balloon)
+<squeal> <squeal>
+ガウ…ガウ…
+
+Clarilaine
+クラリレーン
+Beyond lies the very heart of Labyrinthos. Only those sanctioned to enter may do so.
+この先はラヴィリンソスの最深部となります。
+特別な許可がない限り、お通しすることはできません。
+
+Nameless #1041027
+無名 #1041027
+(Balloon)
+Careful there! What you carry is incredibly fragile.
+ワレモノだから
+注意して運んでくれよ
+
+Nameless #1041030
+無名 #1041030
+(Balloon)
+The numbers you gave me aren't adding up. Are you sure you counted correctly?
+数が合わないぞ
+ちゃんと確認したのか？
+
+Nameless #1041033
+無名 #1041033
+(Balloon)
+If you spot any nasty-looking vilekin, come straight to me, understand?
+害虫を見つけたら
+報せてくれよー
+
+Nameless #1041038
+無名 #1041038
+(Balloon)
+All right, I'd say I've earned myself a quick rest!
+ふう
+ひとやすみと…
+
+Nameless #1041106
+無名 #1041106
+(Balloon)
+Don't you even think of fertilizing that!
+今度は何を植える気だ！？
+
+Nameless #1041107
+無名 #1041107
+(Balloon)
+But my magnum opus!
+僕の最高傑作だ！！
+
+Fourchenault
+フルシュノ
+I did not expect to see you returned so soon. Pray take whatever time you need to see your mission through. - We have been unable to track the Ragnarok after the hyperhopper was engaged, but know that we all are praying for the Scions' safe return.
+一時帰還したのだな。
+焦ることはない、慎重に行動を進めなさい。 - 跳躍航行をしたあとは、
+こちらからラグナロクの状態が観測できなくなる。
+君たちの無事の帰還を、ただ願って待とう……！
+
+Claudien
+クローディエン
+Would that we too could hear the words of the crystal and see the memories stored within... Our research would progress by leaps and bounds! - Alas, sometimes the greatest discoveries are made under the most severe restrictions. We shall redouble our research efforts and be not perturbed by the obstacles we face.
+この目で、この耳で、「記憶」の警告を感じ取れれば、
+クリスタルの調査も一気に進展するのですが……。 - 今は、ないものねだりをしていても仕方ありません。
+望む結果に至るまで、調べて調べて、調べ尽くすのみです。
+今は私たちに調査を任せて、どうか休息を。
+
+Claudien
+クローディエン
+Pray journey to the past and ascertain the severity of the threat. Keep the crystal for now─until we can find a way to listen to its messages, it will do more good in your hands than ours. 
+どうか、「第一世界」を経由して、過去へと赴き、
+パンデモニウムに迫る危機を突き止めてください。
+クリスタルも、今は貴方がお持ちになったほうがいいでしょう。
+
+Nemjiji
+ネムジジ
+From this moment on, our objective shall be to fill every cranny of this place with crystals! Surely the gleaners won't mind braving a few haunted battlefields─for the right price.
+取り寄せられるかぎりのソウルクリスタルを収集しましょう。
+そして私の推測によれば、グリーナーに依頼することで、
+特定の戦場からシャードを回収することも可能なはずです。
+
+Ruissenaud
+ルイスノ
+For Professor Claudien, I would burn the candle on both ends! Or rather, I will! First, I must find the historical documents he requested. And then...? Hmm... What was I meant to do again? 
+ぼくもクローディエン先生のお手伝いに励みます！
+最初に、必要そうな史料を選定して、えっとそれから……。
+
+Fourchenault
+フルシュノ
+Oh, 'tis you. Rest assured all is well here. Slowly but surely, we work to restore normalcy in the wake of the exodus. There is much to be done─to discuss and decide─but it is a labor to cherish, afforded us by your victory. - Once again, permit me to express my gratitude for your valorous deeds. Not only as a member of the Forum, but simply as a parent. - As much as they have grown and proven themselves, I ask that you continue watching over my children. See that they do not engage in anything needlessly reckless─I fear my heart cannot take much more...
+君か……こちらのことは心配無用だ。
+大撤収の後処理は、つつがなく進行している。
+話し合うべきことは多いが、それも未来を得たがゆえだ。 - ウルティマ・トゥーレにおける君の奮戦……
+それによって、最後に勝利を掴めたこと……改めて感謝したい。
+哲学者議会の一員としても、ひとりの親としてもだ。 - これからも、うちの子どもたちのことを……いや……
+連れ出すのはいいが、もう少し手心を加えてくれ。
+私の心臓がもつようにな……。
+
+Thancred
+サンクレッド
+Ah, fancy meeting you here. Come to look in on the starship, have you? - I must say, it already feels like an age ago that we enhanced the vessel's aetherburner and then rode it forth unto the great unknown. - Sometimes, I find myself gazing up at the starry sky, wondering if it was all just a dream. Once behind you, even the grandest adventures become but a memory...
+こんなところで会うとはな。
+魔導船のことが気になって見にきたのか？ - 世界中から集められた材料でエーテル縮退炉を改良したことも、
+それを搭載して天の果てに向かったことも、
+つい最近のはずなのに、ずいぶん遠いことのように思える。 - 夜、なんとはなしに星空を見上げては、
+本当にあそこにいたのかと、不思議な気分になるくらいだ。
+命を懸けた旅でも、過ぎてみれば思い出のひとつ……かもな。
+
+Urianger
+ウリエンジェ
+Well, well... I know not what errand bringeth thee hither, but thine is ever a welcome presence. - There being no inherent urgency to begin our wanderings, Thancred and I did decide to first see how fareth the discussions between the Forum and the Loporrits and, should it be necessary, lend our aid. - In exploring the uses of the moon and ventures beyond the star, soon or late, other parties will inevitably seek to be involved. We must needs ensure that the tendrils of dark designs are not permitted to wend their way into this endeavor.
+おや……？
+あなたもこちらにご用事でしたか。
+私たちの方は、こうしてリヴィングウェイに再会できました。 - サンクレッド共々、急ぐ旅でもなし……
+哲学者議会やレポリットに困りごとがあるのならば、
+このまま手を貸すのも悪くないと話しておりました。 - 月の活用や、宇宙進出については、
+いずれシャーレアンに留まらず、世界規模で議論されましょう。
+そこに、悪しき思惑が忍び寄らないともかぎりませんので……。
+
+Livingway
+リヴィングウェイ
+If it isn't ! How have you been feeling? No dizziness or nausea or some ailment or other after the journey? In particular, if you're having hallucinations, it may mean that an alien life-form has taken over your brain, and invasive surgery will be required to remove it. - ...That was a jest. Did you like it? Urianger says it's useful for building rapport with you people. - Anyway, you may have heard that I'll be staying on Etheirys for a while. We're exploring all sorts of ways to make use of the moon, which means we're going to need to establish regular flights there and back!
+さん、ごきげんよう！
+その後、宇宙の旅の後遺症はでていませんか？
+幻覚や幻聴には要注意、異星人に脳を支配されているかも……！ - などと冗談を交えるといいと、ウリエンジェが言っていました。
+よりいっそうヒトと親睦を深めていくために、
+バシバシ使っていきたいと思いますわ！ - わたくしは、しばしアーテリスに残り、
+今後の月の活用について、相談をしていくつもりです。
+まず手始めに、目指せ、月と地上の定期便開通ですわ！
+
+Ruissenaud
+ルイスノ
+The appearance of Pandæmonium has sent ripples throughout the aetherial sea, which have been observed as far off as Thaumazein. - Though access to the Aitiascope has been temporarily restricted while the researchers go about their business, I'm sure exceptions can be made for one such as you.
+パンデモニウム出現により、
+星海に淀みのようなものが生じているとか。
+タウマゼインからでも観測できるようです……。 - さんなら問題ないと思いますが、
+アイティオン星晶鏡も、立ち入りが禁止されました。
+現在は、調査隊が慎重に観測を行っているそうですよ。
+
+Roaring Spring
+ローリング・スプリング
+...Oh! Hello, . Our lab cats are still in fine and fluffy form, thanks to you. ...Research? O-Oh, yes, it's proceeding apace as well. - Marcette proposed that, in ancient times, levitational magicks were woven into the very essence of various life-forms, thus allowing for the latent ability to be passed down through generations and survive into the present day. - Having witnessed incidents of impromptu flight myself, her theory certainly feels credible. These flight-gifted organisms simply rise from the ground as though, by will alone, they can free themselves from the constraints of natural law... Fascinating, really.
+ああ、どうもこんにちは！
+おかげさまで猫さんたちは今日もご機嫌でいい香り……
+マルセット氏と進めている研究も順調だよ。 - 彼女が唱える「古代レビテト因子要因説」というのはね、
+古の時代、何者かが浮遊魔法を多様な生物にかけた結果、
+現代の生物には潜在的にその因子が残っているとする説なんだ。 - 何らかの要因でレビテト因子が活性化した個体は、
+まるで浮遊魔法がかけられたかのような状態となる。
+重力から解き放たれ、空を舞うことができるわけさ。
+
+Ibuki
+イブキ
+Hyaaagh! I-I mean, good evening ! Off to face some fearsome foes? - Our latest works transcend the very bounds of excellence, if I do say so myself. With these new and improved arms and armor, even the scariest corners of the realm will be your oyster! - ...So if you happen upon heretofore unknown monsters, we would greatly appreciate any information or, er, reproductions you might have to offer!
+ビャファッ！？
+ご、ご機嫌うるわしゅうさん！
+今日もモンスターひしめく危険地帯にお出かけで……！？ - ウチらの仕事は超絶はかどってるんで、
+じき、さらに高性能な武具が出回るはずです。
+もはや怖いものはねーですよ！ - なんで……その……新しい危険地帯に踏み入れた際は、
+未知のモンスターの情報とか、あわよくば模型とか、
+よろしくお願いしますッ！
+
+Grondilvet
+グロンディルヴェ
+In stepping away from work more regularly I find myself rewarded with a serendipitous encounter. A pleasure to see you, . - We installed a prototype of the aforementioned heating apparatus in the refreshment room. Somewhat predictably, the underfed and overworked researchers have, on multiple occasions, disregarded the guidelines for what constitutes “viable foodstuffs.” - And so we are deliberating fail-safes to prevent future combustion and meltdown incidents. I tell you, , never before have I seen such sticky devastation...
+ああ、あなたですか……。
+ご覧のとおり、今日はきちんと休憩を取っていますよ。 - くだんの「自動あたため機構」の試作品を、
+研究員向けの休憩室に設置してみました。
+すると皆、注意書きも読まずにアレやコレやと突っ込んで…… - 何は溶ける、何は爆発すると書いたでしょうに……！
+疲れて頭の回らない状態でも使えるように、
+不適切な操作をしたら警告音を鳴らすべきですね。
+

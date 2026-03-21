@@ -1,0 +1,248 @@
+ドミタル 	 Dmitar
+レジスタンスの整備兵 	 Resistance Supplier
+レジスタンスの鑑定係 	 Resistance Appraiser
+レジスタンスの情報将校 	 Resistance Historian
+哨戒中のレジスタンス兵 	 Resistance Patrol
+無名 #1034559 	 Nameless #1034559
+無名 #1034562 	 Nameless #1034562
+無名 #1034563 	 Nameless #1034563
+無名 #1034564 	 Nameless #1034564
+無名 #1034565 	 Nameless #1034565
+無名 #1034567 	 Nameless #1034567
+無名 #1034568 	 Nameless #1034568
+哨戒中のレジスタンス兵 	 Resistance Patrol
+記録システムγ 	 Ironworks Voice Archive
+レジスタンスの偵察兵 	 Resistance Scout
+レジスタンスの情報将校 	 Resistance Historian
+無名 #1036252 	 Nameless #1036252
+無名 #1036255 	 Nameless #1036255
+無名 #1036256 	 Nameless #1036256
+無名 #1036258 	 Nameless #1036258
+無名 #1036259 	 Nameless #1036259
+無名 #1036260 	 Nameless #1036260
+無名 #1025515 	 Nameless #1025515
+調査隊の警備員 	 Expedition Birdwatcher
+無名 #1028234 	 Nameless #1028234
+調査隊の警備員 	 Expedition Birdwatcher
+無名 #1026179 	 Nameless #1026179
+無名 #1026182 	 Nameless #1026182
+無名 #1026187 	 Nameless #1026187
+無名 #1026513 	 Nameless #1026513
+調査隊の警備員 	 Expedition Birdwatcher
+無名 #1033022 	 Nameless #1033022
+無名 #1033027 	 Nameless #1033027
+無名 #1033031 	 Nameless #1033031
+無名 #1033263 	 Nameless #1033263
+セロウシュ 	 Sjeros
+レジスタンスの整備兵 	 Resistance Supplier
+追憶システム 	 Allagan Node
+レジスタンスの鑑定係 	 Resistance Appraiser
+スラッドキー 	 Sladkey
+パークケ 	 Pawkukwe
+ミーゾ 	 Miitso
+不思議なゴブリン族 	 Peculiar Goblin
+エルヴァーン族の冒険者 	 Elvaan Adventurer
+ヒューム族の冒険者 	 Hume Adventurer
+小柄な姿の影 	 Diminutive Shade
+無名 #1052150 	 Nameless #1052150
+穏やかな様子の影 	 Cordial Shade
+無名 #1052154 	 Nameless #1052154
+無名 #1052155 	 Nameless #1052155
+無名 #1052156 	 Nameless #1052156
+無名 #1052157 	 Nameless #1052157
+無名 #1052158 	 Nameless #1052158
+注文を待つ影 	 Thrifty Shade
+窓口の近くに立つ影 	 Orderly Shade
+無名 #1052164 	 Nameless #1052164
+寂しげに佇む影 	 Solemn Shade
+エルヴァーン族の踊り子 	 Elvaan Dancer
+ヒューム族の黒魔道士 	 Hume Black Mage
+無名 #1052451 	 Nameless #1052451
+フェイジングウェイ 	 Phasingway
+ネミングウェイ 	 Namingway
+闇の提督？ 	 Dark Vizier?
+シューティングウェイ 	 Shootingway
+コマンディングウェイ 	 Commandingway
+ユスタ 	 Justa
+無名 #1056984 	 Nameless #1056984
+無名 #1056995 	 Nameless #1056995
+無名 #1057006 	 Nameless #1057006
+無名 #1057009 	 Nameless #1057009
+無名 #1057017 	 Nameless #1057017
+無名 #1057018 	 Nameless #1057018
+無名 #1057024 	 Nameless #1057024
+無名 #1057025 	 Nameless #1057025
+無名 #1057026 	 Nameless #1057026
+無名 #1057027 	 Nameless #1057027
+無名 #1057028 	 Nameless #1057028
+無名 #1057029 	 Nameless #1057029
+無名 #1057043 	 Nameless #1057043
+無名 #1057053 	 Nameless #1057053
+無名 #1057054 	 Nameless #1057054
+無名 #1057055 	 Nameless #1057055
+無名 #1057067 	 Nameless #1057067
+無名 #1057074 	 Nameless #1057074
+無名 #1057080 	 Nameless #1057080
+無名 #1057081 	 Nameless #1057081
+無名 #1057087 	 Nameless #1057087
+無名 #1057097 	 Nameless #1057097
+無名 #1057098 	 Nameless #1057098
+無名 #1057099 	 Nameless #1057099
+無名 #1057100 	 Nameless #1057100
+無名 #1057101 	 Nameless #1057101
+無名 #1057112 	 Nameless #1057112
+無名 #1057121 	 Nameless #1057121
+無名 #1057127 	 Nameless #1057127
+無名 #1057128 	 Nameless #1057128
+無名 #1057131 	 Nameless #1057131
+無名 #1057141 	 Nameless #1057141
+無名 #1057149 	 Nameless #1057149
+無名 #1057151 	 Nameless #1057151
+無名 #1057154 	 Nameless #1057154
+無名 #1057157 	 Nameless #1057157
+無名 #1057158 	 Nameless #1057158
+無名 #1057165 	 Nameless #1057165
+無名 #1057166 	 Nameless #1057166
+無名 #1057168 	 Nameless #1057168
+無名 #1057176 	 Nameless #1057176
+無名 #1057178 	 Nameless #1057178
+無名 #1057181 	 Nameless #1057181
+無名 #1057182 	 Nameless #1057182
+無名 #1057183 	 Nameless #1057183
+無名 #1057184 	 Nameless #1057184
+無名 #1057185 	 Nameless #1057185
+無名 #1057186 	 Nameless #1057186
+無名 #1057188 	 Nameless #1057188
+無名 #1057189 	 Nameless #1057189
+無名 #1057191 	 Nameless #1057191
+無名 #1057193 	 Nameless #1057193
+無名 #1057194 	 Nameless #1057194
+無名 #1057199 	 Nameless #1057199
+無名 #1057204 	 Nameless #1057204
+無名 #1057205 	 Nameless #1057205
+無名 #1057208 	 Nameless #1057208
+ネミングウェイ 	 Namingway
+ユスタ 	 Justa
+コマンディングウェイ 	 Commandingway
+無名 #1055478 	 Nameless #1055478
+無名 #1055479 	 Nameless #1055479
+無名 #1055486 	 Nameless #1055486
+無名 #1055494 	 Nameless #1055494
+無名 #1055496 	 Nameless #1055496
+無名 #1055501 	 Nameless #1055501
+無名 #1055504 	 Nameless #1055504
+無名 #1055506 	 Nameless #1055506
+無名 #1055508 	 Nameless #1055508
+無名 #1055527 	 Nameless #1055527
+無名 #1055529 	 Nameless #1055529
+無名 #1055530 	 Nameless #1055530
+無名 #1055533 	 Nameless #1055533
+無名 #1055546 	 Nameless #1055546
+無名 #1055547 	 Nameless #1055547
+無名 #1055548 	 Nameless #1055548
+無名 #1055551 	 Nameless #1055551
+無名 #1055559 	 Nameless #1055559
+無名 #1055569 	 Nameless #1055569
+無名 #1055572 	 Nameless #1055572
+無名 #1055593 	 Nameless #1055593
+無名 #1055594 	 Nameless #1055594
+無名 #1055601 	 Nameless #1055601
+無名 #1055605 	 Nameless #1055605
+無名 #1055614 	 Nameless #1055614
+無名 #1055647 	 Nameless #1055647
+無名 #1055667 	 Nameless #1055667
+探査隊の護衛 	 Expedition Escort
+探査隊の資材加工係 	 Expedition Metallurgist
+探査隊の衛生係 	 Expedition Medic
+ブリギッド 	 Brigid
+ネミングウェイ 	 Namingway
+フェイジングウェイ 	 Phasingway
+フェイジングウェイ 	 Phasingway
+フェイジングウェイ 	 Phasingway
+フェイジングウェイ 	 Phasingway
+ユスタ 	 Justa
+無名 #1053083 	 Nameless #1053083
+無名 #1053084 	 Nameless #1053084
+無名 #1053085 	 Nameless #1053085
+無名 #1053091 	 Nameless #1053091
+無名 #1053095 	 Nameless #1053095
+無名 #1053097 	 Nameless #1053097
+無名 #1053099 	 Nameless #1053099
+無名 #1053107 	 Nameless #1053107
+無名 #1053109 	 Nameless #1053109
+無名 #1053112 	 Nameless #1053112
+無名 #1053131 	 Nameless #1053131
+無名 #1053132 	 Nameless #1053132
+無名 #1053134 	 Nameless #1053134
+無名 #1053146 	 Nameless #1053146
+無名 #1053155 	 Nameless #1053155
+無名 #1053158 	 Nameless #1053158
+無名 #1053168 	 Nameless #1053168
+無名 #1053178 	 Nameless #1053178
+無名 #1053179 	 Nameless #1053179
+無名 #1053180 	 Nameless #1053180
+無名 #1053183 	 Nameless #1053183
+無名 #1053184 	 Nameless #1053184
+無名 #1053189 	 Nameless #1053189
+無名 #1053194 	 Nameless #1053194
+無名 #1053240 	 Nameless #1053240
+無名 #1053243 	 Nameless #1053243
+無名 #1053244 	 Nameless #1053244
+無名 #1053262 	 Nameless #1053262
+無名 #1053269 	 Nameless #1053269
+無名 #1053272 	 Nameless #1053272
+無名 #1053275 	 Nameless #1053275
+無名 #1053289 	 Nameless #1053289
+無名 #1053290 	 Nameless #1053290
+無名 #1053297 	 Nameless #1053297
+無名 #1053323 	 Nameless #1053323
+無名 #1053326 	 Nameless #1053326
+探査隊の護衛 	 Expedition Escort
+探査隊の戦闘要員 	 Expedition Lancer
+探査隊の園芸師 	 Expedition Botanist
+ヒューラン族の元徴用兵 	 Former Imperial Conscript
+無名 #1033649 	 Nameless #1033649
+無名 #1033650 	 Nameless #1033650
+無名 #1033651 	 Nameless #1033651
+威勢のいい帝国兵 	 Furtive Former Imperial
+ガイウス 	 Gaius
+アリー 	 Allie
+アヴィリナ 	 Avilina
+無名 #1036572 	 Nameless #1036572
+無名 #1036574 	 Nameless #1036574
+無名 #1036576 	 Nameless #1036576
+無名 #1036577 	 Nameless #1036577
+暫定政府の高官 	 Revolutionary Commander
+ヴァルドラン 	 Valdeaulin
+ヴァルドラン 	 Valdeaulin
+セウェラ 	 Severa
+アヴィリナ 	 Avilina
+アリー 	 Allie
+ガイウス 	 Gaius
+無名 #1045319 	 Nameless #1045319
+暫定政府の高官 	 Revolutionary Commander
+唸っている妖異 	 Feral Voidsent
+様子を窺っている妖異 	 Watchful Voidsent
+陶然としている妖異 	 Forlorn Voidsent
+怯える妖異 	 Fearful Voidsent
+トロイア城の獄吏 	 Troian Gaoler
+トロイア城の清掃係 	 Troian Manservant
+トロイア城の番犬 	 Troian Guard Dog
+トロイア城の守衛 	 Troian Doorkeeper
+トロイア城の騎士 	 Troian Knight
+美しい娘 	 Fair Maiden
+ヤ・ナズカ 	 Y'nazqha
+スノーゲイム 	 Snoegeim
+スノーゲイム 	 Snoegeim
+レジスタンスの情報将校 	 Resistance Historian
+ドミタル 	 Dmitar
+レジスタンスの整備兵 	 Resistance Supplier
+レジスタンスの情報将校 	 Resistance Historian
+無名 #1036926 	 Nameless #1036926
+無名 #1036939 	 Nameless #1036939
+無名 #1036940 	 Nameless #1036940
+無名 #1036945 	 Nameless #1036945
+無名 #1036948 	 Nameless #1036948
+無名 #1036949 	 Nameless #1036949
+無名 #1036951 	 Nameless #1036951
+逃げてきた妖異 	 Deserter Voidsent

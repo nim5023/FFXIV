@@ -1,0 +1,567 @@
+Ikaruga
+イカルガ
+We have been given strict orders to monitor all foreign vessels passing through this area. It is far more taxing than it sounds for, in addition to that, we must also contend with the Confederates.
+やれやれ……
+上からの指示で、異国の船を警戒するとはいっても、
+海賊衆とも断絶ってのは、いかにも具合が悪い……。
+
+Kumoji
+クモヂ
+It is my responsibility to keep these cannons in working order. I must clean and polish them regularly, else the corrosive winds will cause them to fall into disrepair.
+いざってときのために、
+大筒の手入れは、小まめに念入りにするのが肝要だ。
+ここのは、潮風にさらされてるから、特にな。
+
+Hayama
+ハヤマ
+I have the eyes of a hawk. It is both a blessing and a curse. On the one hand, I can see everything, but on the other hand I can see everything.
+俺は、視力に自信があってな。
+こうして、重要な見張り役を任じられているのだ。
+余計なものまで見えてしまい、もてあますこともあるがな。
+
+Moroha
+モロハ
+You are to scrutinize their flags and make absolute certain they are an enemy vessel before firing upon them! Whatever you do, you are not to sink an allied ship or allow an unfriendly one passage!
+砲撃対象は、船旗ですばやく見極めよ！
+認可船の誤射、不認可船の見逃し、
+いずれも祖国を危険にさらすと心得よ！
+
+Nameless #1019163
+無名 #1019163
+(Balloon)
+Rice, miso, sake,
+revolvers, silk...wait,
+revolvers?
+米、味噌、酒……
+よし！
+
+Nameless #1019164
+無名 #1019164
+(Balloon)
+The smell of sulphur is
+strong on the wind, today.
+この臭い…
+噴火が近いな…
+
+Hiun
+ヒウン
+I am charged with both monitoring the ships that pass through this area and keeping a close watch on activity in Hells' Lid.
+ここの見張り役は、海を渡る船はもちろん、
+「獄之蓋」の火山の様子も監視してんだ。
+
+Yusui
+ユウスイ
+Me? Slacking off? Nay─this is nothing of the sort! In fact, I would even say this is the most important part of my job. After all, if I do not rest and keep my eyes sharp, I am bound to miss something important.
+サボってるんじゃないぞ、休憩も仕事のうちさ。
+なんせ見張りは、見落としすら許されないからな。
+疲れて集中できなかったり、居眠りなんて、言語道断だ。
+
+Shihoji
+シホジ
+I am one of the Confederacy's foremost lookouts. It is a position I intend to keep until the day I die.
+俺だって、まだまだ最前線で見張り役をはってんだ。
+海賊衆は、死ぬまで現役が当たり前だからな。
+
+Nameless #1019172
+無名 #1019172
+(Balloon)
+I never grow tired of
+watchin' the Lid. The
+stench, now, is another
+matter.
+圧倒的な存在感だね…
+
+Nameless #1019173
+無名 #1019173
+(Balloon)
+Naught amiss at
+the Price...yet.
+台場に動きなーし
+
+Saikoro
+サイコロ
+Haha! Take a look at this─is it not magnificent!? I can see that you want it. For the right price, I might be willing to part with it.
+どうだい、すごいだろぉ～？
+このお宝は、オラが見つけてきたんだぁ～。
+取引するぅ～？
+
+Urokuzu
+ウロクズ
+Have you, too, come to offer up your prayers?
+お前さんも、お参りに来たのかぁ～？
+陸の者なのに、感心だなぁ～。
+
+Takotsubo
+タコツボ
+She is adorable. Yes, she is! One day this little girl is going to be the savior of these seas.
+どうだ、かわいいだろぉ～？
+こう見えて、海で役立つ働き者なんだぁ～。
+
+Kefusan
+ケフサン
+You look like you might have a few interesting stories to tell. If you have a moment to spare, we would love to hear them.
+よお、陸のヒト～何か面白い話をしてくれよぉ～？
+噂話は、縁 (えにし)を繋ぎ、商売を紡ぐんだぁ～。
+
+Kaioke
+カイオケ
+I am currently in the middle of preparing food for our village-wide banquet. If you happen to know any unusual ingredients or recipes I could use, do tell!
+年に数度の宴会の準備をしてるんだぁ～。
+珍しい食材を知ってたら、教えてくれよぉ～。
+
+Tsuzura
+ツヅラ
+That's it. Just keep on rubbing it just like that. You are doing great.
+ホレホレ　磨けぇ～　ピカピカ　磨けぇ～
+今日も　ご加護を　ありがとなぁ～。
+
+Toro
+トウロウ
+I am praying to the kami for luck since I am about to leave on a treasure hunt. Would you like to join me?
+これから宝物探しに行くから、
+安全を祈るおまじないをしてるんだぁ～。
+一緒に、やるぅ～？
+
+Nameless #1019188
+無名 #1019188
+(Balloon)
+Most beautiful... Yes...
+惚れ惚れするなぁ～
+
+Nameless #1019189
+無名 #1019189
+(Balloon)
+Your wisdom is as
+bounteous as the sea.
+ケフサンは物知りだなぁ～
+
+Nameless #1019191
+無名 #1019191
+(Balloon)
+Whose shell is it again
+that I've been polishing
+all day?
+ピッカピカにするぞぉ～
+
+Tamaki
+タマキ
+One wrong move and you will have the pleasure of being acquainted with my lance.
+何者だァ～！？
+凶事を運ぶモンは、串刺しにしてやるぞォ～！
+
+Kagero
+カゲロウ
+Has something happened at Shisui of the Violet Tides? Rarely are we kept informed of the ongoings of the castle. I mean, none of us even know what our own ruler, the Ruby Princess, looks like!
+紫水宮で、何かあったのか……？
+宮中のことは、ほとんど秘密にされていて、
+オレなんて、紅玉姫さまの顔も知らないんだけどな！
+
+Sayo
+サヨ
+Hey, miss, what is the surface like? Is it a nice place? Or is it scary? Do you have seaweed that grows up to the skies? Or do you have...
+ねえ、ミズタマの外ってどんなところなのかな？
+わたしも、お外にいってみたいけど……
+でも、ちょっとこわいなー。
+
+Tosetsu
+トウセツ
+If I may ask, what brings you to our humble village, madam? It is not every day that we receive visitors from the surface.
+アンタ、いったい何者だ……？
+余所者なんざ、滅多に来ない里だ。
+顔には出さないが、里の連中もみんな気にしてるぞ。
+
+Mine
+ミネ
+The Kojin of the Red have become even more aggressive of late. It has caused our people no end of trouble. <sigh> If only they were a bit more like their amicable cousins in Tamamizu, perhaps we would not have to suffer so...
+近ごろの紅甲羅の暴れっぷりには、困ったものだわ。
+同じコウジン族でも、碧甲羅には、
+温厚で、つきあいやすい相手が多いのだけど……。
+
+Mana
+マナ
+It is my dream to one day meet the Ruby Princess. I bet she is beautiful! Have you ever met her, miss?
+紅玉姫さまに、お会いしてみたいなあ……！
+お姉ちゃんは、会ったことある？
+
+Seizau
+セイザウ
+I am currently in the middle of delegating fishing tasks. Unless what you have to say is of great import, pray come and find me later.
+これから出る漁の、手はずを打ち合わせてるところでな。
+……悪いが、後にしてくれるか？
+
+Nameless #1019206
+無名 #1019206
+(Balloon)
+Water, water, everywhere
+and all you do is drink!
+オレのおごりだ、呑め！
+
+Nameless #1019208
+無名 #1019208
+(Balloon)
+Open your minds...
+Open your minds...
+Open your minds...
+心頭滅却！
+
+Mahiwa
+マヒワ
+Oh, dear... <sigh> What have my sons done this time?
+何か？
+ハッ……さてはうちの子が、また悪さをしたのでは……？
+
+Nameless #1019216
+無名 #1019216
+(Balloon)
+A place for every gig
+and every gig in its place.
+漁具の準備はよし…と
+
+Mozu
+モズ
+I could have sworn there were at least two fish left on this line. Did someone sneak off with them?
+魚が2匹ほど、減ってる気がするのよね。
+誰かが、こっそりツマミ食いしたんじゃないかしら……。
+
+Isobe
+イソベ
+<chirp> <chirp>
+キュゥゥ～！
+
+Nameless #1019221
+無名 #1019221
+(Balloon)
+This land has been lawfully
+claimed by the Empire.
+Begone or you will be...
+dealt with.
+ここは帝国領だ！
+立ち去れ！
+
+Nameless #1019222
+無名 #1019222
+(Balloon)
+You...
+お前は…
+
+Nameless #1019225
+無名 #1019225
+(Balloon)
+Do not take another step
+further into the village!
+You have been warned!
+即刻、去れ！
+
+Motogoe
+モトゴエ
+Ah, there is nothing better than having a smoke after a long day of fishing...
+漁のあとの一服は格別だな。
+
+Abiki
+アビキ
+Selling all of this should earn me enough money to make it through to the next moon.
+干物がこれだけあれば、少しは金になるかな……。
+
+Kansui
+カンスイ
+Nothing can compare to the seas' magnificence. Standing here and looking upon their beauty always helps me clear my thoughts.
+海を見てりゃ、悩みも晴れる。
+それでも、考え事をしたいときはあるよな。
+
+Misago
+ミサゴ
+While many of us prefer the taste of fresh fish, we must preserve most of what we catch for days our hauls are not so bountiful.
+新鮮な魚は美味しいけど、
+不漁の日もあるし、時化で漁にでれない日もある。
+だから、保存できるように、こうして干しているの。
+
+Zansetsu
+ザンセツ
+This meager haul will fetch us but a pouchful of coins at the market. <sigh> It seems every day the number of fish we catch dwindles. We really must look into finding new fishing grounds.
+う～ん……これだけじゃ、大した稼ぎにならないな。
+最近、不漁続きでね……いい漁場をさがさなきゃ。
+
+Hikinami
+ヒキナミ
+Quiet. Do not break my concentration. The very clothes on my back ride on the outcome of this game.
+おい、話しかけるなよ。
+また最初から、次の手を考えなおしになるだろう……。
+次の漁の舟漕ぎがかかってるんで、負けられないんだ。
+
+Asari
+アサリ
+I do not know how I am going to carry all of this to the marketplace on my own...
+はぁ、気が重いわ……。
+これを担いで、行商に行かなきゃなんないなんて……。
+
+Nameless #1019235
+無名 #1019235
+(Balloon)
+These will fetch quite
+the price at market.
+上出来、上出来…
+
+Nameless #1019236
+無名 #1019236
+(Balloon)
+Hic...! How manyfinners am
+I hollin'up? Wait! Dontellme...
+Free─hic─no four! Seven!
+ヒック…あれ？
+モトゴエが3人も…
+
+Tatsube
+タツベ
+I am about to set out on a fishing voyage and am inspecting my boat to make sure everything is in working order.
+次の漁に向けて、帆の点検してんだ。
+
+Hamakaze
+ハマカゼ
+The both of us were born and bred in Isari, which is presumably why the chief has stationed us here. It is good to be home for a time.
+うちらは、イサリ村の生まれでね。
+しばらく、ここに残れって、頭領にいわれたんだ。
+
+Ajiro
+アジロ
+I am looking to make a rod that will not put any strain on my back. My friend is in the middle of testing my latest design for me.
+腰に負担がかからない釣り竿を作りたくて、
+アイツの様子を見てたんだが……釣り糸も重要だな。
+
+Nameless #1019244
+無名 #1019244
+(Balloon)
+It's right under us.
+I can feel it!
+この辺りに
+沈んでいるはず…
+
+Nameless #1019245
+無名 #1019245
+(Balloon)
+You don't want...
+to go back there.
+この先は危ないぞぉ～
+
+Minasoko
+ミナソコ
+While the Coral Banquet is primarily a lookout post, occasionally we will also conduct rituals here to ensure the safe return of those going out to sea.
+珊瑚台は、見張り台であると同時に、
+航海の安全を祈念する儀式の場でもあるのさ。
+海賊衆は、海を敵に回す恐ろしさを知ってるからね。
+
+Umibeta
+ウミベタ
+From here we survey the northern expanse of ocean. Most enemy fleets will approach our island from these waters, and it is for this reason alone that the Coral Banquet is considered to be the Confederacy's most dangerous post.
+ここは、北方を監視する見張り台「珊瑚台」。
+紅玉海の要所であり、荒事の最前線だ。
+
+Rikufu
+リクフウ
+Please, madam, do not break my concentration. Were enemy troops to approach and I failed to raise the alarum, the deaths of my fellow Confederates will be on my hands.
+見張りは、気を抜けないよ……。
+海賊衆は、昔から、何度も襲撃を受けてるもんでね。
+
+Nameless #1019250
+無名 #1019250
+(Balloon)
+My brothers aren't
+going to like this...
+は～
+大事な酒が…
+
+Kajika
+カジカ
+The Confederacy is of a thousand nations and of none. I, for example, was born in a fishing village, whereas this one hails from the plains of Yanxia. His stories never cease to entertain!
+俺は、漁村の生まれだが、こいつはドマの生まれでね。
+ドマの習慣が、俺の故郷とまるで違うんで、
+どんなに話をきいても、飽きねぇんだ。
+
+Nawashiro
+ナワシロ
+This sekibune may be past her prime, but that gives her all the more character, I say! A pity she so rarely sees combat. - Alas, none can deny that a flotilla of smaller ships is more effective in most cases. Easier to trap a larger vessel and less danger to us all should they be armed.
+どうだい、この船、ちょいと古いが立派だろ？
+「関船」っていって、ちょいと大きな戦のときに使うんだ。
+でも、最近は、ほとんど出番なし。 - 普段は、「小早」っていう小型の船で、
+ササッと獲物を取り囲んじゃうからね。
+
+Aranami
+アラナミ
+Never underestimate the importance of guard duty, I say. If one truly values his freedom, he must be ever ready to defend it.
+海賊衆は、いずれの国にも属さないが、
+これを貫くには、自由を守るだけの力が必要だ。
+そのためにも、普段の見張り、見回りが重要なのさ。
+
+Bankai
+バンカイ
+If you refuse to pay the Ruby Tithe, we will strip you of everything you have─including the very clothes on your back! Gahaha!
+出さぬなら、身ぐるみ剥ごう、帆別銭……
+どうだ、渾身の一句なんだが！
+
+Hirase
+ヒラセ
+Aye, I'm a pirate and aye, I'm a cook. And a good one at that! I know the best seasoning for any dish: plenty of drink to wash it down!
+俺は海賊衆の料理番。
+底なしの胃袋を持ってる連中の腹を満たすには、
+まずは酒に酔わせちまうのが、一番さ！
+
+Yana
+ヤナ
+By the look of it, our new recruits have, once again, charged into a head-to-head battle with some deadly sea beasts. Those fools never learn, do they?
+やれやれ……
+また新入りが、魔物に絡まれてるな……。
+さて、お手並み拝見と行こうかね。
+
+Aokumo
+アオクモ
+Ahhh, is there aught in this world finer than strong spirits and tobacco? I think not... <hic> Hm? What is it? A game of chance? Another time, perhaps... <hic>
+おお、俺に何の用だ……ひっく。
+酒か、煙草か、もっといいモンか……？
+俺との賭けに勝ったら、譲ってやるよ……ひっく。
+
+Uoni
+ウオニ
+This is a much safer place for lookouts to be stationed than the Coral Banquet. That is why most new recruits start here.
+北からの異国船を見張る「珊瑚台」に比べれば、
+ここは、はるかに重要度も低い監視場所だ。
+なもんで、新入りの初仕事には、ちょうどいいのさ。
+
+Uzushio
+ウズシオ
+If you set your net according to the position of the moon and rhythm of the tide, it won't take long for it to become full. Most days I can catch enough food to feed our entire crew.
+月と潮の目から、漁場を予測すれば、
+すぐに、海賊衆の飯の食材を集められるよ。
+帆別銭が減ったもんで、少しでも節約しないとな。
+
+Ryuboku
+リュウボク
+We help clean ships and fix nets. When Mister Tsukikage deems our work done, then we go off to play!
+俺たちだって、縄を編んだり、舟掃除してるけど、
+一番の仕事は、遊ぶことだって、頭領に言われてんだ。
+それで、空と潮目の関係が自然と読めるようになるらしいぜ。
+
+Afumi
+アフミ
+The past holds no power over us. What you are is what you do now and ever after. Such is the way of the Confederacy.
+ここじゃ、過去に何を抱えてても、
+実力と人望がありゃ、のしあがれる。
+居心地がいいところさ。
+
+Kaizan
+カイザン
+As you can imagine, many of the men and women here have rather murky pasts. While what they have done in their former lives is of no concern to us, any who break Confederate law will have to answer to me.
+仕置役に声をかけるとは、度胸があるな。
+様々な過去を抱える連中が、肩寄せ合った集団だから、
+海賊衆である以上、掟破りにゃ容赦できんのさ。
+
+Hayase
+ハヤセ
+It is not uncommon for us to find ourselves under attack. That is why we have heightened the security in this area and carefully monitor all activity in the waters surrounding our island.
+海賊衆は、過去に何度も、
+外の勢力から攻められたことがあるんだ。
+だからこそ、周囲の警戒だけは緩められないのさ。
+
+Ushiogi
+ウシオギ
+Turn around and go back whence you came. This is a restricted area.
+この先は、禁足地だぜ。
+
+Nameless #1021527
+無名 #1021527
+(Balloon)
+Only way through them
+doors is iffin I's carryin'
+yer nob in a sack.
+頭の部屋にゃ
+誰も入れねえぞ
+
+Nameless #1021530
+無名 #1021530
+(Balloon)
+Da makes the best rice
+balls in the village, and
+I'll plug the gob of any
+who'll say he don't!
+父ちゃんの握り飯うめ～！
+
+Nameless #1021534
+無名 #1021534
+(Balloon)
+Sprung a damned leak
+when I took her o'er the
+shoals near Sakazuki.
+割れちゃったぁ～
+
+Nameless #1022263
+無名 #1022263
+(Balloon)
+You need some help?
+There's one box, and
+two casks. Now can
+we go?
+おい！
+いつまで数えてんだよ！？
+
+Nameless #1022267
+無名 #1022267
+(Balloon)
+You! You've got to save
+us. This man... He's not
+right in the head! Please!
+お助けを…
+
+Nameless #1022280
+無名 #1022280
+(Balloon)
+Do you think she's noticed
+me standing here for the
+past twelve bells?
+今日こそ、話をしたいが…
+
+Nameless #1024603
+無名 #1024603
+(Balloon)
+This piece is so polished,
+I can see the future in it!
+はぁ～美しい～
+我ながら、よく磨けたぞぉ～
+
+Nameless #1025569
+無名 #1025569
+(Balloon)
+Never hurts to have an extra set of eyes looking over the hull!
+手伝ってもらって悪いな
+
+Nameless #1025571
+無名 #1025571
+(Balloon)
+Need to get this
+tub patched up...
+しっかり整備しないと…
+
+Formerly Conscripted Confederate
+元徴用兵の海賊
+We were Domans before the imperials drafted us into their armies. But with our families dead and gone, the Confederacy is to be our home now. Compared to the hell the Empire put us through, though, this is a kami-blessed paradise.
+俺たちはドマの徴用兵でしたが、家族を皆殺しにされていて、
+行き場がなかったんで、海賊衆で面倒を見てもらってます。
+地獄のような帝国に比べれば、ここは楽園ですよ。
+
+Nameless #1025872
+無名 #1025872
+(Balloon)
+Is that it?
+I can still carry more.
+まだまだ持てるぞ
+
+Nameless #1025873
+無名 #1025873
+(Balloon)
+I could use a dozen more like you...
+頼もしいじゃないか…
+
+Nameless #1027081
+無名 #1027081
+(Balloon)
+Considering how long we spent on that boat, we must be in Eorzea by now.
+あれだけ長く船に乗ったのだ…
+この辺りがエオルゼアだな？
+

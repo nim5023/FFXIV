@@ -1,0 +1,20 @@
+Expedition Escort
+探査隊の護衛
+When exploring strange lands, brains trump brawn any day of the week. Use your head and don't go charging heedlessly into the fray!
+未知の環境では、腕っぷしよりも知見がものをいう。
+命あっての物種だからね、無理はするんじゃないよ！
+
+Expedition Lancer
+探査隊の戦闘要員
+Apparently, there's a magical barrier surrounding the island─not that you notice it while exploring. Still, it might be worth getting some practice in before you head out.
+島全体を妙な魔法が包んでるって聞いたけど、
+特に支障なく、戦えそうだよ。
+それでも不安があったら、ここで肩慣らししていって。
+
+Expedition Botanist
+探査隊の園芸師
+We have plenty of provisions for the interim, but for an extended stay we'll need to become self-sufficient. I'm currently examining the soil to see what seeds might be viable for cultivation.
+当面の食糧は十分に用意していますが、
+滞在が長くなるようなら、種を植えて栽培もしなくては。
+まずは地質の調査から始めましょう。
+

@@ -1,0 +1,165 @@
+Sphene
+スフェーン
+Going by the room labels on that map, we haven't entered any of the actual labs yet.
+案内板に、それぞれの部屋の名前が書いてあったよ。
+「実験室」もあるみたい……。
+
+Krile
+クルル
+Not a single soul here besides us...
+……やっぱり人の気配はないわね。
+
+Shale
+シェール
+Another locked door. We could try the same card again, but...
+やはりここもロックがかかってますね……。
+先ほどのセキュリティパスで開くといいんですが。
+
+Gulool Ja
+グルージャ
+This must be the door to the director's office. Go on! Try the card!
+ここが所長室に繋がる扉だね。
+セキュリティパスをかざしてみよう！
+
+Wuk Lamat
+ウクラマト
+Looks like every room can be accessed from this hub.
+ここが施設の中心で、他の部屋に行けるみてぇだな。
+
+Sphene
+スフェーン
+It seems not everyone who joined Preservation became Endless right away. There must have been research that required physical bodies.
+プリザベーションに入った人も、
+すぐには永久人にならなかったんだね。
+生身の身体で実験したいことでもあったのかな……。
+
+Krile
+クルル
+If there were others besides my parents who left Preservation, where might they be now...?
+私の両親のほかにも離反者がいたのなら、
+その人たちは今何をしているのかしら……。
+
+Shale
+シェール
+The scanner awaits. Hold the security card up to the panel and it should unlock the door.
+そこの読み取り機にセキュリティパスをかざしてみてください。
+きっと開くはずです。
+
+Gulool Ja
+グルージャ
+What else do they have in this place? If I read that map right, it must be a lot smaller than the Yuweyawata facility...
+この先は、どんな風になってるんだろうね。
+地図をみる限り、ユウェヤーワータの研究施設よりは、
+小さそうだけれど……。
+
+Wuk Lamat
+ウクラマト
+Calyx hasn't bothered to show his face yet, I see. Maybe he hasn't noticed us? Or maybe he's just watching...and waiting.
+ここまでカリュクスが接触してくる気配はねぇな。
+気づいてねぇのか、様子を見てるのか……。
+
+Sphene
+スフェーン
+How strange. This door is not lit up like the others.
+……あれ？
+ 扉の照明が消えてるみたい。
+
+Krile
+クルル
+Shouldn't the security card open this door as easily as the last one?
+ここでもう一度、セキュリティパスをかざすのかしら？
+
+Shale
+シェール
+Hm, what does this sign say...?
+これは……。
+読み取り機の上に注意書きがありますね。
+
+Wuk Lamat
+ウクラマト
+What is it, Gulool Ja?
+どうした、グルージャ？
+
+Sphene
+スフェーン
+That Alexandria survived the war was in no small part thanks to the defensive measures developed by Preservation. In that regard, I shall always be grateful.
+戦時下のアレクサンドリアが守られたのは、
+プリザベーションが開発した防衛機構のおかげでもあるから……。
+それには本当に感謝してるんだ。
+
+Wuk Lamat
+ウクラマト
+Everything we read in this place sings Calyx's praises. The people who worked here must have truly idolized him...
+プリザベーションの構成員たちがカリュクスに心酔してたこと、
+残されてる情報の端々から感じるぜ……。
+
+Gulool Ja
+グルージャ
+Yes! The door has power now!
+よかった、扉が起動してるみたいだよ！
+
+Krile
+クルル
+Had his own body not been fated to fail him so young, would Calyx have pursued his Endless project with such fervor?
+カリュクス自身が長く生きられない体だったからこそ、
+永久人への想いも強かったのかしらね……。
+
+Krile
+クルル
+I don't expect to find any information on my parents in this next room, either. And that's something I can be proud of.
+きっとこの先の部屋にも、両親の情報は残っていない。
+そして、私はそれを誇っていいんだわ。
+
+Shale
+シェール
+My earlier investigations put the data relay just past this door. Let's get it open, shall we?
+事前に調査できた範囲では、
+この先に目当ての装置があるはずなんです。
+開錠お願いしますね。
+
+Wuk Lamat
+ウクラマト
+Hearing Krile talk about her parents reminded me of how much I miss Namikka. I guess I'll never really get over it...
+クルルの話を聞いてたら、なんだかアタシまで、
+ナミーカのことが懐かしくなっちまった。
+これから先も、時折こうして思い出すんだろうな……。
+
+Gulool Ja
+グルージャ
+If that man in the recording was Director Demetrius, then this must be his office.
+さっきの映像に映ってたデメトリオスが所長なら、
+所長室は、デメトリオスの部屋ってことだよね……？
+
+Sphene
+スフェーン
+Was Calyx the one who gave orders to execute defectors? The more we learn about him, the less I understand...
+離反者は始末しろって命令も、
+カリュクスが出したものだったのかな……。
+彼に近づいてるはずなのに、どんどんわからなくなるよ。
+
+Krile
+クルル
+Well, that went well. Excellent clue-finding, !
+うまくいってよかったわ。
+さんもおつかれさま。
+
+Wuk Lamat
+ウクラマト
+Great work, ! Leave it to you to divine passwords from an ornamental display!
+やったな！
+あのプレートから合言葉を見つけ出すなんて、さすがだぜ！
+
+Gulool Ja
+グルージャ
+We did it, thanks to you! And a little bit thanks to me, I hope?
+やったね！
+僕もみんなの役に立てたかな？
+
+Sphene
+スフェーン
+Speaking of gemstone symbology... For Alexandrians, “sphene” holds the meaning of “eternal light.” - When my parents named me, it was with their wish that I become an unwavering beacon of hope for our people. To think on it now, I have ever shared that destiny with my other self.
+まさかここで石言葉が役に立つなんて……。
+私の名前も、父と母が願いを込めてつけてくれたそうなんだ。 - スフェーンの石言葉は、「永遠の光」。
+民を導く希望の光であり続けられますようにって……。
+もうひとりの私も、その願いに護られていたのかもしれないね。
+

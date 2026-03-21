@@ -1,0 +1,539 @@
+Nameless #1037094
+無名 #1037094
+(Balloon)
+At this rate, these flowers will wilt before the customer picks them up...
+お客さん遅いわね…
+商品が枯れちゃうわ
+
+Nameless #1037099
+無名 #1037099
+(Balloon)
+Hm... It would seem the old methods are simply not productive anymore.
+やはり旧来の方式では、
+生産性が…
+
+Sinette
+シネット
+This is the nymphaeum, a monument built in tribute to water spirits known as the nymphai. Seems rather fitting for a city that erected a towering statue of the ruler of rivers, Thaliak, no?
+この水場は、ニンファイオン……
+つまり、水の精霊ニンフを祀る場所ってことね。
+河を司るサリャクを守護神に掲げる、水の都らしいでしょう？
+
+Atheleys
+アテリース
+This is the Rostra, where the Forum convenes. What─ Do you wish for a tour? Then enter, and speak with one in charge of such things.
+こちらは哲学者議会の議事堂、哲学者の広場です。
+見学をご希望ですか？
+でしたら、中に入って係の者に声をおかけください。
+
+Himizu
+ヒミズ
+Here at the Silent Monopteros, some patrons quietly read their books, while others like myself lose themselves in soundless meditation─until they are rudely torn from their reveries by nosy adventurers with nothing to say.
+ここ、黙考のモノペトロスでは、静かに読書したり、
+私のように沈思黙考することが求められる。
+みだりに話しかけるのはやめたまえ。
+
+Nameless #1037123
+無名 #1037123
+(Balloon)
+I'm simply famished, yet I can't decide what I'd like to eat!
+このあとのご飯
+何を食べよう…？
+
+Mujeje
+ムジェジェ
+That's my friend over there staring out at the ocean. They always get like this when they start thinking about something. Meanwhile, I'm left here to pass the time until their train of thought finally rolls into the station.
+そこに立って海を見ている子は、あたしの友だちなの。
+いったん考え込むと長くて、いつもこうやって待たされるのよ。
+まったく、今回は何を考えているのかしらね。
+
+Nameless #1037138
+無名 #1037138
+(Balloon)
+I'm looking for materials on the Calamity of Fire... Do you know of any offhand?
+第三霊災の資料を
+探しているのだけれど
+
+Nameless #1037145
+無名 #1037145
+(Balloon)
+Is this it? Damn it all... I'm having a devil of a time finding that tome.
+この本は…違うな
+むう…中々見つからない
+
+Nameless #1037161
+無名 #1037161
+(Balloon)
+I shouldn't spend my research grant on personal items, but...maybe just this once? 
+あれを買うと研究費が…
+だがぜひとも欲しい…
+
+Nameless #1037190
+無名 #1037190
+(Balloon)
+Nothing beats a fresh brew from the Last Stand!
+コーヒーを飲むなら
+ラストスタンドだよな
+
+Nameless #1037192
+無名 #1037192
+(Balloon)
+I hereby swear: I shall become an Archon if it's the last thing I do!
+いつか必ず
+賢人になってみせるわ
+
+Nameless #1037195
+無名 #1037195
+(Balloon)
+Is this all the cargo? I should triple-check...
+荷は揃ってるかな…
+
+Nameless #1037209
+無名 #1037209
+(Balloon)
+Mom said we'd head home half an hour ago, but they keep talking...
+ママたちずっと話してる…
+
+Nameless #1037233
+無名 #1037233
+(Balloon)
+How do we feel about the Forum's actions as of late?
+近頃の哲学者会議を
+皆さんはどう思います？
+
+Nameless #1037236
+無名 #1037236
+(Balloon)
+Permit me to share my thoughts about today's lecture. You see... 
+さっきの講義に対する
+私の見解を述べると…
+
+Cherlinaie
+シェルリネー
+Welcome to the Hall of Artifice. Should you be looking to descend to Labyrinthos, the lift here will take you there.
+ようこそ、アルティフィスホールへ。
+ここにはラヴィリンソスに続く昇降機が設置されています。
+なお、アルティフィスは「技巧」を意味する古い言葉なんですよ。
+
+Ahldiyrn
+アルダイルン
+If you're looking for work as a gleaner─and if you've got the right skills─then we've got a job for you.
+ここは、グリーナーたちの仕事の窓口だぞ。
+特に職人の技術を持った連中に向けた、
+仕事を紹介しているんだ。
+
+Wurtwyb
+ワートウィブ
+If gatherin' and craftin' is your game, then speak with Grigge here. He'll find you some of the most lucrative work around.
+製作や採集の技術に自信があるなら、
+横にいるグリッグさんに、声をかけておくれよ！
+実入りのいい仕事を斡旋してもらえるからさ……！
+
+Nameless #1037270
+無名 #1037270
+(Balloon)
+The ship should be arriving soon, but I don't see anything in the offing...
+そろそろ到着するはず…
+なんだが…見えないな…
+
+Nameless #1037290
+無名 #1037290
+(Balloon)
+Let's see... Is this everything to be transported to Labyrinthos?
+ラヴィリンソスに送る
+物資の残りは…
+
+Nameless #1037294
+無名 #1037294
+(Balloon)
+You seem a bit burdened with work. Shall I lend you a hand?
+大量の課題を出されたし
+協力してやらないか？
+
+Hinageshi
+ヒナゲシ
+How am I supposed to approach any gleaners for help when the subject of our research remains undecided? Honestly, that man...
+グリーナーの募集をかけてほしいと言われても、
+研究のテーマが決まってなければ、選考のしようが……。
+まったく、困った人ですね～！
+
+T'laqa Tia
+チャ・ラカ・ティア
+All this pressure is going to be the end of me... Oh, I hope I find someone who can help soon!
+……学会……締切…………
+うぅぅっ、プレッシャーでおかしくなりそうだ……！！
+頼れる奴を紹介してもらえますように……！
+
+Jude
+ジュード
+Oh dear... If only he were around to help me.
+うーん……困った……。
+こんな時、いつもなら彼が助けてくれたけど……。
+
+Kytte
+キット
+Oh, hello there! Are you here for the testing...? No, of course you're not. The only thing being tested these days is my patience for waiting on test subjects.
+おやおや、もしかして君ってば実験台の人～！？
+……じゃないよねえ、うん、わかってた。
+はぁ～、早く来ないかな、じっけんだーい。
+
+G'raha Tia
+グ・ラハ・ティア
+...... - Your efforts to gain G'raha Tia's attention go unnoticed. He appears to be lost in his reading...
+…………。 - こちらに気づいていない。
+読書に没頭しているようだ……。
+
+Alphinaud
+アルフィノ
+I've found naught of interest so far. I think Y'shtola might be right about not getting our hopes up.
+こちらはまだ、めぼしい情報なしだ。
+さっきのヤ・シュトラの話からすると、
+「何も見つからない」という成果かもしれないけれどね。
+
+Krile
+クルル
+Hm, well I did find one paper focused on the world before the advent of the First Umbral Calamity, but it reads more like a work of fanciful fiction than an actual academic supposition...
+うーん……。
+第一霊災以前の世界について書いてる本があったけど、
+推測というより妄想ねぇ、これ……。
+
+Y'shtola
+ヤ・シュトラ
+Thank you for your help, but I think I can manage the rest without your assistance. If I were you, I'd steal a few quiet moments for myself...
+おかげさまで快調よ。
+今のところ手を借りたいこともないし、少し休んできてはどう？
+
+Nilzozo
+ニルゾゾ
+I am sorry, madam, but the lift is presently out of service. I apologize for the inconvenience.
+現在、昇降機の利用は停止中です。
+申し訳ございませんが、ご了承ください。
+
+Golden Dhyata
+黄金のチャタ号
+<rattle> “The serpent that sleeps in the deep slowly sheds its skin of old.” - “Eventually, the serpent devours its own tail, and renders new flesh using its own. The pain felt will cause the earth to quake, the mountains to crumble, and the rivers to run dry. Thus, seven wedges must be driven into its back...”
+カタカタカタ……
+地の底に眠れる蛇は、古き鱗を捨てされり…… - 蛇の頭は、蛇の尾を喰らい、己が血肉によりて己が血肉を作らん。
+その痛みは地を揺るがし、山を崩し、川を枯れさせん。
+しかれば蛇の背に7つの楔を打ちて…………
+
+Boric
+ボリック
+Oh dear. Am I ever going to find a craftsman for the professor?
+教授が困っているのを無視できないけど……
+手伝ってくれる職人さんなんて、見つからないよな～。
+
+Debroye
+デブロイ
+Urgh... <belch> Oh, gods... Sharlayan must be spared...
+う、ううう……うっぷ……。
+このままでは……シャーレアンの食文化が……。
+
+Nameless #1039240
+無名 #1039240
+(Balloon)
+Now, which fish shall I look at next...?
+次にエーテル値を調べる魚は…
+
+Nameless #1039241
+無名 #1039241
+(Balloon)
+Busy, busy, busy.
+サンプルの計測も忙しくなったね
+
+Bertswinda
+ベルトスィンダ
+Phenomenon is something of a multi-purpose facility, used by lecturers and craftsmen alike. If you're looking for Learners' Meet, it's through the last door on the left.
+ここはフェノメノン大講堂。
+講義で使う講堂である他、職人の集う場所でもあるわ。
+部外者も利用できる公開講堂は、建物正面に向かって左側よ。
+
+Hoary Boulder
+ホーリー・ボルダー
+! We heard you've been busy of late. I hope you manage to find a moment's respite before duty comes calling again.  - Coultenet and I were just discussing what more we can do to help. If anything should come to mind, please don't hesitate to ask.
+おお、さん！
+ここのところ、休みなしで活動をされていると伺いましたが、
+疲れなどは出ていませんか？ - ちょうど今、クルトゥネと、
+ほかに何か手伝えることがないかと話し合っていたのです。
+我々にできることがあれば、遠慮なくおっしゃってください！
+
+Coultenet
+クルトゥネ
+Tataru, Hoary, and I continue to do what we can to keep our brothers- and sisters-in-arms abreast of emergencies as they unfold. - They are ready to take action at a moment's notice, but I pray we have no need to call them to the fray.
+ほかの「暁」の面々には、私たちやタタルさんから、
+適宜こちらの状況を伝えています。 - 皆、終末が拡大した際に迅速に対応できるよう、
+各地に散って待機しているのですよ。
+何も起きずに終わるのが、いちばんではありますがね。
+
+Soroban
+ソロバン
+You too have found yourself idle, my friend? - If you seek to occupy your time until the ark is ready, you needn't go far. Even the markets here in Sharlayan are filled with the most wondrous of sights.
+あ～、アンタも休憩中～？
+オイラは、大事な役目を任されてるんだけど、
+準備ができるまで待機してるのさぁ～。 - それにしても、オールド・シャーレアンは、
+珍しいものでいっぱいだぁ～。
+市場もクガネとは全然違ってて、驚いてたところだよぉ～。
+
+Nero
+ネロ
+Hm...? No, I am not neglecting my duties. Honestly, am I not allowed even a moment to myself? A genius needs time to reflect on his thoughts, you know. - The ark truly is a marvel, and I count myself fortunate having had the opportunity help build it. A pity I did not come here sooner. Oh, the things I could have done with the fruits of their research... - Not that that is any of your business, mind you. Though I suppose I could have found a way to apply that knowledge to further improvements to the ark, as well.
+ああン……？
+別に、サボってるわけじゃないぜ。
+ちょっとばかり、思索にふけっていただけだ。 - 天を往く船……そンな愉快な玩具を造っていやがるとは……
+シャーレアンに、もっと早く探りを入れておくべきだったか。
+研究成果を盗み出せていれば、オレが………… - おっと……気にするなよ。
+オレ好みの真紅のナイスバディに改造する時間がないことを、
+残念に思ってるってだけの話さ……。
+
+Alpha
+アルファ
+Kweh, kweh! - Alpha seems distracted by something off in the distant heavens. You cannot help but wonder what he senses out in the sea of stars.
+クエクエッ、クエッ！ - アルファも、何か感じ取っているのだろうか。
+じっと空を眺めていたようだ。
+
+Omega
+オメガ
+<blip> <bloop> - The miniature model of Omega appears to be staring up into the sky, searching for something...
+ガガ……ガガガ……。 - 玩具のオメガは、アルファと並んで空の彼方を見つめている。
+
+Babeth Ironheart
+バベス・アイアンハート
+Gazing out upon the ocean like this sets my adventurous spirit ablaze... Myriad wonders are simply waiting to be discovered. Why not venture forth and find them?
+こうして海を眺めていると、探検心がうずいてきますわ。
+世界に隠された「今」を見つけ出すあの高揚感、
+あなたも感じてみませんこと？
+
+Nameless #1040965
+無名 #1040965
+(Balloon)
+I've many and more shipments left to place, so do return as soon as you are able.
+運んでほしい荷物は
+まだあるからよろしくね
+
+Nameless #1040967
+無名 #1040967
+(Balloon)
+Is that the last of the cargo?
+運ぶ荷はそれで終わり？
+
+Nameless #1040972
+無名 #1040972
+(Balloon)
+Hm... Doesn't look like the next vessel will be arriving any time soon...
+うーん…次の便はまだ
+来そうにないな…
+
+Nameless #1040973
+無名 #1040973
+(Balloon)
+Fascinating! You simply must tell me more about your research.
+なるほど、その研究は
+実に興味深いな！
+
+Nameless #1040979
+無名 #1040979
+(Balloon)
+The cargo list was already submitted. Let me check the registry...
+積荷のリストは提出済みで
+受付番号は…
+
+Nameless #1040998
+無名 #1040998
+(Balloon)
+Perhaps I'll buy a new tome to accompany me on my journey.
+長旅の友に一冊
+新刊を買っていこうかと
+
+Nameless #1041001
+無名 #1041001
+(Balloon)
+Have you visited that shop over there? The owner certainly has the gift of the gab!
+あそこのお店は行った？
+店員さん面白いよね
+
+Krile
+クルル
+Our allies in all corners of the world stand at the ready in the event any new threats should arise. - I pray the situation here does not take a turn for the worse, but we will do what we can here. So please─defeat Meteion and return to us safely.
+グランドカンパニー・エオルゼアや東方連合、
+それに各地で待機しているリオルさんたちに、
+燃える空の拡大を警戒してもらっているわ。 - 何か動きがあったとしても、
+どうにか、みんなで対処してみせる。
+だからあなたたちは、前へ突き進んで……！
+
+Tataru
+タタル
+!? What are you doing? Gods, has something happened to the others? - No... No, I'm sure they're all right. When you return to Ultima Thule, tell the others I said to be careful out there.
+さん！
+ど、ど、ど、どうかしたんでっすか！？
+具合が悪くなって、戻ってきちゃったとか……！？ - ち、違うんでっすね……よかったでっす……。
+引き続き、くれぐれもお気をつけくださいと、
+みなさんにもお伝えくださいまっせ……！
+
+Nameless #1042027
+無名 #1042027
+(Balloon)
+It's Alphinaud himself, in the flesh!
+すごいぞ、本物の
+アルフィノ先輩だ！
+
+Nameless #1042032
+無名 #1042032
+(Balloon)
+He spoke to me! He actually spoke to me!
+お会いできて光栄ですッ
+
+Ameliance
+アメリアンス
+! How good of you to come. Would you care for a cup of tea, or perhaps a light snack? ...No? - Just as well. I've no doubt there is yet much for you to do, as Alphinaud's letters would attest. He writes more frequently than ever these days. - Much to my surprise and delight, Fourchenault actually reads his letters now, albeit always with furrowed brow. He knows Alphinaud will be fine, but much like me, he cannot help but worry.
+あらあら、まあまあ！
+あなたが、ひとりで訪ねてきてくれるなんて。
+お茶はいかが？　それともお食事の方がいい……？ - ……アルフィノがね、天の果てから戻って以来、
+前よりもこまめに手紙を寄越してくれるの。
+きっと、心配かけたことを気にしているのね。 - 元気に帰ってきてくれたら、それだけで十分なのだけど……
+フルシュノさんが、眉根を寄せながら読んでいるのを見ると、
+つい楽しみにもなってしまうのよ！
+
+Maillart
+マリアルト
+Whenever I want for inspiration, I like to come here to gaze at the Scholar and the sea. It never fails to clear the mind and give me new perspectives from which to tackle my research into mythology.
+サリャク様の像と、この海を眺めていると、
+神話学研究で凝り固まった頭がリフレッシュできるんです。
+研究者も少しは外に出ないといけませんね。
+
+Sullen Refugee
+気難しそうな帰還者
+Ah, I remember you. We met in Garlemald, yes? Fourchenault convinced us to come here to Sharlayan, but it's not at all what I expected. - Uncivilized is not quite the word for it, but they've not even trains for transit or radios for communication. There is much that needs to be improved here.
+あんたは、ガレマルドで会った者だな？
+フン、フルシュノとやらに、そそのかされて移住してみたが、
+やはりロクなもんじゃなかったぞ。 - 魔導列車もなければ、ラジオもないのだぞ？
+これでは引退などしておれん。
+やれやれ、この街の技術水準を高めるのは骨が折れそうだ。
+
+Reserved Refugee
+穏やかそうな帰還者
+You're Fourchenault's acquaintance. , was it? Life has certainly taken a turn for the better since coming here, and the people have taken quite an interest in magitek. - The others are wont to complain about this or that, but in truth, they're quite enamored with Sharlayan as well. We all share a common interest in the pursuit of knowledge.
+あんたはあのときの……。
+わしらはこの国で何不自由なく暮らせているよ。
+魔導技術に興味を持つ学生から、講義を頼まれたりもしているんだ。 - 仲間は愚痴を言いながらも、
+本当のところ、この街が気に入ったみたいだ。
+専門知識を持つ者には、種族に関わらず敬意を示してくれるからね。
+
+Shallow Moor
+シャロー・ムアー
+For all he calls me his “tormentor,” Osmon and I do work well together. - My herbal poultices soothe his book-weary eyes, and I benefit from his nigh-encyclopedic knowledge on...well, damn near everything. It's a symbiotic relationship!
+オスモンくんてね、私のこと「うるさい」って言うわりに、
+なんだかんだで、一緒に行動してくれてるのよね～。 - まあ、読書で目が疲れがちの彼には、私の薬茶が不可欠だし、
+私は私で、彼の豊富な知識を頼ってたし……。
+持ちつ持たれつな関係、ってヤツなの！
+
+Trisassant
+トリザサン
+I have a special range of goods on offer for our “odd job” contributors. The historic artifacts you are like to find are of far more interest to us than ordinary gil.
+特別な商品を用意してお待ちしてますので、
+「変則依頼」のお仕事、がんばってくださいね。
+
+Y'shtola
+ヤ・シュトラ
+Ah, . I'm afraid you've come too soon─my research has yet to yield fruit. - But rest assured I will find a way. To secure a means to traverse the rift to other worlds, and put an end to Golbez's scheme.
+あら、あなたも来たのね。
+あいにくだけど、再び第十三世界に渡る手法については、
+まだ具体的な進展はないわ。 - ゴルベーザという妖異の企みを阻止するため、
+そして次元跳躍の理論構築のためにも必ず成功させるわ。
+もう少しだけ、時間を頂戴。
+
+Radio-listening Student
+ラジオリスナーの学生
+Might I ask your opinion on the “Hyper Hustle” broadcast? The radio aficionado community is abuzz with debate. - Did such fantastical events truly transpire? Are the Loporrits trying to pull one over on us? What is a “Grebuloff”? I cannot say for certain, but I do know that everyone else is wrong.
+レポリットがラジオで放送していた、
+天の果てでのレース実況……聞きました？ - 果たしてあれは、実際に遠い宙の向こうで開催されたのか、
+それとも、レポリットたちが生み出した空想上の物語なのか……
+ラジオ愛好家のあいだでも、意見がわかれているんですよ。
+
+Alphinaud
+アルフィノ
+Enjoying a hard-earned rest, I trust? ...Don't tell me Mother has called on you for business. - I'll not deny it is good to be home, but it would be a lie to say Garlemald and her people do not yet weigh on my mind. Surely, there is something more we can do ensure their warmth and comfort.
+やあ、君も休暇中といったところかい？
+それとも、お母様に用事かな？ - こうして我が家に帰ってくると、
+なおさらガレマルドの皆のことを思わずにはいられないんだ。
+彼らが温かい家で過ごせるために……できることを考えないとね。
+
+Alisaie
+アリゼー
+How was the banquet? A pity I couldn't go with you─it would have been good to see everyone. - Even so, I've enjoyed my time here with Mother and Father. Speaking of which, he's expressed an interest in sitting down with you, so don't be surprised to receive a formal invitation from him in future.
+ラザハンの宴はどうだった？
+私もサベネア島の人たちに会いたかったけど、
+またの機会にしたわ。 - 久々に一家団欒のときを過ごしたかったからね。
+お父様もあなたとはちゃんと話をしたいって言ってたし、
+今度正式に招待させてちょうだい。
+
+Erenville
+エレンヴィル
+I've no doubt there is much you wish to know about Tural, but there will be plenty of time to answer your questions on the journey there. - I will see to our supplies. All you need do is be patient─it will be time to depart before you know it.
+どうした、なにか聞いておきたいことでもあるのか？
+近いうちに長い船旅に出るんだ、
+焦らなくても話す時間はいくらでもあるだろう。 - 必要な品はこっちで調達しておく。
+おたくは心の準備だけしておいてくれればいい。
+
+Wuk Lamat
+ウクラマト
+A shame we have to leave to Tural so soon. I would've loved to visit Eorzea, or at the very least see more of Sharlayan. - What I have seen is pretty impressive, though. I wasn't expecting a city of scholars to carry such impressive arms in their shops.
+本当はエオルゼアの方にも行ってみたいんだけど、
+さすがにそこまでのんびりしてる余裕はねぇ。
+せめて、シャーレアンだけでもじっくり見ておきたくてさ。 - 学術都市って言いながらも、
+結構いい装備がたくさん売ってるなぁ～！
+そこの大繁盛商店ってところの品も、なかなかだ！
+
+Alphinaud
+アルフィノ
+Never did I imagine that I might travel to Tural, much less be involved in a contest to decide its new ruler. I shall do all in my power to see that Wuk Lamat succeeds. - And in so doing, I expect I will learn a great deal that will be of help to Jullus and his people. I can think of no better way to make the most of my time away from Garlemald.
+トラル大陸へ行く日がくるとは思ってもいなかったよ。
+「継承の儀」に参加させてもらう以上、
+足を引っ張らないようにしなくてはね。 - それに、向こうで得る貴重な経験は、
+きっとガレマルドの人々のために役立つはずだ。
+この「休暇」を、最大限実りのあるものにしよう！
+
+Alisaie
+アリゼー
+Is it strange that, after traveling to the literal edge of existence, a simple journey across the ocean has me so excited? - In any case, after hearing of Krile's exploits on the Isle of Haam, it seems I have my work cut out for me if I'm to keep up.
+宇宙の果てまで行ってるっていうのに、
+見知らぬ土地への冒険は、やっぱりワクワクしちゃうわね。 - 私もクルルに負けないように鍛錬してるから、
+向こうでの活躍、期待してなさいよ！
+
+Krile
+クルル
+The only clues I have to Grandfather's business in Tural are his letter and the earring he enclosed with it. - I thought perhaps if I wear it, and someone there recognizes it, they may offer further insights as to why he was there.
+バルデシオン委員会の活動記録の中に、
+トラル大陸のことは一切残されていなかったの。
+手がかりは、例の手紙と一緒に保管されていた耳飾りだけ。 - これを現地の人に見せれば、
+おじいちゃんのことも、何か掴めるかもしれない。
+そう考えて、こうして身に着けてみたのよ。
+
+Hasdahd
+ハズダーダ
+Preparing and distributing both our regular line of equipment and wares from Palaka's Stand is no small task, but I find it deeply fulfilling.
+装備品の追加生産に対応するかたわら、
+パーラカの里の工芸品の開発も進めていかなくては。
+大変ですけど、やりがいがありますよ！
+
+G'raha Tia
+グ・ラハ・ティア
+Ah, it seems you've caught me in a rather precarious predicament. I've been pursuing new means of acquiring gil, you see. Thinking of potential endeavors we might undertake in future, it wouldn't do to find my coffers wanting at a critical juncture. - Hmmm... Perhaps I should consider the Loporrits' treasure vault that Urianger spoke of. In any case, so long as they do not interfere with my obligations to the Students of Baldesion, I intend to pursue all possible avenues.
+オレは儲け話を探してるところだ。
+いざというときに手持ちの金がなくて、
+あんたをサポートできないなんてことはごめんだからな。 - ウリエンジェが助言したっていう、
+レポリットたちの宝物庫を探検するのも面白そうだ。
+委員会の活動に支障がない範囲で、オレもいろいろがんばるよ。
+
+Camalbusert
+カマルブゼール
+I'm relieved that you and Nazqha came back unharmed, and I can tell Fyrgeim feels the same. It'll be good to rest a while without having to fret over your safety.
+フィルゲイムさんの顔を見ると、
+無事に帰ってきたんだなぁって安心するね。
+もう少し休んでいくかな……。
+
+Memolivia
+かきとりくん
+My NaMe Is MeMoLiViA, aNd My DuTy Is To ReCoRd YoUr AdVeNtUrEs As CoNcIsElY aS pOsSiBlE!
+ワタシは速記用魔法人形「かきとりくん」……
+アナタの冒険を記録しまス。
+

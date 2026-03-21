@@ -1,0 +1,55 @@
+Feral Voidsent
+唸っている妖異
+Grrr... Grrraaagggh!
+ガゥ、グルル……！
+
+Watchful Voidsent
+様子を窺っている妖異
+You look tastier every time you walk by... <slurp> But I mustn't eat you... I mustn't eat you...
+グギギ……オマエ、とてもウマソウ……。
+オレ、ガマンする、ガンバる……。
+
+Forlorn Voidsent
+陶然としている妖異
+Ahhh, my mistress... What must I do to bask in your sublime gaze once more?
+城主様の、あのキレイな瞳……
+ワ、ワタシ、どうしたら、また見つめてもらえる？
+
+Fearful Voidsent
+怯える妖異
+Without a master to rule us, it won't be long before we start preying on one another. And the weak are the first to be devoured. I must find someone strong to serve, and quickly...
+主がいないと、いずれみんな暴れだス。
+そうなったら弱いヤツから、喰われていク。
+俺もはやく、従ウ相手、見つけないとナ……。
+
+Troian Gaoler
+トロイア城の獄吏
+No one comes and goes from this dungeon without permission. For you, though, I'll make an exception. Go on, go.
+この監獄に、許可なく出入りするモノはゆるさナイ。
+……見逃してやるカラ、早く行ケ。
+
+Troian Manservant
+トロイア城の清掃係
+Though there's only the one dungeon here, we call it the fourth. The mistress's orders. - But the mistress is gone, and her orders with her. Rats can infest this castle for all I care!
+ココハ、ダイヨンカンゴクトウ！
+ヒトツシカナイガ、ダイヨンダ！ - メイレイナケレバ、ハタラカナイ！
+ネズミガイテモ、キニシナイ！
+
+Troian Guard Dog
+トロイア城の番犬
+Woof! Grrrrrr...
+バウッ！　グルルル……。
+
+Troian Doorkeeper
+トロイア城の守衛
+Prey we caught are weakened in the dungeon before being served up to the mistress. “Tenderizing,” she called it, and that's the way she used to like it.
+捕らえた獲物、監獄に入れられル。
+そこでじっくり弱らせてからエーテル喰らう……
+ソレが城主様のお好み、だっタ。
+
+Troian Knight
+トロイア城の騎士
+I can't survive without someone to give me aether. But where, oh where will I find a new master...?
+エーテルもらえなくなる、とても困ル。
+新しい主を探して、お仕えしなくてハ。
+

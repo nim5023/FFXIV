@@ -1,0 +1,278 @@
+Lorotte
+ローロット
+Before you start perusing these goods, I should point out that they're going to Mord Souq. Not for sale, in other words.
+ここに置いてあるのは、
+モルド・スークとの交易品さ。
+すまないが手を触れないでおくれよ。
+
+Nameless #1027866
+無名 #1027866
+(Balloon)
+I'd better count them again, just to be sure.
+全部届いてるかな？
+
+Danta
+ダンタ
+Without amaro, we'd struggle to transport goods between here and the Crystarium. A lot of the boxes here contain their feed, brushes, and whatnot.
+交易の足になるのは、飛行獣のアマロだ。
+だから、ここにある物資の中には、彼らのための飼料や、
+毛づくろいのためのブラシも入っているのだよ。
+
+Zhin Zin
+ジーンジン
+Come one, come all! Your coin is always welcome here in Mord Souq!
+ここは「モルド・スーク」。
+モルド族の市場って意味ネ。
+でもでも、ヒトのお客さんや商人も大歓迎ヨ！
+
+Latgar
+ラットガル
+Buying supplies at the right price is a simple enough task. Transporting the damned things, on the other hand, is a different matter entirely.
+モルド・スークで買いつけた資材を、
+これから隊商の野営地へ運ぶところなんだ。
+今回は大量に買い込んだから、輸送も大変だよ。
+
+Mord Souq Guard
+モルド族の守衛
+No one is allowed in here without permission, especially not outsiders!
+モルド・スークで一番高い、この「帽子の塔」の裏手に、
+「中央アンバーヒル」へ通じる「尻尾の道」あるネ。
+でもでも、いまは階段崩れて通行止めヨ。
+
+Bhun Bun
+ブーンブン
+Keep away from my private worm stash! Get back, I say!
+モルド・スークにある風車は、
+みんなが使う地下水を汲み上げてるネ。
+とっても大事なものだから、旅人さんは立入禁止ヨ！
+
+Nameless #1027887
+無名 #1027887
+(Balloon)
+Not a bad price, all things considered.
+ちょっと高くないかしら…
+
+Zhol Zol
+ゾールゾル
+Can you not see we are busy? Important business, I would have you know!
+いま、ヒトの商人さんたちと商談中ネ。
+買い物したいなら、悪いけど別の商人に頼むヨ。
+
+Nameless #1027890
+無名 #1027890
+(Balloon)
+I'll get us a good deal, don't you worry!
+この商談…
+まとめてみせるわよ！
+
+Mhil Mil
+ミールミル
+Of all the things we trade here in Mord Souq, nothing is more important than water! Good for drinking, good for footbaths! Footbath first, drink later.
+モルド・スークは水の補給地としても重要ネ。
+私、行商に出る前はいつもここで給水するヨ。
+旅人さんも、大切に補給するといいネ。
+
+Rhun Run
+ルーンルン
+You are not supposed to be up here! Distract me from my work, you will!
+あなた、どこから来たネ？
+ここは関係者以外、来ちゃダメヨ！
+見張りの邪魔だから、出ていってちょうだいネ。
+
+Nameless #1027907
+無名 #1027907
+(Balloon)
+I have a feeling I've forgotten something.
+足りないものはないよな？
+
+Mhon Mon
+モーンモン
+Traditional Mord food is not for everyone, it seems. Visitors always say, “Too much meat, not enough vegetables!”
+モルド族の伝統料理、いろいろあるネ。
+でもでも、ヒトのお口に合うの、ちょっとだけヨ。
+とっても残念ネ……。
+
+Tofrith
+トフリス
+After bringin' a decent haul from the mine, I can afford not to work for a while. But I'll be back in there once me gil dries up or I get bored of sittin' on me arse. Whichever comes first.
+ここの酒はうまいぞ。
+旅人さんも、一杯飲んでいくといい。
+
+Sveinn
+スヴァイン
+I'd love to stop for a chat, but I'm afraid I need to get this shipment ready before the merchant from Mord Souq arrives. Now, where did I leave that iron ore?
+そろそろモルド族の行商人が、
+鉱石の買いつけにくる頃だからな。
+在庫のチェックをしているところだ。
+
+Nameless #1027933
+無名 #1027933
+(Balloon)
+Yes, it's all here, as agreed.
+大丈夫だ、問題ない
+
+Haraldur
+ハラルドゥル
+Headin' into the mine? Wouldn't recommend it. Place is crawlin' with gnomes right now. We're waitin' for them to wander off before we get back to our diggin'.
+旧鉱山に入るつもりか？
+べつに止めたりはしないが、
+中をうろついているノームには注意しろよ。
+
+Nameless #1027937
+無名 #1027937
+(Balloon)
+That's a fair point...
+そ、そうだよね…
+
+Nameless #1027941
+無名 #1027941
+(Balloon)
+It never ceases to amaze.
+Every time I see it...
+何度見ても
+凄い光景だよなぁ…
+
+Patrolling Laborer
+巡回中の労働者
+Naught but a Talos can pry open the gate to Nabaath Areng. We must needs speak with the engineers at Twine if we are to open it.
+この仕掛け扉を開きたいなら、トロッコ技師に頼むしかないな。
+トゥワインにいる「冷静な見習い技師」に、
+声をかけてみたらどうだ？
+
+Urianger
+ウリエンジェ
+I prithee keep Thancred occupied in thy search for leonine. - Minfilia and I shall see to preparations for the Talos.
+心核となる鉱石と、サンクレッドのこと、
+何卒よろしくお願いいたします - 私は、再度タロースを点検し、
+心核以外を、間違いなく万全にいたしましょう。
+……ミンフィリアとともに。
+
+Unrepaired Talos
+修理中のタロース
+The Talos sits lifeless, waiting to be repaired...
+反応がない……どこかが壊れているようだ……。
+
+Jeryk
+ジェリック
+The Talos means the world to Magnus, despite what he might say. If you were able to find any leonine, it'd mean more to him than you know.
+親方はいい顔しないだろうけどさ、
+キミたちが本当に心核となる鉱石を探してこれたら、
+それこそ、アグナさんからのメッセージだと思うんだよね……。
+
+Minfilia
+ミンフィリア
+I wish there was more I could do to help, but I only seem to make things worse...
+ごめんなさい……
+いつの間にか、お任せするような形になっていて……。
+私……迷う必要なんてないはずなのに、どうして、こんな……。
+
+Thaffe
+サーフ
+If you're heading to Nuvy's Leavings, you'll want to speak with Guthjon. I can't guarantee you'll find what you're after, though...
+グスジョンさんには会えたか？
+ヌベイ旧鉱山で、今行けるような範囲は、安全だけどさ……
+なんだって「絶対」はないんだから、用心してくれよな。
+
+Nameless #1030420
+無名 #1030420
+(Balloon)
+And we'll split the profits!
+オレと一山当てようぜ！
+
+Ulmie
+ウルミー
+Every order that comes through Twine has to be checked thoroughly. If we're to stay on good terms with neighboring settlements, we can't afford to make any mistakes.
+行商人に売却する鉱石は、厳重に確認しませんと。
+取引の失敗を許せるほどの余裕は、トゥワインにありませんから。
+
+Nameless #1030426
+無名 #1030426
+(Balloon)
+Yes, yes! Adorable!
+いいこネ！ いいこネ！
+
+Zhen Zen
+ゼーンゼン
+Thil Til will be angry when he finds out I have not met the quota. But if he never finds me, I have nothing to worry about!
+ひーえ、見つかっちゃったネ。
+ノルマ未達成なのに休んでるこーと、
+チールチル親方には内緒にしてーてネ！
+
+Nameless #1030428
+無名 #1030428
+(Balloon)
+A tasty morsel of information, yes?
+いろんな情報仕入れたネ！
+
+Bhol Bol
+ボールボル
+Many people pass through Garik. We normally see the ones from Lakeland again on their return journey, but some of them never come back...
+行商人からお話聞いていたネ。
+この村は、行商人がいっぱい立ち寄るから、
+いろんなお話聞けて、嬉しいネ。
+
+Nameless #1030435
+無名 #1030435
+(Balloon)
+What am I supposed to do now!?
+なんだかなぁ…
+
+Ghil Gil
+ギールギル
+You are welcome to use our well. If you are planning to cross the desert, you should take as much as you can carry!
+旅人さん、井戸を使いたいなら自由に使ってネ。
+だけど、この荒野の中で水はとっても貴重なものヨ。
+汚さないようにしてちょうだいネ！
+
+Nameless #1031325
+無名 #1031325
+(Balloon)
+There must be at least one shiny here!
+いい石はないかネ…
+
+Nameless #1031327
+無名 #1031327
+(Balloon)
+Leave no stone unturned...
+お宝が眠ってるといいネ…
+
+Alisaie
+アリゼー
+!? No one told me you were back! - Well, never mind that. You should try speaking with Halric! - I've come to believe that some miracles simply require an inordinate amount of stubbornness. That goes for your case, for Halric's...and I'm hoping for Ga Bu's as well!
+ひゃっ！？　！？
+あなた、いつ戻って来たのよ！ - でも、ちょうどいいわ。
+……ハルリクに声をかけてみてくれない？
+あなたもきっと、驚くわよ！ - 何もかもがうまくはいかなくても、諦めなければ、
+勝ち取れる奇跡もあるって……私、やっぱり思うわ。
+彼のことも、あなたのことも……だからきっと、ガ・ブもね！
+
+Magnus
+マグヌス
+We've been considering expanding the railway system of late. Being able to ship goods beyond Amh Araeng would be a boon for all of Norvrandt. - ...Suitable for a giant Talos? You haven't been talking to Jeryk, have you?
+トロッコの路線を、拡張できないか考えているんだ。
+各地の輸送や移動に使えれば、一気に利便性が上がるからな。
+……巨大サイズにするかは、また別の話だぞ？
+
+Attentive Caregiver
+付き添いの世話人
+Greetings, . If you've come to see Halric, I'm pleased to say he has been faring well. Him and all of us. - And whatever she is doing at the moment, we hope Alisaie is well too. When next you see her, please pass along our regards.
+こんにちは！
+もしかして、みんなの様子を見に来てくださったんですか？
+おかげさまで、ハルリクもほかの人も、経過は順調ですよ！ - アリゼーの方も、病気や怪我をせず、
+元気でいてくれたらいいんですけど……。
+今ごろどうしてるかなぁ……。
+
+Yalfort
+ヤルフォート
+All finished in the Empty for the time being? Jolly good! Should you need to return at any point, we shall have all of the necessary supplies at your disposal.
+「無の大地」の調査、おつかれさまでした！
+順調に進んでいるようで、喜ばしいですね。
+次の調査まで、ゆっくりおやすみください。
+
+Lewto-Sue
+リュート・スー
+We're looking to establish a permanent base of operations in the Empty, but we still have a lot of work ahead of us. Even transporting supplies there is quite an undertaking!
+緑が蘇った「無の大地」に本格的な活動拠点を築くため、
+必要な物資の選定を進めているところです。
+気軽に往復できないから、慎重に準備しないと……！
+

@@ -1,0 +1,30 @@
+訓練システム 	 Training Node
+清掃システム 	 Sterilization Node
+保安システム 	 Safeguard Node
+鎮圧システム 	 Suppression Node
+研究システム 	 Research Node
+保全システム 	 Life Support Node
+狩猟システム 	 Tracking Node
+排除システム 	 Expulsion Node
+輸送システム 	 Logistics Node
+監査システム 	 Auditing Node
+製造システム 	 Assembly Node
+拘束システム 	 Restrainment Node
+管理システム 	 Administrative Node
+改善システム 	 Enhancement Node
+シド 	 Cid
+ビッグス 	 Biggs
+ウェッジ 	 Wedge
+無名 #1013754 	 Nameless #1013754
+無名 #1013756 	 Nameless #1013756
+無名 #1013758 	 Nameless #1013758
+無名 #1013760 	 Nameless #1013760
+補給システム 	 Recharging Node
+巡回システム 	 Surveillance Node
+騎乗システム 	 Transport Node
+退屈そうな帝国兵 	 Idle Imperial
+ゲロルト 	 Gerolt
+復元システム 	 Restoration Node
+加工システム 	 Processing Node
+認証システム 	 Verification Node
+無名 #1024714 	 Nameless #1024714

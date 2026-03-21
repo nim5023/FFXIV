@@ -1,0 +1,251 @@
+Rontremont
+ロントルモン
+If you seek Lady Laniaitte, you can find her down at the Rosehouse. Down the stairs and follow the path. It's not far.
+我々の指揮官であるラニエット様は、
+ここから少し離れた、ローズハウスにいらっしゃる。
+そこの階段を下り、道なりに進めば、すぐにわかるはずだ。
+
+Caribault
+カリボー
+While not the glamorous life one expects of knighthood, it is an enjoyable one. I daresay there's something almost therapeutic about tending to these crops. Perhaps I should consider becoming a botanist.
+畑の世話って、苦労も多いけど、なんだか落ち着くんだよね。
+つまらない歩哨より、よっぽど俺に向いているよ。
+騎兵なんてやめて、園芸師になろうかな？
+
+Harmiette
+アルミエット
+Day in and day out we stand watch, but for what? We all know there's no danger here. <sigh> The sooner I'm relieved from duty, the better.
+いちおう、歩哨任務中なんだけど、
+警戒する必要なんて、どこにあるのよ。
+……はあ、早く交代時間にならないかしら。
+
+Chalberon
+シャルベロン
+“Sheep can't survive in the Sea of Clouds,” they said. Well, I'll show 'em! These here sheep'll be the pride of Cloudtop. You wait an' see.
+オイラはこれでも、羊飼育のセキニンシャダイリなんだぜ！
+つまり、雲海での羊飼育の未来は、オイラのソウケンに、
+かかってるってことなんだ、すごいだろ！
+
+Lonu Vanu
+ロヌバヌ
+Like summer breeze which makes Vanu Vanu feel fine, netherlings are ever welcome in Ok' Zundu!
+ようこそ、ようこそ、旅のおヒト様！
+干天にやってくる雨雲のように、歓迎するよ！
+何かあれば、遠慮無く言ってほしいね！
+
+Aanu Vanu
+アヌバヌ
+Welcome to Ok' Zundu, netherling! Listen, hear cries of young Vanu ring out as they dance─netherling should watch, maybe she dances as well!
+ようこそ、ようこそ、オク・ズンドへ。
+エーテライトの傍で踊っているやつらを見たか？
+それは、それは、見事な踊りであろう、そうであろう！？
+
+Ganu Vali
+ガヌバリ
+Feast your eyes, netherling! Flower as beauteous as sunset after first spring rain! None in Ok' Zundu can claim to raise one as splendid!
+見て、見て、旅のおヒトよ。
+この花、風に舞う綿帽子のように、美しいよ。
+これほど見事に育てるバヌバヌ族は、そうそういないのよ！
+
+Hinu Vali
+ヒヌバリ
+Netherling, if stomach growls like looming storm cloud, just tell Hinu Vali─Ok' Zundu home to countless tasty bugs, and Hinu Vali great cook!
+ようこそ、ようこそ、旅のおヒト。
+お腹が、お腹が、空いていたら、言ってちょうだいね。
+地を這う虫のように美味しいものを、ごちそうするわ。
+
+Conu Vanu
+コヌバヌ
+Dance of Ok' Zundu as precious as rising sun that gives nourishment of light─does netherling's village have dance as well?
+我ら、我ら、大らかなズンドにとって、
+舞い踊るは、大地を照らす陽光のごとく大切なこと。
+よければ、よければ、旅のおヒトも踊らぬか？
+
+Emmanellain
+エマネラン
+I say, old girl, this is rather not my cup of tea...
+なんだよ、ドラゴン族なんて、どこにもいねぇじゃん。
+見張りって必要なわけ？
+
+Honoroit
+オノロワ
+As you wish, my lord. Should I spy an outflyer, I will alert you immediately...
+エ、エマネラン様……。
+見張りは、僕がしておきますから、
+絶対にフラフラ出歩かないでくださいね？
+
+Nameless #1012361
+無名 #1012361
+(Balloon)
+Begone, netherlings!
+These are Vundu lands!
+立ち去れ、立ち去れ！
+ここはバヌバヌの土地ぞ！
+
+Nameless #1012861
+無名 #1012861
+(Balloon)
+This way, quickly!
+ご無事でしたか！
+どうぞ、こちらへ！
+
+Wedge
+ウェッジ
+We'll stay in touch with your Temple Knight friend, don't you worry!
+ルキアさんとの情報共有は、オイラたちに任せてほしいッス。
+何か動きがあったら、ちゃんと報せるッス！
+
+Biggs
+ビッグス
+The Enterprise is ready to fly at a moment's notice. Just come running if you run afoul of something you can't handle.
+緊急事態に備えて、いつでも飛び立てるようにしておく。
+何かあったら、すぐに親方に連絡を入れてくれ。
+
+Nameless #1013698
+無名 #1013698
+(Balloon)
+Baa! Baa!
+メェ～
+
+Nameless #1013735
+無名 #1013735
+(Balloon)
+I've been scattering marl
+so long, I cannot even
+remember when I started!
+あら、もうこんな時間…
+あの人が帰ってくるわ♪
+
+Nameless #1013738
+無名 #1013738
+(Balloon)
+Which end was I supposed
+to look into again?
+ん…なんだあれは…？
+
+Nameless #1013740
+無名 #1013740
+(Balloon)
+Rain!
+フンッ
+
+Nameless #1013741
+無名 #1013741
+(Balloon)
+Sky!
+ハッ！
+
+Nameless #1013742
+無名 #1013742
+(Balloon)
+Life!
+ホッ！
+
+Tonu Vanu
+トヌバヌ
+The beauty of Neverreap is like a rainbow in the sky on a summer's day. The cruel Vundu sully it with their presence, yet we are powerless to drive them away...
+やはり、やはり、ネバーリープは美しいね。
+その神域を侵して荒らすブンドは、許せないよ。
+遠目から大切に見守るのがいいね。
+
+Nameless #1013774
+無名 #1013774
+(Balloon)
+Gods, how I hate cabbage...
+今日もよく働いたな～！
+
+Nameless #1013776
+無名 #1013776
+(Balloon)
+Bleeeaaat!
+メェ～メェ～
+
+Nameless #1013778
+無名 #1013778
+(Balloon)
+He's not coming back, love...
+おじいさん
+そろそろ帰りますよ！
+
+Nameless #1013780
+無名 #1013780
+(Balloon)
+Fish in sea are like stars
+in heavens─ever bountiful!
+まずい、まずい、
+ぼうずじゃ帰れない
+
+Nameless #1013781
+無名 #1013781
+(Balloon)
+Then why can
+you catch none?
+エサどこ…
+
+Nameless #1014080
+無名 #1014080
+(Balloon)
+Bastards...
+くそ、奴ら強い！
+
+Nameless #1014081
+無名 #1014081
+(Balloon)
+If only...
+もう少しなのに…
+
+Nameless #1014085
+無名 #1014085
+(Balloon)
+Dammit...
+ゼェゼェ…
+
+Nameless #1016122
+無名 #1016122
+(Balloon)
+I love me some plunder...
+これだけありゃ！
+
+Nameless #1016123
+無名 #1016123
+(Balloon)
+Too easy!
+ニヒヒ…
+
+Ronu Vali
+ロヌバリ
+Vundu make Ronu Vali teach dance day and night. When Ronu learns of Ok' Gundu Nakki, she escapes at first chance.  - Even Vundu tell story of Chief Honu's defeat around cooking fires. Ronu ensures all Gundu dance with ferocity!
+私は「冷酷なるブンド」の村で、こき使われていたの。
+でも、でも、この「オク・グンド・ナッキ」の存在を知って、
+疾風の如く逃げ出して、村民にしてもらったのよ。 - 貴方たちが「太陽の舞」で、ブンドを退けたことは語り草だわ。
+これからも、これからも、踊りで村を守っていかないとね！
+……ハッ！　フンッ！　ホッ！
+
+Nameless #1016352
+無名 #1016352
+(Balloon)
+Eat! Eat until stomach swells!
+さっさ！
+どんどん食べてくだせ～
+
+Nameless #1016353
+無名 #1016353
+(Balloon)
+Eenu Vanu outdoes himself again!
+エヌバヌ殿の腕前は
+すばらしいですな！
+
+Nameless #1016469
+無名 #1016469
+(Balloon)
+Something is amiss...
+怪しい奴はいないか？
+
+Nameless #1018301
+無名 #1018301
+(Balloon)
+Hoo! Hah!
+Hoo hoo hah!
+ハッハッ！　ホッホッ！
+フンッフンッ！
+

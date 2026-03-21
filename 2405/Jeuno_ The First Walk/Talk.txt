@@ -1,0 +1,140 @@
+Pawkukwe
+パークケ
+This city is unlike anything I've ever seen in Tural. What secrets do you suppose are buried here?
+この街については、まだわからないことが多いが……
+非常に高度な文明であることは窺えるよ。
+
+Miitso
+ミーゾ
+I've looked high and low, but still no sign of any treasure. Or townsfolk, for that matter. If I do manage to find anything, I suppose I'll just help myself.
+お宝、見当たらないわねぇ。
+住人がいないなら、適当に何かもらっていこうかしらぁ？
+
+Peculiar Goblin
+不思議なゴブリン族
+If you find any worn music scrolls, give them here. Gobbie promises to make it worth your while.
+オマエ、持ってる「ぼろぼろの譜面」、オレに渡せ。
+代わりにオレ、イイモノをやる。
+
+Elvaan Adventurer
+エルヴァーン族の冒険者
+Gods... What's happened to this place?
+どうして、ジュノがこんなことに……？
+
+Hume Adventurer
+ヒューム族の冒険者
+The city's not at all what it should be. <sigh> What I wouldn't give for a drink right about now.
+街がこんな有様では……
+はあ、酒場が恋しい……。
+
+Diminutive Shade
+小柄な姿の影
+I...Chululu... Divining...
+Five...card... Other-wothers...
+はじ……て……ルル。
+……相性……ています。
+タルットカード……交換…………。
+
+Nameless #1052150
+無名 #1052150
+(Balloon)
+Kurou... Magnificentaru...!
+All...revealed...
+わ…しは占い師…
+クロ…ロウ…
+
+Cordial Shade
+穏やかな様子の影
+Welcome...Chamber of Commerce...
+We assist...job...labor...
+ここ……商工会議所。
+街の…………求人募集…………。
+
+Nameless #1052154
+無名 #1052154
+(Balloon)
+...welcome...Adoulin...
+...help...?
+アドゥ…開拓…者…
+
+Nameless #1052155
+無名 #1052155
+(Balloon)
+...magic map...adventures...?
+冒険のおと…
+魔法の地…は…
+
+Nameless #1052156
+無名 #1052156
+(Balloon)
+I am...patrol...
+オレはジュノ…
+下…区担当のザウ…
+
+Nameless #1052157
+無名 #1052157
+(Balloon)
+...a lass...my love...
+...so shy...
+若い…はよく爺さ…
+この噴水を…
+
+Nameless #1052158
+無名 #1052158
+(Balloon)
+...monstarus...recorded... Dale...
+モンス…情報…
+「みとどけくん」…
+
+Thrifty Shade
+注文を待つ影
+...Neptune's Spire!
+Applicants...invite...our branch...
+Please...will issue...membership...
+海神楼……そ！
+……なるには……紹介状……
+……を発行いたします。
+
+Orderly Shade
+窓口の近くに立つ影
+...auction house. ...any questions...?
+In the past...great wealth...
+私……競売……。
+…………質問…………？
+巨万の富……夢では……せん。
+
+Nameless #1052164
+無名 #1052164
+(Balloon)
+...Mea...1k...
+Can I have...?
+ホラ・デム・メア…
+ヴァズ…1000…
+
+Solemn Shade
+寂しげに佇む影
+Party... Looking...
+Dark... Samurai... Dragoon...
+……にちは！
+パーティは……ですか？
+編成……暗……侍……竜……
+
+Elvaan Dancer
+エルヴァーン族の踊り子
+Are we in Jeuno...? I swear I was hunting colibri in Bhaflau Thickets not long ago. - I remember a bright light and then darkness... Then I think I heard someone ranting about how they failed, and echoes... It didn't really make sense. - <sigh> All that time putting together a party wasted... It's going to take forever to improve my closed position at this rate.
+どうして私はジュノに？
+先ほどまで「バフラウ段丘」で、
+コリブリと戦っていたはず……。 - そういえば、目を覚ます直前……
+誰かが、「また失敗作か」と話す声が聞こえたような。 - 何が起こったのかはわかりませんが、
+もう一度、狩りに行く仲間を募らなければ。
+せっかく良い構成のパーティを組めたのに……。
+
+Hume Black Mage
+ヒューム族の黒魔道士
+Ever since I got a hold of this staff, people finally stopped asking me to heal when we go hunting. - In fact, warriors and thieves have started timing their attacks to match my casting Flare. It's finally black mage's time to shine!
+良いことを教えてやろう。
+俺は黒魔法を追求している者だが、この杖を手に入れてからは、
+狩りの最中に回復魔法を求められることがなくなったんだ。 - それどころか、俺の古代魔法「フレア」の詠唱を合図に、
+戦士やシーフが連携攻撃を開始するぐらいさ！
+黒魔道士の暗く凍てついた時代は、ついに終わりを迎えたんだ！
+

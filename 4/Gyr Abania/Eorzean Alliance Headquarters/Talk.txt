@@ -1,0 +1,171 @@
+Alisaie
+アリゼー
+His grand plan is to bring about more calamities!? This is insanity! This madman must be stopped at all costs!
+わざと霊災を起こそうなんて、どうかしてるわ！
+ヴァリス帝の野望は、絶対に阻止しないと……！
+
+Raubahn
+ラウバーン
+The Empire exists to wage war, and war it shall have. But its vast armies pour in like the tides themselves─this could very well be the greatest military threat Eorzea has ever faced...
+帝国とは戦うべくして、戦うことになった。
+しかし、相手の戦力は強大、この上なく厳しい戦となるだろう……。
+
+Hien
+ヒエン
+We suspected Ascians meddled in the shadows of the Empire, but the truth is far beyond my wildest imagining. At least now we know the face of our enemy, and need not hesitate to strike at its heart!
+帝国でのアシエンの暗躍を疑っていたが、
+やれやれ、予想を遥かに上回る規模での陰謀であったな。
+とはいえ敵の正体が知れたいまとなっては、ただ戦うのみよ！
+
+Yugiri
+ユウギリ
+I am glad we arrived in time to aid in the battle. Though our vanguard may be small, these few are our chosen elite─the finest warriors of the Far East.
+開戦に間に合ってよかった。
+つい先ほど、東方連合の先遣隊を率いて到着したところだ。
+数こそ少ないが、選りすぐりの精鋭部隊となっている。
+
+Nanamo Ul Namo
+ナナモ・ウル・ナモ
+Now that we have learned the Emperor's true purpose, war has become an inevitability. 'Tis times like these I curse my own uselessness in battle...
+ヴァリス帝の真意を知ったいま、
+停戦なんぞ、もっての外となってしまったな。
+こんなとき、戦えぬ己の非力を口惜しく思う……。
+
+Pipin
+ピピン
+My first engagement as Flame General, and it is full-scale war with the Empire...
+I feel some measure of nervousness, of course, but I swear I will make Father proud in the battles to come!
+不滅隊局長としての初陣が、帝国との全面戦争になるとはな。
+いささか緊張してはいるが、義父上に恥じぬよう、
+全身全霊で戦うつもりだ！
+
+Aymeric
+アイメリク
+The Ascians are terrible beings indeed that they would found an entire nation to further their dark designs. 'Twould seem that the Empire's history is as sinister as Ishgard's own.
+目的のために国まで興すアシエンとは、なんと恐ろしき存在か……。
+我が国と同様に、帝国の歴史もまた大きく歪められているようだ。
+
+Lucia
+ルキア
+The Temple Knights have deployed in full strength. Eorzea's future is Ishgard's future, and our fates ride upon the outcome of this conflict.
+神殿騎士団も総力をあげて参戦する。
+エオルゼアの未来は、すなわちイシュガルドの未来！
+この度も、絶対に負けられない戦いだ……！
+
+Merlwyb
+メルウィブ
+It makes a twisted kind of sense that the Empire was built by the chaos bringers themselves. The revelation yet rattles me, but now that we know our enemies are one and the same, we have a target upon which to unleash the full force of the Alliance!
+まさか帝国が、アシエンによって興されていたとは……。
+いまだ、動揺が収まらぬが、これで倒すべき敵はひとつとなった。
+エオルゼア同盟軍の底力を、いまこそ見せてやろう！
+
+Eynzahr Slafyrsyn
+エインザル大甲将
+Send me to the front lines, if you please. We'll give the imperials a taste of the Maelstrom's cannons─not to mention my axe!
+今度も前線に出させてもらうぞ。
+黒渦団の大砲に、俺の鉄斧を加えて、
+帝国兵どもにたっぷり味わってもらうとしよう！
+
+Kan-E-Senna
+カヌ・エ・センナ
+I refuse the Emperor's words with all of my being. What justice is there in an ideal that demands the sacrifice of so many?
+皇帝の言葉には、決して同意できません。
+人に犠牲を強いる理想に、何の大義がありましょう？
+
+Keeper Of The Entwined Serpents
+白蛇の守人
+I was born in the Empire, but I will never serve the Emperor. Only the Seedseer commands my loyalty.
+私は帝国の出身です。
+ですが、今の私にとって忠誠の対象は皇帝ではなく、
+カヌ・エ様、ただおひとりにあるのです。
+
+Nameless #1027003
+無名 #1027003
+(Balloon)
+We must protect the border at all costs.
+我らで国境を死守しよう！
+
+Nameless #1027005
+無名 #1027005
+(Balloon)
+Then we must call for
+reinforcements.
+それなら我が部隊を…
+
+Nameless #1027007
+無名 #1027007
+(Balloon)
+We have no reason to believe
+the barrier will not hold.
+本陣の魔法障壁は強固だが…
+
+Nameless #1027010
+無名 #1027010
+(Balloon)
+Yet if they should bring
+all to bear against us...
+強襲に備えねば…
+
+Nameless #1027013
+無名 #1027013
+(Balloon)
+I fear we lack the numbers
+to hold out...
+ここにも戦力が必要だ…
+
+Nameless #1027020
+無名 #1027020
+(Balloon)
+Till our dyin' breaths.
+帝国軍を蹴散らします！
+
+Nameless #1027088
+無名 #1027088
+(Balloon)
+There's nothin' more beautiful
+than a sunset on the Rhotano.
+ロータノ海は澄んでいて…
+
+Nameless #1027092
+無名 #1027092
+(Balloon)
+I pray this will be enough.
+魔導兵器に負けるものか…
+
+Nameless #1027096
+無名 #1027096
+(Balloon)
+I pray I live to see it...
+いつか行ってみたいな…
+
+Nameless #1027196
+無名 #1027196
+(Balloon)
+Argh...
+痛ぇ、痛ぇよぉ…
+
+Nameless #1027197
+無名 #1027197
+(Balloon)
+We should send out a
+reconnaissance team.
+忍びに哨戒させよう
+
+Nameless #1027200
+無名 #1027200
+(Balloon)
+I will do whatever it takes to save my patients. Whatever it takes!
+全力を尽くすわ
+
+Nameless #1027201
+無名 #1027201
+(Balloon)
+I can't feel my legs...
+前線は…地獄だった
+
+Nameless #1032714
+無名 #1032714
+(Balloon)
+I can't bear all this waiting around...
+警戒は怠らないさ
+

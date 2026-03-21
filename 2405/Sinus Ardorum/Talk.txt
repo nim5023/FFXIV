@@ -1,0 +1,278 @@
+Namingway
+ネミングウェイ
+Such a marvelous moon base─I can scarcely believe the magnitude of it! Yet I know that far more awaits us beyond the furthest reaches of the stars...
+月面にこんな立派な基地ができちゃうなんて、ビックリだよー！
+これから宇宙へと旅立って、もっともっとたくさんの出会いが、
+ボクらを待っていてくれるのかなぁ……！
+
+Phasingway
+フェイジングウェイ
+Me? I serve as stellar mission control. People send in requests from all around the hub, and in turn, I post them to the contributors. - I'm still getting used to working with you Etheirys dwellers─involves a lot of craning my neck─but I'm more than happy to help you help us. Just say the word.
+小生は、コスモミッションにまつわる窓口を統括している。
+計画機構の各所で生じる要望や問題を取りまとめ、
+ミッションとして、協力者諸君に依頼を出しているのである。 - ヒトとの協業には、まだ慣れぬ部分もあるが、
+まずはこの月面での活動を無事達成できるよう善処する所存。
+手を貸してくれるなら、よろしく頼むぞ。
+
+Phasingway
+フェイジングウェイ
+Me? I serve as stellar mission control. People send in requests from all around the hub, and in turn, I post them to the contributors. - I'm still getting used to working with you Etheirys dwellers─involves a lot of craning my neck─but I'm more than happy to help you help us. Just say the word.
+小生は、コスモミッションにまつわる窓口を統括している。
+計画機構の各所で生じる要望や問題を取りまとめ、
+ミッションとして、協力者諸君に依頼を出しているのである。 - ヒトとの協業には、まだ慣れぬ部分もあるが、
+まずはこの月面での活動を無事達成できるよう善処する所存。
+手を貸してくれるなら、よろしく頼むぞ。
+
+Phasingway
+フェイジングウェイ
+Me? I serve as stellar mission control. People send in requests from all around the hub, and in turn, I post them to the contributors. - I'm still getting used to working with you Etheirys dwellers─involves a lot of craning my neck─but I'm more than happy to help you help us. Just say the word.
+小生は、コスモミッションにまつわる窓口を統括している。
+計画機構の各所で生じる要望や問題を取りまとめ、
+ミッションとして、協力者諸君に依頼を出しているのである。 - ヒトとの協業には、まだ慣れぬ部分もあるが、
+まずはこの月面での活動を無事達成できるよう善処する所存。
+手を貸してくれるなら、よろしく頼むぞ。
+
+Phasingway
+フェイジングウェイ
+Owing to the many successful missions undertaken by you and yours, we've achieved all of our goals here in Sinus Ardorum. - These accomplishments will pay dividends on other stars, so I hope you'll continue to offer aid on all fronts. That Lalafellin project manager would surely appreciate it.
+月面での星外進出に向けた目標は、無事に達成されたな。
+貴殿たち協力者諸君が、
+ミッション達成に並々ならぬ貢献を果たしてくれたおかげである！ - 異星での活動も、月面での実績をもとに充実することであろう。
+ヒトの計画進行管理者ともマネジメント面で協業するゆえ、
+引き続き探索計画に尽力してくれたまえよ。
+
+Justa
+ユスタ
+I expect we'll require more gadgetry to suit the needs of whatever planets we descend upon. When the time comes, I should be happy to offer my services as an engineer. - 'Tis scarcely different from my life in Garlemald─utilizing my skills for the sake of sustained survival─but to do so here feels altogether different. More...fulfilling, perhaps.
+今後降り立つことになる星の環境次第で、
+また新たな機器の開発を手掛けることになるでしょう。
+技師として、腕を振るわねばなりませんね。 - ガレマルドで暮らしていた頃とはまた異なる意義で、
+生存と未来のために技術を活かせること……。
+とても幸せに感じていますよ。
+
+Nameless #1053083
+無名 #1053083
+(Balloon)
+Soil enhancement is proceeding nicely, I see.
+土壌改良の進捗は、と…
+
+Nameless #1053084
+無名 #1053084
+(Balloon)
+This way to the Moongate Hub!
+基地への帰投は
+こちらで～す！
+
+Nameless #1053085
+無名 #1053085
+(Balloon)
+Another inspection request...
+追加の点検要請が来たわ
+
+Nameless #1053091
+無名 #1053091
+(Balloon)
+Zoom! Just like a starship!
+ぎゅい～ん！って
+まるで宇宙船みたいでした！
+
+Nameless #1053095
+無名 #1053095
+(Balloon)
+This is working properly...right?
+正常運転してるかな…
+
+Nameless #1053097
+無名 #1053097
+(Balloon)
+Thank you for your hard work.
+頑張ってくれたね
+ご苦労さん
+
+Nameless #1053099
+無名 #1053099
+(Balloon)
+Will a mini rover suffice...?
+ミニローダーだけで
+対応できるか…？
+
+Nameless #1053107
+無名 #1053107
+(Balloon)
+Good. Transmissions are active.
+うん、通信も問題なしだ
+
+Nameless #1053109
+無名 #1053109
+(Balloon)
+Wh-Where should I put this?
+ど、どこに置けばいい…？
+
+Nameless #1053112
+無名 #1053112
+(Balloon)
+Confirming visual data...
+撮影データを
+本部に送信…っと
+
+Nameless #1053131
+無名 #1053131
+(Balloon)
+Crush! Smash! DESTROY!
+砕イテ、ドウゾ～！
+
+Nameless #1053132
+無名 #1053132
+(Balloon)
+<blip> <bloop> <bleep>
+ガガガガ
+
+Nameless #1053134
+無名 #1053134
+(Balloon)
+How fares the excavation?
+掘削の進捗はね…
+
+Nameless #1053146
+無名 #1053146
+(Balloon)
+Burn... Burn... Burn...!
+いい火力ね
+
+Nameless #1053155
+無名 #1053155
+(Balloon)
+Hm-hm-hmmm～♪
+ふきふき
+
+Nameless #1053158
+無名 #1053158
+(Balloon)
+Boop, boop!
+ピコピコ
+
+Nameless #1053168
+無名 #1053168
+(Balloon)
+Nobody will notice me here...
+ここなら見つからないぞ…！
+
+Nameless #1053178
+無名 #1053178
+(Balloon)
+We seem to have enough.
+数は揃ってるな…
+
+Nameless #1053179
+無名 #1053179
+(Balloon)
+I AM THE DRILL MASTER!
+砕けろおおおおおおお！！
+
+Nameless #1053180
+無名 #1053180
+(Balloon)
+That's the spirit! Keep going!
+ここを一気に進みますー！
+
+Nameless #1053183
+無名 #1053183
+(Balloon)
+Quality assurance... My favorite...
+品質ヨシッ！
+
+Nameless #1053184
+無名 #1053184
+(Balloon)
+Progress in action!
+貴重な掘削シーンだ
+
+Nameless #1053189
+無名 #1053189
+(Balloon)
+My inspection proceeds apace!
+点検順調ですー！
+
+Nameless #1053194
+無名 #1053194
+(Balloon)
+We have enough. Excellent.
+足りてるな
+
+Nameless #1053240
+無名 #1053240
+(Balloon)
+I do hope we have enough...
+足りてるかなー？
+
+Nameless #1053243
+無名 #1053243
+(Balloon)
+Mechanical supplies go over there!
+機材箱は
+あちらにお願いします～！
+
+Nameless #1053244
+無名 #1053244
+(Balloon)
+Hmm... What am I in the mood for?
+今日は何にしようかなぁ～
+
+Nameless #1053262
+無名 #1053262
+(Balloon)
+Battery packs, check.
+Supplies, check...
+タンクよし、備品もよし
+
+Nameless #1053269
+無名 #1053269
+(Balloon)
+Er...where am I meant to put this?
+ど、どこに置くんだっけ…
+
+Nameless #1053272
+無名 #1053272
+(Balloon)
+This fuel efficiency is...
+燃費評価は、と…
+
+Nameless #1053275
+無名 #1053275
+(Balloon)
+If only my family could see this...
+ハイデリンの家族にも
+見せてやりたいなぁ
+
+Nameless #1053289
+無名 #1053289
+(Balloon)
+Is this a new flavor?
+新しいフレーバーらしいです！
+
+Nameless #1053290
+無名 #1053290
+(Balloon)
+Today I'm in the mood for...
+今日の気分は～…
+
+Nameless #1053297
+無名 #1053297
+(Balloon)
+Oh my...
+おお～
+
+Nameless #1053323
+無名 #1053323
+(Balloon)
+Buffoons, all of them...
+Have they honestly not a moment to spare?
+フゥ、取りに来ない連中ばかり…
+そんなにお時間ないのかしら？
+
+Nameless #1053326
+無名 #1053326
+(Balloon)
+Behold...Piercingway Tunnel!
+トンネルができたよーっ！
+

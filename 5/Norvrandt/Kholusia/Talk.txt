@@ -1,0 +1,280 @@
+Grawley
+グラーリー
+Keeping track of supplies, fending off raiders... There's no end to the list of things I've got to worry about. Still, that's the job I asked to do, and I don't mean to shirk my duties!
+物資の確保に、害獣対策に……
+やることも考えることも尽きないよ。
+だけど、自分で選んだ道なんだ……しっかりやり遂げるさ！
+
+Illcher
+イルチャー
+“Why's it called Governor's Row?” That's what you're thinking, isn't it? Well, that's the title our mayor took for himself after he got tired of declining Eulmore's “guidance.”  - Reckoned they'd respect him more if he sounded important. Hah! Bunch of bloody nonsense, if you ask me, but you have to respect the man's convictions.
+ここは、「ガバナーの畑」と呼ばれているところだよ。
+ユールモアの政策に飽き飽きした、スティルタイドの村長が、
+自ら「知事」と名乗ったことに由来しているのさ。 - ははっ、偉そうだって思うだろ？
+それでも、ユールモアには頼らないと方針を定めた村長を、
+私たちは誇りに思うよ。
+
+Nameless #1027426
+無名 #1027426
+(Balloon)
+Heading in for a pint?
+おや、アンタも
+一杯やりにきたのかい？
+
+Tatcha-Mei
+タチャ・メイ
+I swear there was another sack here yesterday... Must have been those bloody hobgoblins!
+また、食糧が減っているわ……。
+ホブゴブリンの仕業かしら……。
+
+Nameless #1027434
+無名 #1027434
+(Balloon)
+We've got to protect our food stores!
+ちゃんと飯は確保しねぇとな！
+
+Nameless #1027436
+無名 #1027436
+(Balloon)
+Just a few more rows!
+あ～らよっと！
+
+Nameless #1027438
+無名 #1027438
+(Balloon)
+That ought to keep the wind out.
+こんだけ補強すれば
+大丈夫だろ
+
+Rakitt
+ラキット
+Look at these lovely, plump ladies! They'll be laying eggs soon, and my automaton here will spring into action to scoop them up. The eggs, that is, not the rails...
+丸々として、よく肥えたレイルでしょ？
+卵を産んだら、このオートマトンが速やかに採卵してくれるのさ。
+それまで、こいつはじっと待機してるんだ！
+
+Gratt
+グラット
+Lali-ho! I'm teaching this beardling here all about the wonders of ore. If you don't understand the value of what you're digging up, well, then you're no better than a knocker!
+ラリホー！
+鉱石の素晴らしさについて、若造に教えてやっているところじゃ！
+価値がわからなければ、ノッカーと同類じゃからな！
+
+Bomott
+ボモット
+Lali-ho! Oh, you'll never see this dwarf remove his helm in front of other folk! Nay, no matter how suffocating it is! Or itchy. Or smelly...
+ラリホー！
+たとえ、どんなに顔が痒くたって、息苦しくたって、
+ボクたちは人前で兜を脱ぐわけにはいかないのさ！
+
+Nameless #1027472
+無名 #1027472
+(Balloon)
+Aye, that hits the spot!
+くぅ～！
+たまんないねぇ！
+
+Nameless #1027476
+無名 #1027476
+(Balloon)
+Ugh, I need a drink...
+うぅん、難しい…
+
+Nameless #1027479
+無名 #1027479
+(Balloon)
+No swivin' Goggs about, then?
+異変はねぇべか？
+
+Nameless #1027482
+無名 #1027482
+(Balloon)
+Hup! Ha!
+よっ！　ほっ！！
+
+Riott
+リオット
+You've got to look after your tools! Is that pickaxe ready to split the hardest stone? Is that hammer goin' to break apart on a Gogg's noggin?
+道具の点検は、どえりゃあ大事！
+自慢のツルハシで、硬い鉱石もザックザク！
+自慢のハンマーで、コグー一家もボッコボコ！
+
+Nameless #1027488
+無名 #1027488
+(Balloon)
+I think...<hic>...I've had enough...
+ヒック…もう呑めまひぇん…
+
+Nameless #1027489
+無名 #1027489
+(Balloon)
+Whisk, whisk until it's mixed!♪
+素早くかき混ぜてっと…
+
+Nameless #1027491
+無名 #1027491
+(Balloon)
+We're gonna need more meat...
+しばらくは大丈夫そうね
+
+Nameless #1027494
+無名 #1027494
+(Balloon)
+Keep an eye on them buggers!
+あいつら、見てろよ～！
+
+Nameless #1027496
+無名 #1027496
+(Balloon)
+Who's a pretty girl, then?
+よーし、いい子だぞ～
+
+Jaimbert
+ジェイムベルト
+Ho there! Don't mind me─I'm just sortin' the good from the bad. Amity was left to rot for more than a few seasons, and some of this stuff ain't worth keepin' anymore.
+よぉ！
+今、使えそうな物資と廃棄する物資の選別をしてんだ。
+何せ、廃村になってから、かなりの年月が経過した村だからな！
+
+Nameless #1027501
+無名 #1027501
+(Balloon)
+Grab a seat!
+...And a mug!
+ほら、あんたも飲めって！
+
+Nameless #1027502
+無名 #1027502
+(Balloon)
+You do too much...
+やることは山積みね…
+
+Nameless #1027506
+無名 #1027506
+(Balloon)
+Almost time to eat!
+腹ごしらえはしねぇとな！
+
+Nameless #1027508
+無名 #1027508
+(Balloon)
+It's gotta be cooked by now...
+そろそろいい頃合いかな？
+
+Nameless #1027510
+無名 #1027510
+(Balloon)
+Please...
+Whatever you can spare...
+どうか、お恵みを…
+
+Nameless #1027512
+無名 #1027512
+(Balloon)
+W-We'll get you some medicine...
+ど、どうしてこんなことに…
+
+Nameless #1027515
+無名 #1027515
+(Balloon)
+Did you hear what happened to that girl!?
+ねぇ、あの噂信じられる！？
+
+Sumott
+スモット
+Bah, keep your iguana tails! What goes best with ale is a plate of marinated rail eggs, and no dwarf'll convince me different!
+むむ……お主、何を言うか！
+ドワーヴンエールに合う最高のつまみは、
+秘伝のタレに漬け込んだ、レイルの味付け卵できまりじゃ！
+
+Xinitt
+ジニット
+Hup! Ha! I could do this all day!
+よっ、ほっ！
+ボクらドワーフは力持ち、ほいっ！
+
+Nameless #1027522
+無名 #1027522
+(Balloon)
+B-Blast! It's higher than I thought...
+お、思ったより高いなぁ…
+
+Nameless #1027523
+無名 #1027523
+(Balloon)
+La... La...li...ho!
+ラ…ラ…ラリッホー！
+
+Nameless #1030174
+無名 #1030174
+(Balloon)
+Lord...Vauthry...
+ヴァ…スリ…さま…
+
+Nameless #1030175
+無名 #1030175
+(Balloon)
+Long may...you reign...
+万歳…万歳…
+
+Soft-faced Bloke
+物腰柔らかな元兵士
+It's a bit odd how this new training ground of ours is being utilized mostly by foreign fighters. Four out of five we ferry to the isle aren't Kholusian. But hey, at least it's not going to waste...?
+ユールモア防衛のための訓練場といったって、
+訪れるのは、八割方が流れの旅人さ……。
+長年染み付いた他人任せの享楽心は、簡単に消せないか。
+
+Nameless #1030590
+無名 #1030590
+(Balloon)
+Ohhh...
+ぅ…おぉ…
+
+Nameless #1030592
+無名 #1030592
+(Balloon)
+Hallowed be his name...
+偉大なる…ドン…
+
+Nameless #1030593
+無名 #1030593
+(Balloon)
+Blessed is the meol...
+アァァ…
+もっとメオルを…
+
+Gossipy Dwarf
+噂好きのドワーフ
+What kind of things could one find in a machine graveyard, anyway...? Gah, I have to know! Maybe I'll sneak into Komra my very own self...
+「機械遺跡」ってところに入ってみたいなあ。
+いったいどんな資源が発掘できるんだろう……。
+オレ、コメラの村に潜入してみようかな……。
+
+Dig Site Watch
+坑道の番人
+Wicked white, if you start pestering me like those twins to get inside... <sigh> I tell you, what's the point of being a guard if you can't profit off it? Why would anyone ever take this job?
+ここは立ち入り禁止だよ。
+はぁ……カネが欲しいなあ。
+
+Dig Site Chief
+ドワーフ族の親方
+Folks ought to keep busy, that's my motto. Idle hands are the fae's playthings.
+人間、忙しくしてるのが一番だ。
+ヒマだとロクな事考えやしねぇからな。
+
+Anogg
+アノッグ
+Yes, yeees... Our plans for world domination are proceeding apace...
+ワレワレの世界支配はすぐソコに……。
+
+Konogg
+コノッグ
+Heh heh heh... And should anyone attempt to interfere, we will attend to them with great prejudice, heh heh heh...
+ボク達の野望を阻む者は……滅ぼさねばならない。
+
+Konogg
+コノッグ
+I'm no good on my own...
+ボクは……
+これからどうしたらいいんだろう……。
+

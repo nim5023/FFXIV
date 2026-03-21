@@ -1,0 +1,248 @@
+Nameless #1037797
+無名 #1037797
+(Balloon)
+Processing power: optimal. Overall status: fantastic!
+処理能力、状態ともに
+問題なしっと…！
+
+Nameless #1037800
+無名 #1037800
+(Balloon)
+Hm... Perhaps a few adjustments are in order.
+ちょっと調整しようかなぁ…
+
+Nameless #1037808
+無名 #1037808
+(Balloon)
+Listen, everyone, or you'll miss your next assignments!
+それじゃあ
+作業分担を発表するぞ！
+
+Nameless #1037818
+無名 #1037818
+(Balloon)
+Oh goodness me, what was I told to do again?
+あれ…なんて言われたっけ…？
+
+Nameless #1037821
+無名 #1037821
+(Balloon)
+Suppose this needs an overhaul, now they've changed specifications on us.
+あそこも調整しないと…
+
+Nameless #1037825
+無名 #1037825
+(Balloon)
+Th-This is much taller than I initially thought. Oh dear, I feel dizzy.
+意外と高いなぁ～
+
+Nameless #1037834
+無名 #1037834
+(Balloon)
+Well, this will all need to be redone, I imagine.
+一度、手順を見直すかぁ
+
+Nameless #1037836
+無名 #1037836
+(Balloon)
+There must be something to be done about this. Come now, think, think, think... 
+いい方法がないか
+アイデアを練り直そう…！
+
+Nameless #1037837
+無名 #1037837
+(Balloon)
+High time we got serious─put our backs into it!
+そろそろ本気出すかなっと
+
+Nameless #1037842
+無名 #1037842
+(Balloon)
+Nothing for it. Only one thing to be done─scrap it all and start over!
+ふむふむ…
+次はこの方法を試してみるか…
+
+Nameless #1037849
+無名 #1037849
+(Balloon)
+Work harder, I say! No, no─harder! Don't make me come down there!
+キビキビ働いておくれよ！
+
+Nameless #1037852
+無名 #1037852
+(Balloon)
+All right, this water quality won't check itself! Let's get to it.
+手分けして
+水質点検するぞー！
+
+Nameless #1037855
+無名 #1037855
+(Balloon)
+We finish this today, understand? So hop to it!
+今日中に
+全部終わらせるぞ！
+
+Nameless #1037875
+無名 #1037875
+(Balloon)
+Sir, yes, sir!
+了解でありますっ！
+
+Nameless #1037881
+無名 #1037881
+(Balloon)
+Aw, there's a good plant. Grow up nice and strong for me, all right?
+よしよし！
+おいしそうに育ってる！
+
+Nameless #1037894
+無名 #1037894
+(Balloon)
+I could smell this all day long, I could!
+この香りはクセになる…！
+
+Blastingway
+ブラスティングウェイ
+This doesn't require a debate! We have work to do, so quit dragging your feet and get to it!
+細かいことは後で決めればいいよ！
+だから、さっさと作業を始めようってばー！
+
+Nameless #1037901
+無名 #1037901
+(Balloon)
+Yes, this will serve us just fine, I should think!
+これだけあれば
+バッチリでしょ！
+
+Nameless #1037904
+無名 #1037904
+(Balloon)
+These really are stunning. Can't quite take my eyes off them, in fact.
+いつ見てもキレイだなぁ～
+
+Diggingway
+ディギングウェイ
+Beautiful, isn't it? I bet you can hardly believe those crystals aren't natural!
+キレイな色をしてるでしょう？
+これは人工クリスタルって言うんですよ。
+
+Despondent Refugee
+若い帰還者
+My, what a surprise. Though I suppose it shouldn't be, considering all the Loporrits have told me. Speaking of whom, have they always been so...well... - At first I didn't know what to think. Between their peculiar sense of dress and ceaseless─yet surprisingly tasty─stockpile of carrots, I was worried we made a mistake. - They're a misguided sort, but I believe my fellows and I are up to the task of making substantial improvements to their facilities.
+やあ、誰かと思ったらあんたか。
+あれから俺たちは月で何とかやっている。 - 最初は、どう見ても森じゃない森やら、
+ニンジンばかりの畑やらに面食らったが……
+帝国にもなかった未知の高度な技術に興奮しっぱなしさ。 - いまは、俺たち「ヒト」の視点から、
+レポリットたちに技術の改善を提案する役目を担っているんだ。
+資料保管庫の計画も進んでいて忙しいが、毎日が充実しているよ。
+
+Coiningway
+コイニングウェイ
+Carats burning a hole in your pocket? I wager so. Feel free to peruse the fine─and fairly priced, if I do say so myself─wares we have in stock!
+「人参貨」が集まったら、
+こちらで存分に、買い物をお楽しみあれ！
+豊富な品揃えでお待ちしておりますぞ！
+
+Cookingway
+クッキングウェイ
+If you'd like some of the pudding, I suggest you order it now. One never knows when Puddingway will drop by...
+おっ、。
+俺の自慢の料理、思う存分、食べてくれよな。
+
+Ridingway
+ライディングウェイ
+Inventingway has truly surpassed himself with this moon-hopper! Even I cannot say what some of those buttons do...
+このムーンホッパーは、
+私がインベンティングウェイと開発したマシンなんですよ！
+
+Doing Supporter
+ワーキング・サポーター
+Welcome to the Dreaming Workshop! <blip> <blip> <blip> ...Pardon, this is all terribly exciting.
+ヨウコソ、どりーみんぐ・わーくしょっぷヘ！
+
+Keepingway
+キーピングウェイ
+Rest assured that the ingredients and materials entrusted to me for safekeeping are kept safe as you please. ...How safe do you please, by the by?
+材料など、必要な物資類は、
+ここでバッチリ管理してありますから、どうぞご安心を！
+
+Ashen-furred Loporrit
+灰毛のレポリット
+Do you think my feelings reached them? The distance is so great...
+あの放送は、私の声は、
+誰かの耳に届いただろうか……？
+
+Gamingway
+ゲーミングウェイ
+One might think standing around and waiting for something fun to happen isn't particularly entertaining, but I beg to differ. Why, I have plenty of fun just being in a place this lively!
+ここは賑やかでいいですね！
+いるだけでも、なんだか楽しい気分になってきますよ！
+
+Nameless #1044417
+無名 #1044417
+(Balloon)
+Maybe they'll read mine next!
+今度はどんなお話かな…！？
+
+Nameless #1044423
+無名 #1044423
+(Balloon)
+Woooooo!
+わーい！わーい！
+
+Nameless #1044429
+無名 #1044429
+(Balloon)
+Yea! Yea, I say!
+イェーイ！！
+
+Nameless #1044434
+無名 #1044434
+(Balloon)
+Mmmmmmuffin...
+こりゃあ美味しいや！
+
+Nameless #1044442
+無名 #1044442
+(Balloon)
+Next: Lights in the sky above the Carrotorium...
+それでは、次のお話は…
+
+Greeningway
+グリーニングウェイ
+My dream is to stand out─in green! How do I look? Please say “green”...
+ボクの夢は目立つこと……！
+塗料でユニフォームを緑色に染めてみたんだ！
+キラキラしてて、目を引くでしょう～！？
+
+Nameless #1044451
+無名 #1044451
+(Balloon)
+Right...there!
+フン、フフ～ン！
+
+Nameless #1044950
+無名 #1044950
+(Balloon)
+Whoa! This isn't a closet at all!
+いつの間に
+こんな場所が…
+
+Nameless #1044952
+無名 #1044952
+(Balloon)
+I know this song!
+こ、この曲は何っ！？
+
+Nameless #1045246
+無名 #1045246
+(Balloon)
+Yum yum!
+おいし～い！
+
+Urianger
+ウリエンジェ
+Worry not for the voidgate and containment seal. We shall spare no effort to ensure they endure for as long as they are needed.
+ヴォイドゲートと封印機構は、私たちにお任せください。
+少しでも長く持ちこたえるよう、監視を続けてまいります……。
+
