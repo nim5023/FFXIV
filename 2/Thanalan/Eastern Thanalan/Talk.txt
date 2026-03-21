@@ -1,0 +1,645 @@
+Frediswitha
+フレディスィサ
+Wait! Aren't you...? Ah, never mind. Carry on.
+……あんた、本当にまっさらな冒険者？
+アマルジャのスパイ、とかじゃないわよね？
+
+Nameless #1003928
+無名 #1003928
+(Balloon)
+I will see you avenged...
+安心してね…
+
+Tutusi
+ツツシ
+Have everything you need for a proper burial? If you find yourself wanting for aught, you'll find it at Camp Drybone!
+さぁさぁ、埋葬の準備は整ったかしら？
+何か必要なら、キャンプ・ドライボーンで調達していって！
+
+Caitlyn
+ケートリン
+It's the lichyard that brings so many visitors to Camp Drybone. They come to grieve and to mourn their dead. Protect those you love, friend. It's a hard thing to see them put in the ground.
+ここは墓地が近いでしょう？
+だから、大切な人を亡くした遺族がたくさんいるわ。
+……あなたも、大事な人はきちんと守ることね。
+
+Nameless #1003934
+無名 #1003934
+(Balloon)
+Come to carry those
+bodies to the lichyard?
+死体の運搬か？
+
+Airell
+アイレル
+Welcome to the Church of Saint Adama Landama. Our patron saint was a wealthy man in life, and so many merchants used to come calling to pray for his favor. - But that all changed after the Calamity. Our small lichyard grew and grew as we took on the dead, and now we receive more mourners than merchants.
+ここはザル神を祀る、聖アダマ・ランダマ教会。
+以前は大富豪でもあった守護聖人、聖ランダマに
+あやかろうと多くの商人が訪れたものです。 - ですが、第七霊災ですべてが変わりました。
+犠牲者の亡骸を受け入れるうちに、園墓だけが広がり、
+今では死者の埋葬に訪れる人がほとんどです。
+
+Eaduuard
+エドワード
+My li'l sis was the only family I had left...till the flux up and took her away, too. 'Tweren't easy, but I brung her all the way here. Now all's left is to put her to rest proper, like she deserves.
+唯一の肉親だった妹がさ、流行り病で死んだんだ。
+なんとか妹をここまで連れて来れたのはいいけど、
+早くアイツを安心させてやらなきゃ……。
+
+Beneger
+ベネジャー
+The Golden Bazaar is on the verge of unprecedented growth thanks to the mythril deposit! Mark my words, adventurer: there's billions in it! Billions!
+西ザナラーンの「シルバーバザー」みたいに、
+時流を見失って落ちぶれるわけにはいかねぇ。
+「ゴールドバザー」は俺が、金ピカに磨いていくんだ！
+
+Lululo
+ルルロ
+There is no better time than now to be a miner. There are fortunes to be made, friend. Don't let this opportunity pass!
+今は採掘師相手の商売が熱いの！
+この商機、逃してなるものですかぁっ！
+
+Jospaire
+ジョスペル
+It is my belief that this goobbue was present at the Battle of Carteneau five years ago. After its rider was struck down in battle, it sought shelter from the destruction raining down from the heavens, passing through the Twelveswood before arriving here in Thanalan. - During this journey, the seeds of myriad plants came to cling to its body. Though the poor goobbue succumbed to its injuries in the end, these seeds would take root and eventually sprout from its carcass. - It's amazing to see such an amalgam of species from across Eorzea. To think that such beauty could arise from that terrible tragedy... The gods do indeed work in mysterious ways.
+この美しい花々が生えた、不思議なグゥーブーは、
+第七霊災の時にクルザスから逃れてきて、
+ここで息絶えたそうだ。 - 死に物狂いで逃げてくる道中、
+数々の花の種を体に付けてきたのだろう……
+クルザス、黒衣森、ザナラーンの花が混生しているよ。 - 死した身体を苗床として育つ、多様な花々の芸術……。
+なんという美しい生命の姿、生命の神秘！
+
+Esmour
+エスムール
+As an adventurer, you are familiar with guildleves, yes? If so, you have likely seen our Saint Adama Landama, for his wealth and munificence were such that some guildleves now bear his likeness. - A strange state of affairs, though, that a church bearing the name of a rich saint should now be overrun with the poor who come to bury their dead.
+あんた冒険者なら、ギルドリーヴとかやるんだろう？
+聖アダマ・ランダマっつーのは、ギルドリーヴプレートの
+モチーフにもなってる金持ちの聖人だぜ。 - ケッ、金持ちの聖人の名がついた教会に、
+金のない人々が故人を弔いにくるっつーのも、
+妙な話だぜ、まったく。
+
+Knerl
+ナール闘兵長
+We Immortal Flames are stationed here to keep an eye on the Amalj'aa in the region. Should you see any, do not draw too near, lest a simple grave at the lichyard await you.
+我々不滅隊は、付近のアマルジャ族の警戒にあたっている。
+アマルジャ族を見つけたら、迂闊に近寄らないようにしろ、
+お前も墓地に埋められることになるぞ。
+
+Nameless #1003949
+無名 #1003949
+(Balloon)
+I'll be stayin' right here
+in the shade, thank you.
+次の偵察は…
+
+Nameless #1003950
+無名 #1003950
+(Balloon)
+How am I to pay off your
+debts now, husband!?
+ひとりにしないで…！
+
+Nameless #1003957
+無名 #1003957
+(Balloon)
+Aye. I'm not combin'
+the hills for bones again.
+キリがありゃしない
+
+Eluned
+エルネド
+Ever has man sought to better his life, all too often at the expense of his brother. That desire and hope can beget suffering and death is a regrettable yet undeniable truth.
+戦は絶えず、悲しみはどこかで生まれ続ける……。
+それでも幸せを願うからこそ、私たちは祈るのです。
+
+Aebbe
+エッベ
+You haven't seen a pickaxe lying around here, have you? My oaf of a husband was out drinking with his friends, and─ - Oh, Thal take that bloody pickaxe. Should've married a merchant... 
+もう、旦那のピッケルが見当たらないわ……。
+あーあ、採掘師の嫁になんてなるんじゃなかった、
+ウルダハのお金持ちと結婚して、贅沢したかったぁ～！
+
+Swaenhylt
+スヴェーンヒルト
+The Calamity was man's doing! 'Twas our sins that brought the judgment and wrath of Azeyma! Repent, and thou shalt be showered in the Warden's light!
+第七霊災は太陽と審理を司るアーゼマ様の裁きであった！
+今こそ罪を告白し、導きの光を請うのだ！
+
+Aurildis
+オーリルディス
+Gods, each day I spend in this sorry excuse for a settlement is worse than the last. I can't wait until I've saved enough to move to Ul'dah!
+もー、こんなしみったれた所で仕事なんてしてると、
+毎日憂鬱ったらありゃしないわ。
+早くお金持ちになって、ウルダハに住みたいもんよ。
+
+Nameless #1004504
+無名 #1004504
+(Balloon)
+Very good, ma'am.
+かしこまりました
+
+Ermegarde
+エルムガルド
+The sun is as hot hands pressing down on you here. There's naught left of those who succumb to the heat but dry bones, hence the camp's name. - I don't envy you adventurers in the slightest, what with all that gear and armor you must be carrying.
+このあたりは、日差しが強烈でしてね。
+行き倒れたら、あっという間に「干からびた骨」に
+なってしまうから、「ドライボーン」って呼ばれています。 - そうならないためにも、
+しっかりと装備を整えていってくださいね。
+
+Nameless #1004508
+無名 #1004508
+(Balloon)
+Shush, dear, while I
+spend your coin.
+掘り出し物ないかなー？
+
+Nameless #1004509
+無名 #1004509
+(Balloon)
+Do we really need any
+more of these...whatever
+they are?
+早くしてくれ
+
+Nameless #1004510
+無名 #1004510
+(Balloon)
+I do not wish him
+to know it was I
+who sent the parcel.
+取り寄せておいて
+
+Nameless #1004511
+無名 #1004511
+(Balloon)
+Might be I's lookin' to dip
+the wick. Ye keen?
+なんだよ…
+
+Nameless #1004514
+無名 #1004514
+(Balloon)
+Let's see. We have your
+brown lentils, your green
+lentils, and...that's all.
+…買うか？
+
+Nameless #1004515
+無名 #1004515
+(Balloon)
+Make this one deep, or
+the jackals'll be at him.
+ザル神のお導きを…
+
+Nameless #1004517
+無名 #1004517
+(Balloon)
+What I wouldn't give to
+ride the aether straight
+out of this hellhole.
+ふむ…
+
+Nameless #1004519
+無名 #1004519
+(Balloon)
+You can find supplies
+down in the camp.
+教会に用か？
+
+Nameless #1004520
+無名 #1004520
+(Balloon)
+Where is he!? My shift
+was over three bells ago!
+異常なし、と
+
+Nameless #1004523
+無名 #1004523
+(Balloon)
+Nobody will miss
+one little lemon.
+誰も見てない…
+
+Nameless #1004529
+無名 #1004529
+(Balloon)
+To the north and west
+you'll find the Golden
+Bazaar...though it's lost
+its former luster.
+シケた所だぜ
+
+Nameless #1004530
+無名 #1004530
+(Balloon)
+What business do you
+have in the barracks?
+…よォ
+
+Reremaki
+レレマキ
+Soon as my girl's fit for travel, we're gone. This is no place for the living...
+怪我はないかなぁ……僕のチョコボちゃん……。
+ここは気味悪いし、早く移動したいよぉ……。
+
+Nameless #1004532
+無名 #1004532
+(Balloon)
+Kweh?
+クエッ
+
+Nameless #1004533
+無名 #1004533
+(Balloon)
+“Let the Roegadyn
+carry it,” they say. Bah!
+んがーっ！
+
+Nameless #1004534
+無名 #1004534
+(Balloon)
+Let her be, you fool.
+We don't need the Brass
+Blades up here.
+働けど働けど…
+
+Nameless #1004535
+無名 #1004535
+(Balloon)
+Who let you in here!?
+Out! Now!
+今度はどんな厄介ごとだ？
+
+Nameless #1004538
+無名 #1004538
+(Balloon)
+Of course you did.
+懲りねーなぁ
+
+Nameless #1004539
+無名 #1004539
+(Balloon)
+I clove his head in two!
+また例の商人が…
+
+Nameless #1004548
+無名 #1004548
+(Balloon)
+I'd remind you there's
+no brawling in the pub,
+but you don't seem
+the listening type.
+ゆっくりしてきな
+
+Nameless #1004549
+無名 #1004549
+(Balloon)
+You still talkin'?
+アマルジャなんて怖かねぇよ！
+
+Nameless #1004550
+無名 #1004550
+(Balloon)
+When the fourth came
+I knew I was done for.
+さすがだぜ！
+
+Adelstan
+アデルスタン
+(Balloon)
+未使用：荒：会話00727
+未使用：荒：会話00727
+
+The Amalj'aa worship Ifrit─a vile being they proclaim to be the Lord of the Inferno. - They say whosoever looks upon him must choose one of two fates─to follow him for life or be burned to ash. Not much of a choice, if you ask me.
+あんた知ってるかい？
+アマルジャ族が信仰してる神様は、
+地獄の火炎を巻き起こす「蛮神イフリート」だ。 - その姿を見た者は、イフリートの信徒となるか、
+焼け焦げて炭になるかの二択……。
+ま、どちらにせよ生きて帰ってくることはねぇな。
+
+Nameless #1004558
+無名 #1004558
+(Balloon)
+Anything I can
+get you, love?
+へいらっしゃい
+
+Nameless #1004559
+無名 #1004559
+(Balloon)
+Why won't this gods-
+damned door open!? Hic!
+やってられるか～
+
+Nameless #1004560
+無名 #1004560
+(Balloon)
+Welcome to the
+Eternal Sleep!
+休むなら是非うちで
+
+Nameless #1004562
+無名 #1004562
+(Balloon)
+One word about my apron
+and you'll be on the menu.
+ふんふ～ん♪
+
+Nameless #1004564
+無名 #1004564
+(Balloon)
+Take me, Raubahn... I am
+your sultana... <snore>
+むにゃ…
+
+Nameless #1004567
+無名 #1004567
+(Balloon)
+I told him Eternal Sleep
+wasn't the best name for
+an inn built under a lich-
+yard, but did he listen?
+どこだったっけ…
+
+Nameless #1004569
+無名 #1004569
+(Balloon)
+I suggest moving him
+before the buzzards
+catch his scent.
+教会に運びましょう
+
+Nameless #1004570
+無名 #1004570
+(Balloon)
+How can you
+be so cold!?
+はい…
+
+Zozoru
+ゾゾル
+This does not concern you. Please, let her grieve in peace.
+……お静かに、ご家族がいらっしゃいます。
+
+Nameless #1004588
+無名 #1004588
+(Balloon)
+I'll catch you
+one day, Ness!
+むむむ…
+
+Nameless #1004671
+無名 #1004671
+(Balloon)
+You smell of the dead.
+Been to the ruins, eh?
+妙な真似はするな
+
+Nameless #1004672
+無名 #1004672
+(Balloon)
+I don't believe there
+ever was any gold.
+厳しいな…
+
+Nameless #1004673
+無名 #1004673
+(Balloon)
+A fortnight of digging,
+and not a single onze!
+次はもっと奥を掘る
+
+Nameless #1004674
+無名 #1004674
+(Balloon)
+More rubble from the
+city? Over there.
+クズ石はわけたよな？
+
+Nameless #1004675
+無名 #1004675
+(Balloon)
+The dead feel no pain.
+Remember that when
+you slice off one's head.
+気を抜くなよ
+
+Nameless #1004676
+無名 #1004676
+(Balloon)
+The hamlet must be re-
+stored to its former luster!
+市に活気を戻しましょう
+
+Nameless #1004677
+無名 #1004677
+(Balloon)
+He left for the ruins
+three suns past, but...
+旦那ったら…
+
+Nameless #1004679
+無名 #1004679
+(Balloon)
+The ruins are but mere
+malms away, yet here I
+stand and stir...
+なんで私が…
+
+Nameless #1004680
+無名 #1004680
+(Balloon)
+The Invisible City's
+secrets will be mine!
+After I sup on some stew.
+遺跡はロマンさ
+
+Nameless #1004681
+無名 #1004681
+(Balloon)
+Has that blasted Roe-
+gadyn finished the stew?
+だといいけど
+
+Nameless #1004682
+無名 #1004682
+(Balloon)
+Why we dragged him
+along, I'll never know.
+確率は高い…
+
+Nameless #1004683
+無名 #1004683
+(Balloon)
+Anyone seen
+the blasted wench?
+霊銀を必ず…！
+
+Nameless #1004684
+無名 #1004684
+(Balloon)
+Where you want these?
+おうよ！
+
+Nameless #1004685
+無名 #1004685
+(Balloon)
+I ain't goin' back to
+that accursed city!
+一攫千金だ
+
+Nameless #1004688
+無名 #1004688
+(Balloon)
+Here by your lonesome?
+お客…お客…
+
+Nameless #1004689
+無名 #1004689
+(Balloon)
+Stay clear from them
+two. Gave me the
+crotch rot, they did!
+み、見られてる…
+
+Nameless #1004690
+無名 #1004690
+(Balloon)
+Might be that we could
+fix that...for a price.
+お金…お金…
+
+Nameless #1004695
+無名 #1004695
+(Balloon)
+I knew she hadn't
+a gil to her name!
+それでね～
+
+Nameless #1004696
+無名 #1004696
+(Balloon)
+And that silk tunic? She
+swiped it from a caravan!
+やだ～
+
+Ellie
+エリー
+...Thus reunited with his father's sword, Eleazar ventured forth in search of adventure. Out of concern for his well-being (or perhaps due to their own desire for adventure), Inspector Hildibrand and his assistant chose to accompany the elderly gentleman on his journey. - What wondrous experiences await them? Will Eleazar return home safely? Will the imbecile be devoured by a goobbue? Only time will tell.
+エレザルさんったら、気分まで若返っちゃったみたい。
+大地の剣を持って、意気揚々と冒険に出ちゃったものだから、
+事件屋のふたりも彼についていっちゃったわ。 - ……さて、私はあのふたりと再会するまでに、
+今回の事件をまとめて、記事にしなきゃ！
+なにせ、次はいつ事件が起こるかわからないものね。
+
+Claudian
+クラウディエン
+I told them I was afraid of heights, and they had to send me here for my first field study! I say, are there no sites of archaeological interest on flat ground!?
+ううう……遺跡の調査はワクワクするけど……
+高い所はドキドキだよ……。
+
+Gogoshu
+ゴゴシュ
+No matter how fruitful our research, funding is not so easily secured. Unearthing and restoring treasures of history costs good coin, and there are many who do not recognize the value of our discoveries.
+遺跡調査は、かなりの成果をあげています。
+しかし……発掘調査って結構、お金がかかるんですよ。
+歴史のロマンというのは、高くつくものなのですね。
+
+Kyokyozo
+キョキョゾ
+Pilgrim, merchant, adventurer...Thal judges you not by who you are or where you hail from. Open your heart to His blessing, and you will find respite in His halls.
+巡礼者、商人、冒険者……誰であろうと、
+まずは心安らかに祠を参るとよいでしょう。
+きっとザル神の加護がありますよ。
+
+Barryn
+バリン
+Water to fetch, weeds to pull... A shabby lichyard is a slight to the living and the dead alike.
+水を汲んで、草を刈って……
+ウルダハで弔えない遺体が次々と運ばれてきて、
+墓の手入れも追いつきません……。
+
+Fuandrec
+フアンドレック
+Rest in peace, dear uncle. Technically, a cousin thrice removed, but who's counting? We're too busy dividing up that estate of yours.
+……安らかに、お眠りください……。
+遺産のことは、私にまかせて……。
+
+Dedeju
+デデジュ
+Oh, there's work enough from the church but nothing you'd call cheery.
+お仕事はいっぱいあるけど、なんか辛気臭いわっ！
+……まあ、お墓だから当然よね。
+
+Ilcum
+イルカム
+Though I am not qualified to assist with the rites, I offer what assistance I can to the priests. Sometimes I wonder if I'm just getting in the way, though...
+私はこの教会でお手伝いをしているの。
+呪術の知識はないから雑用しかできないけれど、
+少しでも誰かの悲しみが和らぐといいな……って。
+
+Alphinaud
+アルフィノ
+Whilst you were catering to the Company of Buffoons' every whim, I was gathering information on our feathered foe. As a result, I was not present when the Garleans came. - I suppose we should be grateful for our good fortune─though it matters little should Garuda grow powerful enough to bring Eorzea to heel.
+ウリエンジェから、君が蛮神「タイタン」に挑むと聞き、
+次なる蛮神「ガルーダ」の情報を探っていた。 - すぐに砂の家に向かわなかったことが、
+よかったのかはわからない……。
+ただ、生き残った者には、前へと進む義務があるんだ。
+
+Cid
+シド
+The Enterprise... I...I have heard that name before, but where?
+飛空艇……「エンタープライズ」か……。
+何ひとつ思い出せないのに、
+なぜ、こんなにも懐かしい気持ちになる……？
+
+Floating Stone
+フローティング・ストーン
+Thanks to the Calamity─no offense of course─this place is absolutely ringin' with crystals. It's a miner's dream, is what it is!
+霊災のせいで、ここいら一帯クリスタルだらけよ。
+採掘師の腕が鳴るぜ！
+
+Marques
+マルケズ
+If...if there is anything I can do...please ask.
+イリュド神父はお忙しい方だ……。
+……何かあったら、俺に言ってくれ。
+
+Arlh
+アール
+We're always on the lookout for new talent, what with the old talent getting mauled and killed. Proper training at a place such as this, now, that helps.
+コロセウム財団は、腕利きの闘士を常に求めている。
+ここハラタリ修練所も、もともとは、
+集めた闘士を鍛えるための施設だったのだ。
+
+Nameless #1010511
+無名 #1010511
+(Balloon)
+The heathen's life is ours, brother.
+ヒトは逃さぬ！
+
+Nameless #1010512
+無名 #1010512
+(Balloon)
+Aye, another soul for Lord Ifrit.
+我らの陣営に近づこうとは！
+
+Nameless #1011007
+無名 #1011007
+(Balloon)
+Lend your blade to Ishgard!
+イシュガルド防衛に
+力を貸してくれ！
+
+Nameless #1014021
+無名 #1014021
+(Balloon)
+Might I trouble you for a moment...?
+なにか知らないかしら…
+
+Nameless #1014022
+無名 #1014022
+(Balloon)
+I have a few questions, if I may...
+すまんが、尋ねたいことが…
+

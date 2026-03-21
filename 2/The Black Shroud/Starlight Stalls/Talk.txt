@@ -1,0 +1,393 @@
+Starlight Supplier
+星芒祭実行委員
+Merchants from all over Gridania are represented here at the Starlight Stalls!
+星芒マーケットでは、
+森都のさまざまな店舗が出店しておりますよ～！
+
+Botanists' Guild Worker
+園芸師ギルドの従業員
+Ours is the stall for the Botanists' Guild. We still haven't finished setting up, though...
+ここは園芸師ギルドの店舗になる予定だよ。
+まだ準備中だけどね。
+
+Saulinne
+ソリーヌ
+Hehe, Mother and Father will be so surprised when they see me in this outfit!
+星神の聖人さまに作ってもらったお洋服、
+着たまま帰ったらお母さんとお父さんびっくりするかな？
+
+Tenny
+テニー
+Being a little helper was so much fun! I'm going to tell my friends in Ul'dah all about it!
+聖人の従者さまになれて楽しかったよ！
+ウルダハにいる友だちにも、手紙で教えてあげるんだ。
+
+Nameless #1051990
+無名 #1051990
+(Balloon)
+Mulled punch is on the house.
+キンダープンシュは
+サービスとして配ってるよ
+
+Nameless #1051991
+無名 #1051991
+(Balloon)
+Something to wet your whistle and warm you up?
+寒空の下で一杯どうだ？
+
+Nameless #1051992
+無名 #1051992
+(Balloon)
+Our wooden creations are full of warmth and character.
+木のぬくもり溢れる
+玩具はいかがですか？
+
+Nameless #1051993
+無名 #1051993
+(Balloon)
+Everything is proudly grown by our very own botanists.
+うちの園芸師たちが育てた
+自慢の品々よ
+
+Nameless #1052005
+無名 #1052005
+(Balloon)
+I'd love to try and capture this!
+描きがいがあるわ…！
+
+Nameless #1052006
+無名 #1052006
+(Balloon)
+Would you like to meet our chocobos?
+チョコボとの
+ふれあいはどう？
+
+Nameless #1052058
+無名 #1052058
+(Balloon)
+Guildmaster Geva is here with her children!
+ゲヴァさんと……
+お子さん！？
+
+Nameless #1052060
+無名 #1052060
+(Balloon)
+Welcome to the Starlight Stalls!
+星芒マーケットへ
+ようこそ～！
+
+Nameless #1052062
+無名 #1052062
+(Balloon)
+Ho ho ho! Glad am I to see one and all enjoy themselves!
+ホッホッホウ！
+皆が楽しそうで何よりですぞ
+
+Nameless #1054376
+無名 #1054376
+(Balloon)
+Welcome to the Starlight Stalls!
+星芒マーケットへ
+ようこそー！
+
+Starlight Celebrant
+星芒祭実行委員
+Merchants from all over Gridania are represented here at the Starlight Stalls!
+星芒マーケットでは、
+森都のさまざまな店舗が出店しておりますよ～！
+
+Joultain
+ジュルタン
+It's so exciting thinking about all the new places out there! I'll never forget this feeling no matter how many places I see!
+へへっ、教えてもらった知らない土地のことを思うと、
+なんだかまだワクワクが止まらないんだ！
+いつか旅に出ても、きっとこの気持ちのこと忘れないよ！
+
+Nameless #1054390
+無名 #1054390
+(Balloon)
+I just got this really tasty drink!
+おいしい飲み物
+もらってきたの
+
+Nameless #1054391
+無名 #1054391
+(Balloon)
+Oh, how nice!
+まあ！
+よかったわね
+
+Nameless #1054392
+無名 #1054392
+(Balloon)
+Shall we go and find something to eat, too?
+3人でも
+なにか食べましょうか
+
+Nameless #1054393
+無名 #1054393
+(Balloon)
+They even have Ul'dahn punch!
+ウルダハ風のも
+配ってたんだ
+
+Nameless #1054394
+無名 #1054394
+(Balloon)
+I'm on my second mug!
+もう一杯もらったぜ！
+
+Nameless #1054395
+無名 #1054395
+(Balloon)
+Was worth makin' the trip, eh?
+足を伸ばしたかいがあるな
+
+Nameless #1054396
+無名 #1054396
+(Balloon)
+Indeed. Let's go and have a mug ourselves, shall we?
+私たちも
+いただいていきましょうか
+
+Nameless #1054397
+無名 #1054397
+(Balloon)
+Do sample the new kinds of kinderpunsch as well.
+新しいキンダープンシュも
+ぜひ味わってくれ
+
+Nameless #1054398
+無名 #1054398
+(Balloon)
+Take your time, my boy. 
+じっくり選びましょう
+
+Nameless #1054399
+無名 #1054399
+(Balloon)
+I can't decide what to get him as a souvenir...
+お土産
+なにがいいかな？
+
+Nameless #1054400
+無名 #1054400
+(Balloon)
+Ooh, I'd love to try that!
+わあ！
+私も飲みたい！
+
+Nameless #1054401
+無名 #1054401
+(Balloon)
+Let's go and get some!
+一緒に行こう！
+
+Nameless #1054402
+無名 #1054402
+(Balloon)
+For me? Isainne, you shouldn't have!
+いいのかい…！？
+ありがとう、イゼーヌちゃん
+
+Nameless #1054403
+無名 #1054403
+(Balloon)
+I have a little something for you too, Kamlito! 
+お兄さんにも贈り物
+持ってきたの！
+
+Nameless #1054404
+無名 #1054404
+(Balloon)
+Witness Blitzen's spectacular illusions!
+さあ、どうぞ
+
+Nameless #1054405
+無名 #1054405
+(Balloon)
+Gwoooaaah!
+ぐぅぉぉぉっ！
+
+Nameless #1054406
+無名 #1054406
+(Balloon)
+Yip! Yip yip!
+イェ！
+イェーーイ！
+
+Nameless #1054407
+無名 #1054407
+(Balloon)
+A marvelous festival, isn't it, Rudy?
+いい祝祭だな、ルディ！
+
+Nameless #1054409
+無名 #1054409
+(Balloon)
+It would be nice to spend this magical time with someone special...
+今度は誰か
+誘ってみるか…
+
+Nameless #1054410
+無名 #1054410
+(Balloon)
+ <sniff> <sniff> Mroww...
+スンスン…ブニャ…
+
+Nameless #1054411
+無名 #1054411
+(Balloon)
+So, what do you think of this little gift from Tural?
+トラル大陸からの
+贈り物はいかがぁ？
+
+Nameless #1054412
+無名 #1054412
+(Balloon)
+It's...<crunch>...delicious! We would love for you to...<munch>...have a stall here!
+うまい！
+いつかぜひ出店を…！
+
+Nameless #1054413
+無名 #1054413
+(Balloon)
+Ho ho ho! How wonderful to see the stalls so lively!
+ホッホッホウ！
+ますますにぎやかですな！
+
+Nameless #1054416
+無名 #1054416
+(Balloon)
+Hm. Not my style.
+私には派手だ…
+
+Nameless #1054417
+無名 #1054417
+(Balloon)
+I think you'd look quite fetching in that red, Radovan.
+あの赤い服
+オッサンに似合いそう
+
+Nameless #1054418
+無名 #1054418
+(Balloon)
+A seasonal market! What a wonderful idea!
+素晴らしいわ
+季節限定の市とはね！
+
+Nameless #1054419
+無名 #1054419
+(Balloon)
+Perhaps I should try my hand at a warm beverage too.
+温かいジュースにも
+挑戦してみようかしら
+
+Nameless #1054420
+無名 #1054420
+(Balloon)
+Our wooden creations are full of warmth and character.
+木のぬくもり溢れる
+玩具はいかがですか？
+
+Nameless #1054422
+無名 #1054422
+(Balloon)
+Everything is proudly grown by our very own botanists.
+うちの園芸師たちが育てた
+自慢の品々よ
+
+Nameless #1054425
+無名 #1054425
+(Balloon)
+Very well, I shall go and get some too.
+それじゃ
+あとで貰いに行こう
+
+Nameless #1054426
+無名 #1054426
+(Balloon)
+You really ought to try this punch, Mother!
+これやっぱり美味しい！
+
+Nameless #1054427
+無名 #1054427
+(Balloon)
+I wonder what the other ones taste like!
+私は別のも気になるな！
+
+Nameless #1054429
+無名 #1054429
+(Balloon)
+What a doting mother the guildmaster is!
+親子
+水入らずだな…
+
+Nameless #1054432
+無名 #1054432
+(Balloon)
+Something to wet your whistle and warm you up?
+寒空の下で一杯どうだ？
+
+Nameless #1054434
+無名 #1054434
+(Balloon)
+Would you like to meet our chocobos?
+チョコボとの
+ふれあいはどう？
+
+Nameless #1054447
+無名 #1054447
+(Balloon)
+The punch is so good!
+おいしいねぇ！
+
+Nameless #1054448
+無名 #1054448
+(Balloon)
+Seriously!
+ほんとだねぇ！
+
+Nameless #1054449
+無名 #1054449
+(Balloon)
+Whoa!
+すごいねぇ！
+
+Nameless #1054450
+無名 #1054450
+(Balloon)
+So sparkly!
+キラキラだぁ！
+
+Nameless #1054451
+無名 #1054451
+(Balloon)
+Ahhh, so blessedly warm...
+…ああ、温まる
+
+Nameless #1054452
+無名 #1054452
+(Balloon)
+I must say this is really thoughtful.
+粋な贈り物だ
+
+Nameless #1054453
+無名 #1054453
+(Balloon)
+We picked a good time to visit!
+いい時期に来られたな！
+
+Nameless #1054454
+無名 #1054454
+(Balloon)
+Look, look! It's a fluffy little helper!
+お姉ちゃん
+ふわふわの従者さんだね！
+
+Nameless #1054455
+無名 #1054455
+(Balloon)
+Oh, and with sweet treats!
+お菓子も持ってるよ！
+

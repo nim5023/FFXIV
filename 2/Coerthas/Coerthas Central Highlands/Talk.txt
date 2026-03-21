@@ -1,0 +1,1102 @@
+Vivenne
+ビベヌ
+Where there is need, there is profit. Fortunately for me and my enterprising brethren, the residents of this settlement are ever in need.
+私はしがない「酒保商人 (しゅほしょうにん)」。
+騎兵団みたいな連中に、くっついて回って、
+必要な物資をそろえてやるのが仕事なんだ。
+
+Lanquairt
+ランケール
+In times of relative calm, the soldiers of House Durendaire expect to receive only the best equipment. But now that all of Whitebrim Front is preparing to retake the Stone Vigil, they have desperate need for materiel, as well as individuals like me who can procure it.
+私はランケール。
+主にデュランデル家の騎兵団を相手とする
+取引を行っている、いわゆる酒保商人というやつだ。 
+
+Ludovoix
+ルドヴォア
+The Observatorium is under the protection of House Durendaire. We have no need of adventurers or sellswords.
+この占星台に、冒険者の力は不要だ。
+早々に立ち去るがいい。
+
+Alphinaud
+アルフィノ
+I had hoped that the sights and sounds of Coerthas might rekindle Cid's memories, but it seems that the changes wrought by the Calamity have removed all trace of the familiar. - Nevertheless, I will continue my efforts to rehabilitate our friend. In the meantime, , I expect you to learn what you can of the Enterprise.
+残念ながら、まだシドの記憶には頼れないようだ。
+そうでなくともこのクルザスは、
+霊災前と今で、様子が一変しているからな……。 - 君には手間を掛けるが、地道に情報収集といこう。
+第七霊災の直前に目撃された「エンタープライズ」、
+その手がかりが残されているはずだ。
+
+Cid
+シド
+Are...are you sure I've come here before? This place feels completely foreign to me... 
+この地に俺の飛空艇があるのか……？
+……駄目だ、思い出せそうもない。
+
+Edmelle
+エドメル
+Man has ever charted the movements of the celestial bodies, scrutinizing the patterns to see what wisdom can be wrought. But in Ishgard, we must also remain watchful for signs of Dravanian activity, for even a slight delay can be the difference between survival and death.
+占星台には、天体に関する膨大な資料が収蔵されています。
+星の巡りを調べ、ドラゴン族の活動周期を割り出す。
+それが私たちの仕事なのです。
+
+Jocea
+ヨシア
+On a clear night, have you perchance looked to the heavens and spied a constellation of cobalt-silver stars? - That, my friend, is the realm of Halone. In Her halls dwell the heroes of Ishgard, those valiant souls who gave their lives to defend us from the Dravanian Horde.
+北の空に、一際、青白く輝く一等星があるでしょう？
+あれこそ我らが戦神ハルオーネ様の住まう「氷天」。 - ドラゴンとの戦いで死んだ、
+誇り高き戦士の魂の招かれる場所なんです。
+
+Maucolyn
+マーコリン
+Ye need to keep stables warm, especially down on the ground. Chocobos are jus' like us, in that they ain't built for the cold. They can take it, to be sure, but that don't mean they don't suffer somethin' terrible.
+チョコボは寒さに弱い生き物だからな。
+厩舎を暖かくしてやらないと、シモヤケになっちまう。
+
+Carrilaut
+カリロー
+Some twenty years past, the heir to House Durendaire was lost at sea. Accomplished he was and wise for one so young. 'Twas corsairs, they say. - Had he lived, things might be very different indeed for the Observatorium─and for House Durendaire, as a matter of fact...
+20年ほど前、俊英とされたデュランデル家の嫡男が
+船旅の最中に行方不明となりました。
+噂では、乗っていた船が海賊に襲われたとか……。 - もしも彼が生きていたら、この占星台の在り方……
+いえ、デュランデル家の在り方も、
+変わっていたのかもしれません。
+
+Duvicauroix
+ドゥビコロワ
+When there's this much snow in Coerthas, the trade route seals up tighter than a goobbue's arse. But you know the thing about cold─it sells a lot of firewood and firewater!
+クルザスは雪に閉ざされて、物流が滞りがちだ。
+商人にとっては、チャンスかもしれないが……
+いかんせん、この寒さは勘弁してほしいよ。
+
+Sylvaintel
+シルヴァンテル
+Know you the reason Skyfire Locks is thus devised─a handful of diamonds tossed upon a hillside, rather than a carcanet of brilliants decorously arranged? - The Locks are shelter for our people against dragons. Scattered is safer─one cannot steal a necklace if there is none to steal.
+このアートボルグ砦群が、
+なぜ散在する小さな施設で、構成されているか分かるか？ - それはドラゴン族の猛火で、一度に全滅しないためだ。
+有事の際には、都市民の避難場所にもなるからな。
+
+Prairillot
+プレリオー
+Curse Sylvaintel, that long-faced martinet! There never was a night as cold as this, yet he begrudges us more wood for the fire. I would gladly─especially if 'twere Sylvaintel─kill for a mug of warmwine.
+ううううう、寒い！　早く当直を終えて、
+熱いホットワインで暖をとりたいよ。
+
+Saistenioux
+セストゥニュー
+See how the Observatorium pierces the very heavens! What a view those astrologians must have, high above the murk that you and I toil in...
+こうして見ると、
+やはりアドネール占星台は高いな！
+晴れた日は、さぞかし絶景だろうな。
+
+Tirauland
+ティローラン
+What do you think? Larger and warmer than you expected, I'll warrant. This fort is also a place of shelter for the commonfolk. 'Tis better to rebuild a dragon-seared home than burn with it.
+どうです、中は意外と広くて暖かいでしょう？
+この砦はドラゴンの来襲時に、
+一般市民を避難させる防空壕でもあるんです。
+
+Martiallais
+マルシアレー
+How fares the weather? A storm in these parts means no runners can be sent to the next fort, nor can any signals be seen. Once the whiteness falls, each Lock is as an island and must fend for itself.
+冒険者、外の様子はどうだ？
+一度吹雪くと、他の砦と連絡がとれなくなる。
+天候は常に気にしておかないとな。
+
+Alphinaud
+アルフィノ
+We came to find an airship, yet now we meddle in Ishgardian affairs of state? - Gods, if Alisaie were here, I would never hear the end of it... 
+「エンタープライズ」を探すだけと思っていたが、
+妙な事件に巻き込まれたようだ……。
+協力者を得られただけでも、進展したと見るべきか。 - しかし、蛮神の脅威を前にして、なお人と争うとは……
+彼女が知ったら憤慨しそうだよ。
+
+Cid
+シド
+I'm glad we left the Observatorium. The people there were not friendly. - Though even here, I can feel eyes upon us. We...we are not safe.
+前の拠点に比べたら、
+いくらか視線が和らいだ気がするな……。 - だが、ときどき妙に熱い視線を感じる……。
+何だ……また帝国兵か……？
+
+Duchesnelt
+ドゥシェネル
+Where has that daughter of mine gone? She cannot seem to stay in one place, bless her. You there, don't you go telling her any tales of the road; I've trouble enough as is!
+娘のやつ……目を離すとすぐにどこかに行ってしまう。
+あ、お前、娘にいかがわしい遊びを教えようとしているな？
+いいか、娘に近づくんじゃないぞ！
+
+Arthurioux
+アルチュリュー
+I never tire of watching the flames. And I've no complaints about the warmth!
+燃えてる炎って、見てるとなんか飽きないよな。
+ふ～、それにしてもあったけぇ～。
+
+Belmont
+ベルモント
+How many years now since I left the Gods' Quiver for a life of a sellsword? Long enough to end up this far north, brrr. Wonder how Instructor Molkot's faring with all the green recruits...
+神勇隊を辞めてフリーの傭兵稼業を始めて数年、
+いつの間にか、こんなクソ寒い場所まで来ちまった。
+モルコット師団長、元気かなぁ。
+
+Rickeman
+リックマン
+Well, ain't you a sturdy lass. If you want to keep it that way, take my advice: when haulin' heavy shite, lift with your legs, not your back. I learned that one the hard way.
+私の仕事は荷運び人たちの管理です。
+昔は私自身も荷運びをしていたのですがね、
+この寒さもあって、すっかり腰を悪くして……ふぅ～。
+
+Emanuel
+エマニュエル
+Adventurer, you are shivering. A warming drink may cure what ails you.
+冒険者さん、寒いでしょう？
+どうです、体が温かくなる飲み物でもいかがですか？
+
+Matigniant
+マティニアン
+Though the souls of the righteous ascend to Halone's halls, their earthly forms are not afforded the same honor. But goodly men and women deserve proper burials, and so all who come down must go up.
+おや、道に迷ったのか？
+もう一方の谷底へ行きたいなら、この洞窟を通りな。
+上へ戻りたければ、壁沿いに歩いていけばいい。
+
+Meduil
+メドゥィル
+The cold is hard on old bones, my dear. Oh, listen to me go on. My boy's not around no more to hear an old woman's gripes, mayhap that's a small blessing for him.
+歳をとると、寒さが体にこたえるねェ……。
+息子が亡くなって、こんな婆の愚痴を
+聞いてくれる相手もいなくなっちまったよ……。
+
+Edwyn
+エドウィン
+Hm, an adventurer come from some forsaken place, huh? Well, I don't want your kind here. This here's a piece of precision equipment, see? Now off with you!
+ん？　お前、余所からやってきた冒険者だな？
+こいつは精密機械なんだ。トーシロが触るんじゃねぇよ！
+ホラ、あっち行った、シッシッ！
+
+Alboise
+アルボアズ
+And what do you think you're doing here? These supplies are not to be touched without permission. Know that I will not hesitate to use force to stop you if necessary.
+あなた、こんなとこで何してるの？
+ひもじいからって、砦の糧抹を盗んだりしないでよね。
+
+Goudernoux
+グデルヌ
+You may partake of the warmth of our hearth, but never forget that within these walls the word of House Durendaire is law.
+この前哨地はデュランデル家の管轄だ。
+家には家の、砦には砦の掟がある。
+あまり調子に乗るなよ。
+
+Nivie
+ニヴィ
+You're not going to make me leave, are you? I know I've no right to be here, but it's cold outside, a-and there were wolves chasing me...
+ここ、良い匂いがします……それに暖かい……。
+よそ者の分際で暖をとらせてもらおうなんて、
+私ったらなんて図々しいんでしょう……！
+
+Ombeline
+オンブリヌ
+Gods, I'm so hungry! I must eat something soon, lest the sentries mistake the growling of my stomach for that of a ravenous scalekin!
+あっ！　もしかして聞こえちゃった？
+私のお腹の鳴った音……いやん、恥ずかしい～！
+
+Theophilain
+テオフィラン
+How can I be expected to fight on an empty stomach? I'm not derelict in duty─I'm incapable of duty!
+ふぬッ、私はサボっているワケではありませんぞ！
+腹が減っては戦はできぬ！　これ古来よりの常識ッ！
+
+Oncenedl
+オンセネデル
+The cells here are home to all manner of cultists and heretics. You'd do well not to provoke them.
+ここは異端者たちを収容する地下牢。
+あんまりうるさくして、
+奴らを刺激するんじゃないよ。
+
+Boyle
+ボイル
+Muahahaha! Cower, you vermin, crawl on your soft bellies! Receive the kiss of the dragon, renounce the wet pulp of your flesh!
+ヒハハハハハハハハハ！　平伏せ、愚民ども！
+偉大なるドラゴン様の炎の吐息に触れよ！
+穢れた血肉を焦がして、贖罪を受けるがいい！
+
+Ferdillaix
+フェルディエ
+Can't...keep...eyes...open... Card...game...ran...late... I lost anyway, what rotten luck! And...zzz...
+むぅ、ね、眠い…………。
+昨夜、賭けカードについ熱くなっちまった……。
+……結局、負けたがな。チクショー……。
+
+Fousquenet
+フスクネー
+It is all manner of cold outside: wet, dry, stinging, lancing. Unless I can get some hot food into those knights, it will take the heart from them.
+外は寒いからな。
+温かい料理を騎士たちに食わせて、
+冷えきった体を少しでも温めてやらねぇと。
+
+Cid
+シド
+If the Enterprise is indeed inside the Stone Vigil, then we must convince Lord Drillemont to cooperate.
+まだ記憶は戻らないが、お前たちのことは信頼している。
+俺にも何か、できることがあればいいが……。
+
+Joellaut
+ジョエロー
+Urghhh! Ah, I thank you for your concern, but these are no battle wounds. I merely slipped and fell on my backside, that's all.
+いてててて……。
+ああ、戦闘の怪我じゃなくて、ただの打撲なんだけどね。
+雪やら氷やらで、ツルツル足元が滑るんだ……。
+
+Alphinaud
+アルフィノ
+Time is a resource we can ill afford to squander. We must gain entrance to the Stone Vigil without further delay.
+早々に「エンタープライズ」を奪還するとしよう。
+蛮神「ガルーダ」が召喚されている以上、
+一刻の猶予もないのだから。
+
+Liautroix
+リオトロア
+This bell is the very same one in the sigil of House Durendaire. It is a symbol more so than an instrument for raising alarum.
+この鐘楼は、デュランデル家の
+紋章にも描かれた由緒正しき物……。
+実用品というよりは、我々の心の拠り所と言えるね。
+
+Braitognieux
+ブレートニュー
+There is a hunter that stalks the sick and the wounded, and its name is winter. This far north, warm beds and nourishing food are not to be found in any great quantity...
+病人や怪我人の最大の敵は、やはりこの寒さです。
+暖かい寝床、栄養のある食事、そのどちらも、
+この極寒の地には足りないものですから……。
+
+Berengeoit
+ベランジョア
+Born into such a house as mine, where else to aim but the pinnacle? My destiny is to serve as a Temple Knight, for the greater glory of Ishgard!
+やっぱ、騎士の家に生まれた以上、
+目指すべきは、てッぺんだよな！
+神殿騎士になって、イシュガルドに栄転してやるぜ！
+
+Forsemart
+フォルスマル
+I am a part of the expedition to Snowcloak, and there I am bound in short order. My task was to replenish the supplies─in the camp, food has grown almost as scarce as warmth.
+私は「スノークローク大氷壁」の調査隊員だ。
+今から補給物資をかき集めて、調査地に戻るところだ。
+皆、寒さで腹を空かせているだろうからな。
+
+Ourdilic
+オルディリク
+You saw Snowcloak, I take it. There is a settlement further west, a hamlet by the name of Falcon's Nest─on the other side of the ice cliff now, of course.
+西の大氷壁は見たかい？
+昔はあそこから、「ファルコンネスト」という集落まで行けたんだ。
+……今は氷で閉ざされちまってるがな。
+
+Lancefer
+ランスフェル
+I've my own reasons for volunteering for this expedition. This icy bulk holds my heart─and not a day or night in the last five years have I not felt the weight of winter upon my breast.
+俺がこの調査に志願したのには、実は理由があってね。
+この氷壁には、俺の思い出が眠っているんだ。
+今も溶けることなく、凍ったままの思い出……。
+
+Meurise
+ムリズ
+There are many pockets of terror in the west, and the Behemoth's Dominion is one of them. You will not be surprised to learn, I think, that there is to be found there a behemoth. Your renown is considerable, but this one will take all your arts.
+西の「ベヒーモスの縄張り」に出没する魔物は、
+その名の通り、悪名高きベヒーモスだ。
+お前がどんなに手練れだとて、少々相手が悪いな。
+
+Alphinaud
+アルフィノ
+What? Searching for Cid's engineers? Ah, yes, very good. Oh, me? I am at present conducting inquiries via linkpearl. So you see, there is no need for me to leave the comfort of the fire.
+皆、ビッグスとウェッジの探索にあたっている。
+私は状況の確認のため、占星台に残るとしよう。
+……それにしても、ここは温まるな。
+
+Ophelie
+オフェリ
+You stand before Dzemael Darkhold─carved out of an extensive cavern system as a safe haven from dragon raids. I would invite you to take a tour, but I'm afraid that it's off-limits at the moment.
+この「ゼーメル要塞」は、ドラゴン族の襲撃に備えて、
+建造を進めていた天然洞穴を利用した地下要塞であります。
+……でも、今は諸事情あって、閉鎖中なのであります！
+
+Bricelt
+ブリセル
+Dzemael Darkhold is a subterranean fortress excavated by the great Ishgardian house of the same name. None but authorized personnel may enter.
+ここはイシュガルド四大名家のひとつ……
+ゼーメル家が守護する、ゼーメル要塞である。
+……用なき者は立ち去るがよい。
+
+Pierremons
+ピエルモン
+The air within the Aurum Vale is thick with noxious gases, fatal even in small doses. If you must enter, do so fully prepared.
+この「オーラムヴェイル」の中は、
+有毒なガスが発生しています。
+危険ですから、不用意に立ち入らないでくださいね。
+
+Wedge
+ウェッジ
+Thank goodness you found me, ! I would have frozen, or drowned, or been eaten by a mudpuppy if it wasn't for you!
+もうダメかと思ったッス……。
+温かい所に生きて帰ってこれて、ホント感激ッス……！
+
+Abelie
+アベリ
+You have done well to brave the frozen wilderness, adventurer. Stay awhile and be warm.
+冒険者さん、体は温まったかしら？
+何もないところだけど、ゆっくりしていきなさいな。
+
+Ignace
+イニアス
+You are not leaving snow and ice in your wake, I hope? The melted stuff is right hazardous, mark you. Not a moon ago, I near broke my neck when I slipped and took a tumble. - I have survived countless campaigns against the dragons; I would sooner not be remembered as the knight who was undone by a puddle. The laughter would surely follow me all the way to the great beyond.
+むむ、靴の裏に氷をつけちゃいないな？
+溶けた氷で、また足を滑らせちまう。
+今度落ちたら、さすがの俺でも死ぬだろうし……。 - アインハルト家の騎士ともあろう者が、
+滑って死んだらコトだからな……。
+まったく、恐ろしい場所に飛ばされたもんだ。
+
+Cid
+シド
+Now that we've found Biggs and Wedge, there's no reason for us to remain here any longer. Let us make for Revenant's Toll in Mor Dhona. There we can make our plans to rescue the others.
+再会は嬉しいが、いつまでも居座っている暇はない。
+さあ、モードゥナの「レヴナンツトール」に向かおう。
+次は「暁」の仲間を助けてやらないとな。
+
+Biggs
+ビッグス
+I knew the chief was still alive! Deep down, I always knew. And he looks healthy, too─well, he could do with a shave, I suppose, but other than that... 
+シド親方とは、第七霊災以来になるのか……。
+髭なんて生やしちまって、相変わらず男前だな。
+……本当に、無事でよかった。
+
+Cailean
+カイリアン
+It seems the fate of Monument Tower to watch the watcher. 'Twas built to guard the Fury's Gaze, and the stone beyond price hidden in its depth... - And now it keeps vigil against the Garlean outpost, for the jewel that is Ishgard must never fall into the Empire's unclean hands.
+この「秘石の塔」は、「ハルオーネの射目」に眠る
+秘宝「ハルオーネの秘石」を守護するために建てられた塔。 - ……もっとも、最近では、帝国基地の監視が
+主な任務になりつつあるがな。
+
+Fridgia
+フリジア
+Laurence... Please, be safe...
+はぁ、はぁ……ロー、レンス……
+お願い……無事で……いて……。
+
+Firminnant
+フィルミナン
+The true test of a knight comes against the foes he cannot slay. The cold is indeed harsh, but the snows shall only serve to harden my resolve.
+ううっ、今日も寒いな……。
+だけどいつか立派な騎士になるって決めたんだ、
+このくらいの雪には負けないぞ！
+
+Nameless #1006810
+無名 #1006810
+(Balloon)
+Halt. State your─
+Ah, another adventurer.
+冒険者か？
+
+Nameless #1006814
+無名 #1006814
+(Balloon)
+The weapons within are
+those of the fallen.
+…雪には慣れたか？
+
+Nameless #1006817
+無名 #1006817
+(Balloon)
+When in Coerthas, you
+must abide by our laws.
+そこで傭兵部隊が…
+
+Nameless #1006821
+無名 #1006821
+(Balloon)
+There goes another
+heretic off Witchdrop. 
+こうも白いと…
+
+Nameless #1006823
+無名 #1006823
+(Balloon)
+See that this axle is
+greased before nightfall.
+異常はなし、と
+
+Nameless #1006825
+無名 #1006825
+(Balloon)
+If it isn't slaying dragons
+it's training to slay them.
+訓練、厳しすぎだよ…
+
+Nameless #1006826
+無名 #1006826
+(Balloon)
+Would you have us face
+the Horde unprepared?
+実戦には比べるべくもない
+
+Nameless #1006827
+無名 #1006827
+(Balloon)
+We can continue this no
+longer. Think of your wife.
+何か横切らなかったか？
+
+Nameless #1006829
+無名 #1006829
+(Balloon)
+Where did I place that
+copy of the Enchiridion?
+便箋はどこだったか
+
+Nameless #1006833
+無名 #1006833
+(Balloon)
+Quiet! You want the
+knights to hear you!?
+条件は悪くないな
+
+Nameless #1006835
+無名 #1006835
+(Balloon)
+Pulled this knife
+from her dead hands.
+ひと稼ぎするぞ
+
+Nameless #1006837
+無名 #1006837
+(Balloon)
+Unbeliever lies, told to
+make us forget our duty.
+キツいな…
+
+Nameless #1006838
+無名 #1006838
+(Balloon)
+They say there's a place
+in the south where the
+water's warm as blood.
+まだまだ…！
+
+Nameless #1006839
+無名 #1006839
+(Balloon)
+Quiet, both of you,
+and concentrate!
+あったかーい…
+
+Nameless #1006844
+無名 #1006844
+(Balloon)
+Would you care for a drink?
+貴方の口には合わないわ
+
+Nameless #1006845
+無名 #1006845
+(Balloon)
+I've had enough of the
+stale bread, the stale ale,
+and the stale company.
+都に帰ろうと思ってな
+
+Nameless #1006847
+無名 #1006847
+(Balloon)
+You have a problem
+with my company?
+ん…ああ……
+
+Nameless #1006856
+無名 #1006856
+(Balloon)
+The Horde rarely
+descends this far south.
+Gigants and goobbues─
+those are our bane.
+飛び降りるなよ
+
+Nameless #1006858
+無名 #1006858
+(Balloon)
+An astrologian requires
+ample time to ponder the
+questions of the heavens.
+…何の用よ
+
+Nameless #1006860
+無名 #1006860
+(Balloon)
+What of the fellowship?
+ドラゴン族め…
+
+Nameless #1006861
+無名 #1006861
+(Balloon)
+All eight were cooked
+alive in their armor...
+部隊ごと壊滅だとさ
+
+Nameless #1006863
+無名 #1006863
+(Balloon)
+Took me half a lifetime
+to find a woman what
+could chop wood as good
+as Linne.
+雪どけは遠いな…
+
+Nameless #1006864
+無名 #1006864
+(Balloon)
+But the readings
+say otherwise!
+記録が足りない！
+
+Nameless #1006866
+無名 #1006866
+(Balloon)
+The See must be
+made known of this!
+騎士様にお伝えください
+
+Nameless #1006868
+無名 #1006868
+(Balloon)
+This bodes ill...
+ふむふむ…
+
+Nameless #1006869
+無名 #1006869
+(Balloon)
+What is it? Dragons?
+It's always dragons...
+少し…眠らせてくれ…
+
+Nameless #1006872
+無名 #1006872
+(Balloon)
+Do not dare question
+our ways, unbeliever.
+強くなれ！もっと！
+
+Nameless #1006873
+無名 #1006873
+(Balloon)
+Nor I, my friend.
+すぐ戻るさ
+
+Nameless #1006874
+無名 #1006874
+(Balloon)
+I do not envy the man
+who must patrol the Gaze.
+ひとりで巡回に？
+
+Nameless #1006877
+無名 #1006877
+(Balloon)
+A bottle is missing!
+Explain yourselves!
+俺は見たんだ！帝国の…
+
+Nameless #1006878
+無名 #1006878
+(Balloon)
+No mortal man could
+survive such a drop.
+俺…この任務が終わったら…
+
+Nameless #1006881
+無名 #1006881
+(Balloon)
+Listen to him. Leave this
+place and never return.
+誰か手伝ってくれんかのぉ
+
+Nameless #1006882
+無名 #1006882
+(Balloon)
+Once the voidsent grab
+hold, your soul is theirs.
+助っ人かな？
+
+Nameless #1006891
+無名 #1006891
+(Balloon)
+Can you believe it!?
+最近なんかキナ臭いよな
+
+Nameless #1006892
+無名 #1006892
+(Balloon)
+They're almost as
+bad as the dragons.
+ああ、同感だね
+
+Nameless #1006895
+無名 #1006895
+(Balloon)
+Three sacks of winter
+wheat and a box of
+rotting cabbage will not
+see us through a siege.
+干し肉が不足してるな
+
+Nameless #1006896
+無名 #1006896
+(Balloon)
+Is there naught more to
+life than fighting dragons?
+あ～当直やだなぁ
+
+Drividot
+ドリヴィドー
+With the coming of the everlasting snows, each year's harvest grows ever poorer. It falls to the Confraternity of Fisherfolk to ensure that the people of Coerthas do not want for sufficient sustenance.
+寒冷化の影響で、農作物の収穫量は減る一方。
+クルザスでは、食料不足が心配されているんだ。
+魚介類は、貴重な食料源だよ。
+
+Louviaune
+ルヴィオヌ
+I've heard many a tale of Vylbrand's shimmering waters, teeming with life innumerable and unimaginable. But in the Sea of Clouds dwell far more fantastic species, unlike anything you might find in the five seas. Take up the pole and cast a line if you doubt my words.
+私の名はルヴィオヌ。
+雲海に棲む魚を中心に、魚介類を商っている。
+君も一度、雲海を見てくるといい。絶景だぞ？
+
+Logedanrel
+ロジュダンレル
+Have you come in search of House Durendaire's protection? A wise decision if so. House Haillenarte may claim Skyfire Locks to be the most secure stronghold in this region, but even a fool can see how mistaken that is.
+ここより北に散在する要塞は、
+まとめて「アートボルグ砦群」と呼ばれておる。
+最近ぱっとしないアインハルト家が管轄する砦だ。
+
+Tuatkk
+トゥアク
+A hammer's a dangerous thing in a hand gone numb. The Smith of Winter has my fingers in her vice─I've a need of an occasional thaw by the fire, or I'm liable to send that hammer flying into a knightly noggin.
+指先がかじかんじまって、ハンマーが上手く持てなくてね。
+たまに火に当たらないと、仕事にならんですわ。
+
+Cenota
+セノタ
+Resources are extremely limited at the front lines, so some patients must make do with food and bed rest. We cannot be expected to dole out medicine to each and every one.
+幻術士さんは戦場に行っちゃってますし、
+お薬の数は限られてます。
+よく食べ、よく寝て、あとは気合！　これが最終手段です！
+
+Patrick
+パトリック
+I keep my fresh ingredients outside. Tried bringing 'em back once─come mornin' they were hard as rock, and just about as tasty!
+ナマモノの在庫はさ……
+持ち帰るんじゃなくて、外に放っておくのさ……。
+一晩おいたら、カチンコチンになるからね……。
+
+Willielmus
+ウィリーエルムス
+Welcome to the Aurum Vale. If you've come seeking a fortune, I advise you to turn straight around. These fumes may glitter, but no gold awaits here─only death and suffering.
+ここは「オーラムヴェイル」。
+金の谷の呼び名に釣られて来たのなら帰りな。
+中にあるのは金銀財宝じゃない、金色の毒沼さ……。
+
+Nameless #1008197
+無名 #1008197
+(Balloon)
+The visor keeps my
+eyes from freezing shut.
+ずいぶん冷えるな
+
+Nameless #1008199
+無名 #1008199
+(Balloon)
+The soft flesh under the
+jaw. That's their weak spot.
+一人一竜殺！
+
+Nameless #1008201
+無名 #1008201
+(Balloon)
+Right 'twixt the scales!
+正射必中！
+
+Nameless #1008202
+無名 #1008202
+(Balloon)
+Come to warm
+yourself, too, eh?
+耳先が冷えるな
+
+Nameless #1008206
+無名 #1008206
+(Balloon)
+Feels like I ate
+a whole dragon.
+はあ、温まるな
+
+Nameless #1008208
+無名 #1008208
+(Balloon)
+What say you come
+over to my bunk, squire?
+非番いつだっけ？
+
+Nameless #1008212
+無名 #1008212
+(Balloon)
+You'd think slayers of
+dragons could catch a
+bloody rat or two!
+栄養つけなくちゃ！
+
+Nameless #1008213
+無名 #1008213
+(Balloon)
+I will have my revenge...
+うう…ドラゴンめ…
+
+Nameless #1008214
+無名 #1008214
+(Balloon)
+She's gone... And I
+couldn't save her...
+傷が…うずくぜ
+
+Nameless #1008215
+無名 #1008215
+(Balloon)
+I'd be warmer in
+bed with a corpse.
+吹雪で小隊が…
+
+Nameless #1008216
+無名 #1008216
+(Balloon)
+You've always had
+a way with words.
+天は我らを見放したか…
+
+Nameless #1008217
+無名 #1008217
+(Balloon)
+They cannot keep
+me down here!
+ほっ、はっ、ふっ！
+
+Nameless #1008222
+無名 #1008222
+(Balloon)
+The Horde will attack
+again within the fortnight.
+あの星の位置なら…
+
+Nameless #1008225
+無名 #1008225
+(Balloon)
+But does the hat actually
+increase your intelligence?
+占星台の予測では…
+
+Nameless #1008230
+無名 #1008230
+(Balloon)
+You're a long way
+from home, adventurer.
+なんだ、冒険者か…
+
+Nameless #1008231
+無名 #1008231
+(Balloon)
+Ten men lost their lives
+when you broke the line!
+貴様ら、気を抜くなよ！
+
+Nameless #1008235
+無名 #1008235
+(Balloon)
+My arm... The damned
+thing nearly bit it off!
+ぐうっ…腕が…
+
+Nameless #1008239
+無名 #1008239
+(Balloon)
+The Fury has witnessed
+your sacrifice. A place
+in Her halls is secure.
+ハルオーネの御許へ…
+
+Nameless #1008240
+無名 #1008240
+(Balloon)
+Neither your life, nor
+death, will be forgotten.
+仇は…とるぞ！
+
+Nameless #1008241
+無名 #1008241
+(Balloon)
+The dragons never
+rest, nor shall we!
+ふざけるな！大声だせ！
+
+Nameless #1008243
+無名 #1008243
+(Balloon)
+(Then why aren't you
+down here with us? Hmph!)
+ぐぎぎぎき…
+
+Nameless #1008245
+無名 #1008245
+(Balloon)
+My new technique? I call
+it, Eldritch Bane Thrust!
+む、何かひらめきそうだ！
+
+Nameless #1008246
+無名 #1008246
+(Balloon)
+My toes...they've all
+grown black and cold.
+凍傷に効く薬を…
+
+Templeton
+テンペルトン
+Welcome to the Coerthas branch office of Highwind Skyways! ...Sounds all grand and official when you say it like that, but in truth, it's just poor little Templeton─banished to this godsforsaken waste because he rubbed a few of his superiors the wrong way. - That said, being able to operate without constant supervision does afford certain...opportunities. Opportunities that might be mutually beneficial to those to whom I take a liking. <wink> <wink>
+こちらはハイウィンド飛空社、クルザス出張所であります。
+いやぁ……本社のほうで、ちょっとやらかしましてねっ！
+こんな僻地までトバされてきちまいましたっ……とほほっ。 - 新規顧客開拓事業への栄転、って話だったんですけど……
+寒いし、部下はいないし、寒いし……寒いし。
+これってやっぱり、体のいい左遷ですよねっ……？
+
+Norbettaux
+ノルベットー
+In a place like Camp Dragonhead, there is no shortage of crafters eager to utilize our facilities. Some items are best forged in the cold, after all. - Is it not wonderful that our benefactors are generous enough to grant access to all? Truly, there is naught more rewarding than aiding crafters with their artistic pursuits!
+職人の方に、製作施設をお貸ししております。
+この気温でしか、作れないものもあるとかで、
+流れの職人さんも結構いらっしゃるのですよ。 - 私らは、騎兵さん相手の商売をしておりましてね。
+この製作施設も、もともとは、馴染みの職人さんたちに、
+商品を作ってもらうためのものなんです。
+
+Nameless #1009620
+無名 #1009620
+(Balloon)
+Bah! We've almost drunk the wine dry!
+あ～、酒が切れちまう！
+
+Nameless #1009621
+無名 #1009621
+(Balloon)
+Let's hope this meeting ends quickly...
+商談、早く終わんねぇかなぁ…
+
+Nameless #1009674
+無名 #1009674
+(Balloon)
+Have another cup... <snore>
+ぐがーぐがー…
+
+Alphinaud
+アルフィノ
+'Twould be foolish to dismiss alternative approaches when contending with such clever foes...
+君は、「ドリユモン」卿と協力し、
+別ルートで異端者を追ってほしい。
+まだ見逃している情報があるかもしれないからね。
+
+Yuyuhase
+ユユハセ
+This is no place for a son of the sand! I tell you, if a merchant offered me wools at a premium, I would be fair tempted.
+ウルダハ出身者にとっては、
+この寒さと雪は、中々に厳しいものがあります。
+防寒装備があれば、大枚はたいても良い気分ですよ。
+
+Stalwart Temple Knight
+屈強な神殿騎士
+'Tis not a matter of training your eyes, I fear. Without foreknowledge or serendipity, we will never find every tunnel.  - The very land conspires against us─the broken ice ever reforming to conceal the entrances.
+この分厚い氷の一部が、
+まさか動かせるようになっていましてね。
+異端者どもの秘密坑道に通じているのです。 - その存在を知らずに通りがかっただけでは、
+絶対に発見できませんでしたよ。
+
+Nameless #1010932
+無名 #1010932
+(Balloon)
+Understood!
+了解であります！
+
+Nameless #1010934
+無名 #1010934
+(Balloon)
+The soldiers are unsettled...
+兵が動揺している…
+
+Nameless #1010935
+無名 #1010935
+(Balloon)
+Then you must settle them!
+お前が勇気づけるんだ
+
+Nameless #1010936
+無名 #1010936
+(Balloon)
+What of the city!?
+皇都の様子は！？
+
+Nameless #1010937
+無名 #1010937
+(Balloon)
+Nay, we must not be overconfident...
+だが、油断はできんぞ…
+
+Nameless #1010938
+無名 #1010938
+(Balloon)
+Its defenses are impenetrable!
+守りは完璧なはずだ！
+
+Trembling Temple Knight
+狼狽える神殿騎士
+W-We need not fret overmuch─there are yet several layers of arcane protection that shield the city from invasion. Mother will be fine...
+だ、大丈夫だよな……
+皇都は、まだ何層もの魔法障壁で守られているんだ。
+母ちゃん……無事でいてくれよ……。
+
+Tenterhooked Temple Knight
+緊張した神殿騎士
+When I laid eyes upon Lady Iceheart...I felt the marrow freeze within my bones.
+あ、あれが、噂の「氷の巫女」……
+未だに震えが止まらない……。
+
+Dyspeptic Dragoon
+憤激した騎兵
+Heretic scum! How dare they meddle with our divine protections! I shall rid our nation of their blasphemy even if it means cutting them down one by one!
+不埒な異端者どもめ、
+次に会ったときは、皆殺しにしてくれるわ！
+
+Bothered Bowman
+動揺した騎兵
+The Gates of Judgement are much more than mere doors─they are the outermost layer of Ishgard's magical wards. If our first line of defense can be so easily shattered...
+大審門は、ただの門なんかじゃない。
+皇都を守る魔法障壁の要でもあるんだ。
+それが傷つけられたとなると……大事だぞ。
+
+Nameless #1010943
+無名 #1010943
+(Balloon)
+Will we be allowed into
+the city, I wonder...
+この先が、
+皇都イシュガルド…
+
+Nameless #1010944
+無名 #1010944
+(Balloon)
+Where are our reinforcements?
+援軍はまだなの？
+
+Nameless #1010946
+無名 #1010946
+(Balloon)
+I should not have left the Toll...
+いよいよ決戦だな…
+
+Nameless #1010947
+無名 #1010947
+(Balloon)
+You've all come!
+Thank you...
+みんな、
+来てくれたのね！
+
+Nameless #1010950
+無名 #1010950
+(Balloon)
+How could we not?
+Your homeland is in peril!
+仲間の故郷が危ないんだ
+当然でしょ！
+
+Nameless #1010962
+無名 #1010962
+(Balloon)
+Thank the gods you're here!
+救援に感謝しますぞ！
+
+Nameless #1010970
+無名 #1010970
+(Balloon)
+D-Damn dragons!
+ド、ドラゴン族め！
+
+Nameless #1013611
+無名 #1013611
+(Balloon)
+Whew...
+ふう…
+
+Nameless #1013612
+無名 #1013612
+(Balloon)
+We're in your debt.
+助かったぜ…
+
+Nameless #1016586
+無名 #1016586
+(Balloon)
+They've a trick or two
+up their sleeves.
+I'm sure of it.
+ああ、精鋭を揃えたからな
+
+Nameless #1017096
+無名 #1017096
+(Balloon)
+Bah! We've the pride
+of three nations.
+What have they got!?
+我々が必ず勝つ！
+
+Nameless #1017545
+無名 #1017545
+(Balloon)
+Stay with me!
+...Damnable dragons.
+しっかりしろ！
+おのれ、邪竜め…！
+
+Nameless #1017550
+無名 #1017550
+(Balloon)
+When they come at you,
+remember your drills.
+厳しい訓練の成果を
+見せる時だぞ！
+
+Shatotto
+シャトト
+(Balloon)
+It is just as I thought.
+まさか、ゴーレムは…
+
+Zhai'a Nelhah
+ザイ・ア・ネルハー
+(Balloon)
+Our worst fears are confirmed...
+彗星の軌道が…
+
+Local Resident
+(Balloon)
+Is this supposed to be part of the show?
+これも演出…？
+
+Local Resident
+(Balloon)
+Something's happening...
+何が始まるんだ…
+
+Local Resident
+(Balloon)
+Did you summon those things!?
+アンタたちが呼んだのか？
+
+Local Resident
+(Balloon)
+What in the gods' name is that!?
+なんだ、なんだ？
+

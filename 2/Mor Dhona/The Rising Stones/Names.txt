@@ -1,0 +1,349 @@
+ミンフィリア 	 Minfilia
+サンクレッド 	 Thancred
+ヤ・シュトラ 	 Y'shtola
+パパリモ 	 Papalymo
+イダ 	 Yda
+アルフィノ 	 Alphinaud
+フ・ラミン 	 F'lhaminn
+タタル 	 Tataru
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ギルド本部の使者 	 Adventurers' Guild Emissary
+ギルド本部の冒険者 	 Adventurers' Guild Assistant
+ミンフィリア 	 Minfilia
+ミンフィリア 	 Minfilia
+イダ 	 Yda
+パパリモ 	 Papalymo
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ミンフィリア 	 Minfilia
+サンクレッド 	 Thancred
+イダ 	 Yda
+パパリモ 	 Papalymo
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ユウギリ 	 Yugiri
+カササギ 	 Kasasagi
+キキョウ 	 Kikyo
+ミンフィリア 	 Minfilia
+サンクレッド 	 Thancred
+イダ 	 Yda
+パパリモ 	 Papalymo
+タタル 	 Tataru
+ユウギリ 	 Yugiri
+カササギ 	 Kasasagi
+キキョウ 	 Kikyo
+イダ 	 Yda
+パパリモ 	 Papalymo
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+サンクレッド 	 Thancred
+イダ 	 Yda
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ホウザン 	 Hozan
+ドウワレ 	 Doware
+ヒギリ 	 Higiri
+ヨウザン 	 Yozan
+コハル 	 Koharu
+サンクレッド 	 Thancred
+イダ 	 Yda
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ホウザン 	 Hozan
+ドウワレ 	 Doware
+ヒギリ 	 Higiri
+ヨウザン 	 Yozan
+コハル 	 Koharu
+シウン 	 Shiun
+ロッカ 	 Rokka
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホウザン 	 Hozan
+ヒギリ 	 Higiri
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ホウザン 	 Hozan
+ドウワレ 	 Doware
+ヒギリ 	 Higiri
+ヨウザン 	 Yozan
+コハル 	 Koharu
+サンクレッド 	 Thancred
+イダ 	 Yda
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+アルフィノ 	 Alphinaud
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ホウザン 	 Hozan
+ドウワレ 	 Doware
+ヒギリ 	 Higiri
+ヨウザン 	 Yozan
+コハル 	 Koharu
+シウン 	 Shiun
+ロッカ 	 Rokka
+リオル 	 Riol
+ウィルレッド 	 Wilred
+ローレンティス 	 Laurentius
+アリアヌ 	 Alianne
+イルベルド 	 Ilberd
+エルグムス 	 Aergmhus
+エフェミ 	 Ephemie
+ユユハセ 	 Yuyuhase
+サンクレッド 	 Thancred
+イダ 	 Yda
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+アルフィノ 	 Alphinaud
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ホウザン 	 Hozan
+ドウワレ 	 Doware
+ヒギリ 	 Higiri
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ホウザン 	 Hozan
+ドウワレ 	 Doware
+ヒギリ 	 Higiri
+サンクレッド 	 Thancred
+イダ 	 Yda
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ホウザン 	 Hozan
+ドウワレ 	 Doware
+ヒギリ 	 Higiri
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ホウザン 	 Hozan
+ドウワレ 	 Doware
+ヒギリ 	 Higiri
+サンクレッド 	 Thancred
+イダ 	 Yda
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+ムーンブリダ 	 Moenbryda
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ヒギリ 	 Higiri
+サンクレッド 	 Thancred
+ヤ・シュトラ 	 Y'shtola
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ヒギリ 	 Higiri
+タタル 	 Tataru
+フ・ラミン 	 F'lhaminn
+ヒギリ 	 Higiri
+サンクレッド 	 Thancred
+イダ 	 Yda
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+無名 #1010918 	 Nameless #1010918
+無名 #1010919 	 Nameless #1010919
+無名 #1010920 	 Nameless #1010920
+無名 #1010921 	 Nameless #1010921
+無名 #1010922 	 Nameless #1010922
+フ・ラミン 	 F'lhaminn
+ヒギリ 	 Higiri
+フ・ラミン 	 F'lhaminn
+無名 #1012703 	 Nameless #1012703
+無名 #1012706 	 Nameless #1012706
+無名 #1012707 	 Nameless #1012707
+アリアヌ 	 Alianne
+リオル 	 Riol
+エフェミ 	 Ephemie
+エルグムス 	 Aergmhus
+ドウワレ 	 Doware
+ホウザン 	 Hozan
+ヒギリ 	 Higiri
+無名 #1014415 	 Nameless #1014415
+クルル 	 Krile
+サンクレッド 	 Thancred
+アリアヌ 	 Alianne
+エフェミ 	 Ephemie
+エルグムス 	 Aergmhus
+イジルドール 	 Isildaure
+ホウメイ 	 Homei
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ブルオムウィダ 	 Bluomwyda
+オーカー・ボルダー 	 Ocher Boulder
+ヴァ・マハ・ティア 	 V'mah Tia
+エノル 	 Aenor
+クレメンス 	 Clemence
+タタル 	 Tataru
+エフェミ 	 Ephemie
+イジルドール 	 Isildaure
+ホウメイ 	 Homei
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+無名 #1017017 	 Nameless #1017017
+無名 #1017018 	 Nameless #1017018
+無名 #1017025 	 Nameless #1017025
+オーカー・ボルダー 	 Ocher Boulder
+ヴァ・マハ・ティア 	 V'mah Tia
+エノル 	 Aenor
+クレメンス 	 Clemence
+アルフィノ 	 Alphinaud
+アリゼー 	 Alisaie
+フ・ラミン 	 F'lhaminn
+ホウメイ 	 Homei
+アルフィノ 	 Alphinaud
+アリゼー 	 Alisaie
+サンクレッド 	 Thancred
+タタル 	 Tataru
+イダ 	 Yda
+パパリモ 	 Papalymo
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+オーカー・ボルダー 	 Ocher Boulder
+エノル 	 Aenor
+クレメンス 	 Clemence
+ホウメイ 	 Homei
+タタル 	 Tataru
+エフェミ 	 Ephemie
+リオル 	 Riol
+ホウメイ 	 Homei
+クレメンス 	 Clemence
+エノル 	 Aenor
+オーカー・ボルダー 	 Ocher Boulder
+フ・ラミン 	 F'lhaminn
+クルトゥネ 	 Coultenet
+ホーリー・ボルダー 	 Hoary Boulder
+アルフィノ 	 Alphinaud
+アリゼー 	 Alisaie
+タタル 	 Tataru
+ホウメイ 	 Homei
+クレメンス 	 Clemence
+エノル 	 Aenor
+オーカー・ボルダー 	 Ocher Boulder
+フ・ラミン 	 F'lhaminn
+クルトゥネ 	 Coultenet
+ホーリー・ボルダー 	 Hoary Boulder
+フ・ラミン 	 F'lhaminn
+ホウメイ 	 Homei
+ホウメイ 	 Homei
+イジルドール 	 Isildaure
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+オーカー・ボルダー 	 Ocher Boulder
+エノル 	 Aenor
+クレメンス 	 Clemence
+無名 #1018441 	 Nameless #1018441
+タタル 	 Tataru
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+エフェミ 	 Ephemie
+エノル 	 Aenor
+クレメンス 	 Clemence
+ホウメイ 	 Homei
+イジルドール 	 Isildaure
+オーカー・ボルダー 	 Ocher Boulder
+エノル 	 Aenor
+クレメンス 	 Clemence
+ホーリー・ボルダー 	 Hoary Boulder
+エフェミ 	 Ephemie
+クレメンス 	 Clemence
+イジルドール 	 Isildaure
+ホーリー・ボルダー 	 Hoary Boulder
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+エフェミ 	 Ephemie
+オーカー・ボルダー 	 Ocher Boulder
+エノル 	 Aenor
+クレメンス 	 Clemence
+イジルドール 	 Isildaure
+アリアヌ 	 Alianne
+リオル 	 Riol
+エフェミ 	 Ephemie
+イジルドール 	 Isildaure
+アリアヌ 	 Alianne
+リオル 	 Riol
+クルル 	 Krile
+リオル 	 Riol
+クルトゥネ 	 Coultenet
+アルフィノ 	 Alphinaud
+アリゼー 	 Alisaie
+サンクレッド 	 Thancred
+ヤ・シュトラ 	 Y'shtola
+ウリエンジェ 	 Urianger
+アルフィノ 	 Alphinaud
+アリゼー 	 Alisaie
+ヤ・シュトラ 	 Y'shtola
+グ・ラハ・ティア 	 G'raha Tia
+アリゼー 	 Alisaie
+アルフィノ 	 Alphinaud
+サンクレッド 	 Thancred
+ヤ・シュトラ 	 Y'shtola
+グ・ラハ・ティア 	 G'raha Tia
+サンクレッド 	 Thancred
+ヤ・シュトラ 	 Y'shtola
+エフェミ 	 Ephemie
+アルフィノ 	 Alphinaud
+アリゼー 	 Alisaie
+サンクレッド 	 Thancred
+ヤ・シュトラ 	 Y'shtola
+ウリエンジェ 	 Urianger
+グ・ラハ・ティア 	 G'raha Tia
+エスティニアン 	 Estinien
+ヤ・シュトラ 	 Y'shtola
+サンクレッド 	 Thancred
+ウリエンジェ 	 Urianger
+リオル 	 Riol
+アリアヌ 	 Alianne
+オーカー・ボルダー 	 Ocher Boulder
+エノル 	 Aenor
+クレメンス 	 Clemence
+エフェミ 	 Ephemie
+フ・ラミン 	 F'lhaminn
+ホーリー・ボルダー 	 Hoary Boulder
+クルトゥネ 	 Coultenet
+オーカー・ボルダー 	 Ocher Boulder
+エノル 	 Aenor
+クレメンス 	 Clemence
+リオル 	 Riol
+アリアヌ 	 Alianne
+エフェミ 	 Ephemie
+イジルドール 	 Isildaure
+エルグムス 	 Aergmhus
+ブルオムウィダ 	 Bluomwyda
+ヴァ・マハ・ティア 	 V'mah Tia
+エルグムス 	 Aergmhus
+ブルオムウィダ 	 Bluomwyda

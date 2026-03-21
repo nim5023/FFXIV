@@ -1,0 +1,696 @@
+Gyles
+ガイルス
+Why, hello there, madam. I take it you've come to see about a retainer? - Well, I'm sorry to disappoint, but we're not in a position to introduce anyone to you at present. If you visit us again at a later date, we will of course do our utmost to accommodate your needs. Apologies again for the inconvenience.
+こんにちは。
+こちらはリテイナーの雇用窓口です。 - 大変申し訳ありませんが、
+現在、雇用受付を休止しております。
+
+Hida
+ヒダ
+Welcome to the airship landing.
+こんにちは。
+ここは循環飛空便乗り場です。
+
+Nameless #1000110
+無名 #1000110
+(Balloon)
+I need to be back in
+Limsa by sundown!
+次の便は…？
+
+Nameless #1000111
+無名 #1000111
+(Balloon)
+Where in the seven
+hells is that woman?
+おっそいなぁ、アイツ…
+
+Nameless #1000114
+無名 #1000114
+
+未使用
+
+Nameless #1000115
+無名 #1000115
+
+未使用
+
+Nameless #1000118
+無名 #1000118
+
+未使用
+
+Nameless #1000119
+無名 #1000119
+
+未使用
+
+Honoraint
+オノラン
+Yer one o' them adventurers, ain't ye? Gridania fair swarms with outsiders o' late. Can't walk ten bloody yalms without bumpin' into one o' ye. - Don't be takin' this the wrong way─we appreciate the hard work ye do, an' all─but 'tis hard to be at ease when scores o' strangers walk through yer home every day.
+また、「冒険者」かい。
+グリダニアにも随分とよそ者が増えてきたもんだな……。 - 「冒険者」の手助けはありがたいが、
+見なれん顔がウロウロするのは、落ち着かんもんだよ。
+
+Bertennant
+ベルテナン
+It is by the blessing of the elementals that we Gridanians dwell in the Twelveswood. - See to it that you do naught which brings our people to grief.
+ここは、森と精霊に認められし神聖なる都市グリダニア。 - 森の外からの訪問者よ。
+不要な騒ぎを起こし、民を脅かすことのないように。
+
+Nameless #1000131
+無名 #1000131
+(Balloon)
+Our scouts should
+be returning shortly.
+間もなく報告が…
+
+Nameless #1000133
+無名 #1000133
+(Balloon)
+The wood...
+It's watching, you know!
+愛想のねぇ都市だなぁ
+
+Nameless #1000137
+無名 #1000137
+(Balloon)
+Those are some
+right fine birds.
+素晴らしい毛並みだ…
+
+Nameless #1000138
+無名 #1000138
+(Balloon)
+Just what we need.
+Another outsider...
+ふん、よそ者に何ができる
+
+Adalhard
+アダルハード
+You know who Mother Miounne is, sister? You'd do well to take her advice to heart. - There's some as say she's overbearing, but without her, we adventurers wouldn't be able to get by here in the Black Shroud. I myself owe her much and more.
+ここ「カーラインカフェ」のマスター、
+ミューヌさんの話はちゃーんと聞いておけよ？ - とっつきにくいなんて言う奴がいるが、
+彼女がいなけりゃ、冒険者はここじゃやっていけん。
+
+Pfarahr
+ファールアール
+Memama never listens to me! I've told her countless times not to venture outside without her parents' permission, yet she never bothers to ask them.
+メママのやつ、また勝手に家を出てきたのか。
+ちゃんと親御さんに連絡をしろって言ってるのに、
+ちっとも聞きやしねぇ。
+
+Memama
+メママ
+Pfarahr always treats me like a child. It fair drives me up the wall!
+もう、ファールアールのおじさんたら、
+いつも私のこと子供扱いするんだから。
+
+Nameless #1000142
+無名 #1000142
+(Balloon)
+Allow me to assist
+you, good sir.
+ご案内いたしましょう
+
+Nameless #1000145
+無名 #1000145
+(Balloon)
+One day,
+all this'll be mine!
+ああ、明媚なる田舎都市よ！
+
+Bernadette
+ベルナデット
+I recall the face of every adventurer who has passed my post. - But my duty extends beyond merely monitoring the movements of strangers. As a member of the Gods' Quiver, I am also charged with identifying those men and women possessed of potentially useful talent.
+一度でもここを通った冒険者の顔は
+みんな覚えているわ。 - 使いものになりそうな冒険者を探すのも、
+私たち神勇隊の仕事なのよ。
+
+Mera Pamera
+メラ・パメラ
+How does he do it? Such clean cuts and alacritous assembly... I cannot hope to mimic such mastery!
+ぐ、ぬぬぬぬ……
+いったいどうしたら、先生のあの曲線を
+再現できるんだ……ッ！？
+
+Nameless #1000151
+無名 #1000151
+(Balloon)
+A little off here,
+and a little off here...
+トントントン…っと
+
+Hartford
+ハートフォード
+There is no such thing as an all-purpose wood. An archer's bow is quite unlike a scholar's bookshelf. - Different parts of the same tree can have different uses as well. Mind you, these are but the fundamentals of carpentry.
+武器には武器にあった木を、
+家具には家具にあった木をつかうのさ。 - 同じ木でも、
+どの部分をどう加工すればしっくりくるか、
+それがわかるようになって、ようやく並の木工師だ。
+
+Nameless #1000155
+無名 #1000155
+(Balloon)
+One cannot be too
+careful when working
+the saws.
+き、木屑が…鼻に…
+
+Aedan
+エダン
+Continue down this path if you wish to enter Old Gridania. - There you shall find Atelier Fen–Yll─a gathering place for the finest leatherworkers in Eorzea. And should you seek somewhere pleasant to rest your feet, I recommend Mih Khetto's Amphitheatre.
+この通路をぬけると、グリダニア旧市街だ。 - エオルゼアきっての職人が集う革細工師ギルドに、
+都市民の憩いの場「ミィ・ケット野外音楽堂」も、この先だ。
+
+Nameless #1000160
+無名 #1000160
+(Balloon)
+You're not supposed
+to be back here, you!
+げっ、オトナだ…
+
+Aunillie
+オニィー
+... - Mummy told me to wait here until she gets back.
+…………。 - ……おかあさんが、
+あまり、知らないひとと、お話したらダメだって……。
+
+Nicoliaux
+ニコリオー
+The younglings at the Acorn Orchard have all had it rough. - I'm the grown-up around here, so it's my job to look after them.
+どんぐり遊園のコドモたちは、
+いろんな「ジジョウ」があってここにいるのさ。 - オトナがいないときは、
+俺がこいつらの面倒をみてやるんだ。
+なんてったって、俺は一番年長の「兄貴分」だからな。
+
+Nameless #1000163
+無名 #1000163
+(Balloon)
+You're going to fall
+in again.
+あ、あわわわ…
+
+Nameless #1000164
+無名 #1000164
+(Balloon)
+I can make it,
+I tell you! Just watch!
+槍をぶんぶん、きこくたい～
+
+Nameless #1000176
+無名 #1000176
+(Balloon)
+Always heed the
+spirits, my children.
+精霊の導きを信じるのです
+
+Nameless #1000177
+無名 #1000177
+(Balloon)
+But I can't heed
+what I can't hear!
+いったいどうしたら…
+
+Nameless #1000186
+無名 #1000186
+(Balloon)
+Sorry, ma'am. We're
+fresh out of walnuts.
+ウォルナットは売り切れだよ
+
+Nameless #1000188
+無名 #1000188
+(Balloon)
+But the forest was
+once full with them!
+このところずっとねぇ
+
+Gavin
+ガヴィン少牙士
+You stand before the Adders' Nest, the headquarters of the Order of the Twin Adder, Gridania's own Grand Company. It is here that our nation draws together its military, economic, and technological resources that we may bring their combined might to bear against our foes.
+ここは、「双蛇党」統合司令部。
+「双蛇党」とは、グリダニアの軍事、経済、
+産業を束ねる組織「グランドカンパニー」の総称だ。
+
+Idele
+イデル
+Welcome to the Oak Atrium, headquarters of the Carpenters' Guild. - Perhaps you glimpsed the giant waterwheel on the path from the Blue Badger Gate? That would be Figaga's Gift, a triumph of engineering and the pride of our guild.
+ここは木工師たちが集う製材所兼木工所。
+「古樫 (こがし)の高堂 (こうどう)」とも呼ばれてるわ。 - 大型の密閉型水車「フィガガ大水車」の動力を用いた
+効率的な製材施設が自慢なの。
+
+Chansteloup
+シャンステゥル
+Have you perhaps heard mention of the Ixali tribe of beastmen? Long beaks? Sharp talons? They are a brutal race, preying on both man and beast with equal savagery. - It is not an exaggeration to call them our most bitter enemies. And now we have frequent reports of the birdmen seen not a stone's throw from the city walls. Have a care not to end up in one of their stew pots, stripling.
+「イクサル族」を知っているか？
+鳥のような嘴や鋭い爪を持ち、森を通る民や
+動物を襲い、いたぶる惨忍な蛮族だ。 - 我らの宿敵とも言えよう奴らが、近頃は
+都市の付近で頻繁に目撃されるようになっている。
+君も警戒を怠らぬことだ。
+
+Nameless #1000201
+無名 #1000201
+(Balloon)
+Relax... And do not
+forget to breathe.
+力みすぎだ
+
+Nameless #1000202
+無名 #1000202
+(Balloon)
+I cannot steady
+my hands!
+うーん…
+
+Nameless #1000203
+無名 #1000203
+(Balloon)
+A tad higher... Or
+perhaps a tad lower?
+…えいっ！
+
+Piers
+ピアス
+Only those of the Gods' Quiver are permitted past this point. I suggest you step away from the doors.
+この先は神勇隊の詰所だ。
+関係のない者は立ち入りを認めていない。
+
+F'mibhas
+フ・ミバス
+Why the Archers' Guild, you ask? Hmmm... Perchance you are familiar with the popular saying about “keeping one's friends close,” and so on? Yes, well, I strongly disagree with its sentiments on enemies.
+何で弓術士ギルドを訪れたかって？
+だって、弓術士なら、安全な場所から戦えるじゃない。
+
+Nameless #1000207
+無名 #1000207
+(Balloon)
+Respite cleanses the
+mind of impurity.
+休める時に、休まねばな…
+
+Nameless #1000209
+無名 #1000209
+(Balloon)
+What if we were to
+entreat the spirits?
+精霊の力を借りてはどうだ？
+
+Nameless #1000210
+無名 #1000210
+(Balloon)
+Would you have your
+mother wipe your arse?
+我らこそが森を守るのだ
+
+Chloe
+クロエ
+We're discussing how best to deal with the Ixali threat. Perhaps an adventurer such as you could offer a fresh perspective on the matter?
+イクサル族への効果的な対応策について議論している。
+……冒険者の意見を聞くのも悪くはないかもしれんな。
+
+Pascaline
+パスカリヌ
+Ahead lies Quiver's Hold, home to the Gods' Quiver, the defenders of Gridania. It also houses the Archers' Guild, if you seek training in the ways of the bow.
+この先は、森を外敵の脅威から守る
+レンジャー部隊「神勇隊」の司令砦だ。
+弓術士ギルドも併設されている。
+
+Nameless #1000278
+無名 #1000278
+(Balloon)
+Any word
+on the Empire?
+帝国の動向は？
+
+Celestine
+セレスティーヌ
+There's coin to be had hunting bandits, I'll grant you that. But there're times when I long to do something more worthy of song.
+山賊退治の報酬も悪くはないけどさぁ、
+せっかくだし、もっとこうパァーっと派手な
+仕事がしたいのよねえ。
+
+Leuric
+リューリック
+Gridanian food is as bland as it gets. I had heard the rumors, but gods, the water had more flavor!
+グリダニアの飯ってよ、見た目も地味だし味も薄くって、
+なんつーか、食った気がしねぇんだよなあ。
+
+Tatasosa
+タタソサ
+<crunch> <crunch>
+<crunch> <crunch>
+...My father always said─<burp>─“Masticate in moderation.”
+あんまり欲張っちゃダメだって……もぐもぐ……
+じっちゃんが……むぐむぐ……言ってたぞ。
+
+Spinning Blade
+スピニング・ブレイド
+I don't give two shites about how the food tastes. All I needs is drink.
+オレは……酒が飲めればいい……。
+
+Eral
+エラル
+I don't understand these Gridanians. They make a great show of doubting us adventurers, yet place their trust in beings they can't even see. Where is the reason in that, I ask you?
+グリダニアの奴らは、
+目の前にいる俺たち「冒険者」より、
+姿の見えない「精霊」とやらを信頼してるみたいだな。
+
+Nameless #1000381
+無名 #1000381
+(Balloon)
+You look odd. Did you do
+something with your hair?
+…で、どうだ？
+
+Nameless #1000382
+無名 #1000382
+(Balloon)
+A little lanolin
+goes a long way.
+悪くはねぇな
+
+Nojiro Marujiro
+ノジロ・マルジロ
+I heard that the elementals show themselves when enraged. Call me reckless, but I'd love to see one in the flesh...or whatever the hells it is they're made of.
+「精霊」は、怒らせれば姿を現すらしいぜ？
+是非とも、お目にかかってみたいもんだ。
+
+Gods' Quiver Bow
+神勇隊の隊士
+None but authorized personnel may enter.
+この先、部外者立ち入り禁止だ。
+
+Nameless #1000675
+無名 #1000675
+(Balloon)
+Ginger cookies are
+my sustenance!
+いーち、にーぃ…
+
+Nameless #1000676
+無名 #1000676
+(Balloon)
+Zzz......
+Ｚｚｚ…
+
+Nameless #1000678
+無名 #1000678
+(Balloon)
+Your words are my
+sustenance, Master!
+心に染み入る…！
+
+Louhelic
+ルーヘリック
+I was told playing with the younglings would make me a better carpenter. I...I don't think it's working.
+子供の相手をすることが、
+木工師の勉強になると言われたが、
+ふぅむ、サッパリわからん……。
+
+Erkenbaud
+アーケンボード
+Ah, a new adventurer. I do so love meeting fledgling heroes─so young, so daring, so ambitious!
+Tell me, have you made a will?
+やあ、新顔だな。
+お前がいずれ偉大な冒険者となって
+エオルゼアに名を馳せる日が来ることを祈っているぞ。
+
+Honoraint
+オノラン
+Ah! Give a man a bloody fright, sneakin' up on me like that... - Hm? Newly come to Gridania, are ye? Then I suggest ye continue on yer merry way to the Carline Canopy just behind me. Mother Miounne will want a word with ye.
+……むっ！？　わ、わたしに何か用か？ - ……あ、ああ、都市に着いたばかりの旅人か。
+それならまずは「カーラインカフェ」だ。
+「ミューヌ」さんに声をかけるんだぞ。
+
+Gontrant
+ゴントラン
+Another adventurer in search of work, are we? Ah, if you have but recently arrived in town, I must insist that you first register your presence with Miounne.
+あなたも仕事をお求めですか？
+……おや、着いたばかりでしたら、まずは
+ミューヌさんに声をかけて身元を登録してくださいね。
+
+Antoinaut
+アントアノ
+The number of visitors in Gridania is on the rise with every passing day. A pity their arrival seems to bring an equal share of trouble...
+グリダニアを訪れる人も、近頃ずいぶん増えてきたなぁ。
+その分、事件も増えているような……。
+
+Nameless #1001146
+無名 #1001146
+(Balloon)
+Coming right up, love!
+かしこまりました
+
+Bertennant
+ベルテナン
+Make yourself known at the Carline Canopy, where the local Adventurers' Guild is headquartered. Speak to Mother Miounne within, and she will take you in hand. - So long as you are within Gridanian territory, you must abide by Gridanian laws. Go now, and do as I have instructed.
+貴様のすべきことは、
+冒険者ギルド「カーラインカフェ」に向かい
+マスターの「ミューヌ」に声をかけることだ。 - 冒険者として森都グリダニアの門をくぐった以上、
+我ら鬼哭隊の指示に背くことは許さん。
+さあ、さっさと行け。
+
+Nameless #1001149
+無名 #1001149
+(Balloon)
+The wood...
+It's watching, you know!
+愛想のねぇ都市だなぁ
+
+Eral
+エラル
+New in town, eh? You and me, we must be fond of the road indeed to brave the journey to this godsforsaken city.
+おう、着いたばかりか？
+こんな辺鄙な都市に来るなんて、
+俺もお前も物好きだなあ。
+
+Spinning Blade
+スピニング・ブレイド
+They say the Seventh Umbral Era is corrupting the wildlife in the woods─making the beasts stronger, more aggressive. I look forward to meeting them.
+第七霊災の影響で、
+魔物が凶暴化しているらしい……。
+……腕が鳴るな。
+
+Tatasosa
+タタソサ
+<crunch> Hm...? <crunch> Shouldn't you be speaking with...<crunch>...Mother Miounne? <crunch> <crunch> <crunch>
+もぐもぐ……ん、キミ……？
+ミューヌさんのところに……むぐむぐ、行かなくていいの？
+
+Nameless #1001155
+無名 #1001155
+(Balloon)
+I think I found us
+the perfect job!
+うまい仕事はないのか？
+
+Nameless #1001156
+無名 #1001156
+(Balloon)
+Don't tell me...
+Squirrels again?
+またスクウィレルの退治なの？
+
+Nameless #1001159
+無名 #1001159
+(Balloon)
+I care not one whit for
+your rules! I demand a room!
+え～宿、借りられないの？
+
+Leuric
+リューリック
+Bland cuisine apart, I have begun to grow fond of this city and its people. - The women, especially. I would not have believed the Black Shroud concealed such grace and beauty!
+飯が質素なのをのぞけば
+俺はそこまで悪い都市だとは思わねえけどなあ。 - 確かに男どもは鼻につく野郎が多いが、
+姉ちゃんは美人でおしとやか、おまけに
+スタイルも抜群で言うことねぇぜ。
+
+Nojiro Marujiro
+ノジロ・マルジロ
+I thought a remote town like this would be the perfect place to turn a profit. But it seems that no matter where you go, success is invariably achieved through the usual combination of labor and luck. Hmph.
+こういう地味な都市こそ意外と稼げるんだよ……
+なんて思ってたこともあったが、結局のところ
+何処へ行っても腕と運しだいってやつだ。
+
+Celestine
+セレスティーヌ
+Gridania can be such a bore sometimes. All the people talk about is trees and elementals... - Perhaps I should try my fortune in a city with a touch more excitement. They say the streets of Ul'dah are paved with gold, and the pirates of Limsa Lominsa will slit your throat as soon as look at you!
+グリダニアって、なーんて地味な都市なのかしら。
+都市の人も、なーんか辛気臭いしぃ…… - 名を上げるなら、もっと派手な……
+そう、黄金の都市ウルダハや
+海洋都市リムサ・ロミンサの方が良かったと思うのよねぇ。
+
+Nameless #1001167
+無名 #1001167
+(Balloon)
+The tallest mug of
+your strongest ale!
+名物のハーブティーを頼む
+
+Capucine
+カピュシヌ
+I don't believe I've seen your face before. New to Gridania, I take it? - Then you're required to register at the Carline Canopy. Don't let me catch you strolling about until you've done so.
+悪いけど、取り込み中でね。
+しばらくそっちで大人しく待っててくれる？ - ……ん、あんた、見ない顔だね。
+都市に来たばかりだったら、今のうちに
+カーラインカフェで登録を済ませてしまいなさい。
+
+Adalhard
+アダルハード
+You know who Mother Miounne is, sister? You'd do well to take her advice to heart. - There's some as say she's overbearing, but without her, we adventurers wouldn't be able to get by here in the Black Shroud. I myself owe her much and more.
+ここ「カーラインカフェ」のマスター、
+ミューヌさんの話はちゃーんと聞いておけよ？ - とっつきにくいなんて言う奴がいるが、
+彼女がいなけりゃ、冒険者はここじゃやっていけん。
+
+Ulta
+ウルタ
+That's as far as you go, miss. Head on over to Bertennant, and mind you do as he says. 
+何処へいくつもりだ？
+ベルテナンがお前を呼んでいただろう。
+あいつの指示に従うんだ。
+
+Spirited Thespian
+陽気な旅芸人
+Ah, the comforts of civilization! Where we come from─er, our troupe, that is─the environs are rather dark and dank.
+いや～、都市っていうのもたまにはイイネ！
+座長のアイツは気を揉むだろうが、
+端役は気楽なものですヨ……ケケッ！
+
+Somber Strongman
+無口な大道芸人
+What YOU looking at!?
+オオオ……オオオオオッ…………！
+
+Uphanne
+ウファヌ大牙士
+Charade or no, all these baleful creatures skulking about town leave me ill at ease. I have my reservations as to encouraging such idle revelry in these times of strife, but it is not my place to question the decisions of our leaders.
+仮装とは聞いているが、町中に魔物の姿があるのは
+どうも心臓によくないな……。
+こんな企画、グリダニアでよく認められたものだ。
+
+Khloe Bajhiri
+クロ・バジリ
+Khloe Bajhiri, top reporter for The Raven, at your service! Or mayhap you might be of service to me. You haven't overheard any tantalizing rumors on your adventures, perchance?
+おこんにちはですニャ！
+わたくしは「週刊レイヴン」の記者、クロ・バジリですニャ。
+おもしろい噂があったら、ジャンジャン教えてくださいニャ。
+
+Tyoh Moui
+チョ・モーイ牙兵長
+The Elder Seedseer has placed great store in you adventurers. I pray that you will reward her faith by reaching out to aid the people of Gridania.
+グリダニアの盟主カヌ・エ・センナ様は、
+冒険者の働きに、大きな期待をしておられます。
+どうぞ市民の声に耳を傾け、手を差し伸べてください。
+
+Alphinaud
+アルフィノ
+Why do you tarry, ? Our work is not yet finished! We must press onward, until the harpy queen lies broken at our feet!
+雪の白より、森の緑が落ち着くよ……。
+もっとも、一息ついている場合ではないがね。 - 向かうべくは、蛮神「ガルーダ」の待つ空だ。
+さぁ、エンタープライズを蘇らせよう！
+
+Cid
+シド
+When I look at her, I feel as though I've come home. I can think of no other way to express it.
+この飛空艇に触れると、不思議な気分になる。
+冷えた心の内に、火が灯るような……
+こいつを早く修理してやりたくて仕方ないんだ。
+
+Roustebant
+ルストバン
+Beyond this gate lies Sorrel Haven. A “haven” indeed...for some of the most fearsome beasts you're ever like to lay eyes on. Passage will be granted only to those who can see to their own safety.
+白狼門の先には、「スカンポの安息所」が広がっている。
+獰猛な魔物が多く生息しているからな、
+力を持つ実力者でなければ、ここを通すことはできない。
+
+Ephemie
+エフェミ
+UNKNOWN! 'Tis always a pleasure! In Gridania for the Alliance meeting, I presume? So am I!
+英雄じゃないか！
+あんたも例の会合の件で、グリダニアへ？
+私もこのとおり、警備に駆り出されているのさ。
+
+2nd Unit Brave
+第二分隊の隊員
+My fellow 2nd Unit Braves and I are here to provide additional security during the Alliance meeting, milady!
+お務め、ご苦労さまであります。
+我々クリスタルブレイブ第二分隊は、
+現在、特別警戒を実施しているのであります！
+
+2nd Unit Brave
+第二分隊の隊員
+I'm here on special security detail. And by “special,” I mean “dull as hells.” Nary a soul comes through this gate. <yawn>
+特別警戒を実施中です。
+……といっても、この門は人通りが少ないのですがね。
+
+Yda
+イダ
+Hello, ! How fare your recruiting efforts? I've been doing rather well, myself!
+やっほー、そっちの準備はどう？
+こっちは結構な数の義勇兵を、集められてるよ！
+
+The Smith
+冒険者指導教官
+As one of the Smiths, I provide guidance for those just starting out on the path of the adventurer. For the present, I suggest you learn your way around the city─an endeavor with which Mother Miounne shall no doubt wish to aid you.
+私は、冒険をはじめたばかりの者を援助しているんだ。
+いま君の為すべきことは、この街に慣れることかな。
+冒険者ギルドの顔役であるミューヌから、話を聞くといい。
+
+Minion Enthusiast
+ミニオン好きの冒険者
+You're asking about my curious collectible? Well, he's...uh... I actually have no idea what he is. But I'm assuming his armor is based on some sort of ancient relic, and that makes him a good deal rarer.
+えっ、私が連れてるミニオンが気になるって？
+だったら、ウルダハに行ってみるといいわよ。
+きっと、手がかりが見つかるはずだから。
+
+Nameless #1028083
+無名 #1028083
+(Balloon)
+A new chapter in the legend of M'zhet Tia begins today!
+降りてこい…
+オレのヌン力！
+
+Nameless #1028084
+無名 #1028084
+(Balloon)
+A self-proclaimed future nunh he may be, but a puzzle-solving genius he is not.
+メ・ゼトさんの分まで
+私が考えないと…
+
+Nameless #1028089
+無名 #1028089
+(Balloon)
+It seems I must petition the elementals for aid.
+落ち着いて
+森の精霊の声を聴くんだ…
+
+Kupka Kupp
+クプカ・クップ
+A heart-shaped pom is something to be proud of─proof of the love in one's heart! Though I admit I'm a bit fuzzy on the details, kupo.
+ハートポンポンは謎が多いけど、悪いものじゃないクポ。
+ラブのご利益がありそうって言ってもらえたからこそ、
+モグはラブの配達士を始めたクポよ。
+
+Aloyse
+アロイズ
+Next I'm fretting over what to do, I shall make sure to consult my darling first of all.
+ひとりで悩んで、ひとりで結論を出すのは、
+悪い癖だよってエゾルミールさんに言われちゃった。
+今後は迷ったら、ちゃんと彼と相談することにします。
+
+Ezolmile
+エゾルミール
+Aloyse rushed to my side when I took a turn in the middle of the street─that is how we met. I don't believe in fate, but 'twas certainly a stroke of fortune.
+僕が街中で体調を崩したとき、アロイズさんと出会ったんだ。
+運命の出会いなんて、物語の中だけのものと思っていたけど、
+不思議な巡り合わせって、あるものだよね。
+
+Nameless #1041927
+無名 #1041927
+(Balloon)
+Now shall we─ Oh godsdammit, not again...
+まったく…
+どこに行ったのかしら…
+

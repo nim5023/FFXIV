@@ -1,0 +1,562 @@
+Estrelaint
+エストルラン
+This path leads to the Mun–Tuy Cellars, and through them the South Shroud.
+この先は「ムントゥイ醸造庫」。
+醸造庫を通り抜ければ、南部森林に出られるぞ。
+
+Nameless #1000252
+無名 #1000252
+(Balloon)
+The beans! I cannot rid
+my clothes of this stench!
+上々ですよ
+
+Nathaxio
+ナトハシオ
+Walking one should not go any further down this path. Those ones who summoned the primal one will do hurtful things to walking ones who enter those ones' territory.
+この先は危ないでふっち。
+神ちゃまを呼び出した悪い子シルフがいるのでふっち。
+近づくと誰でもいぢめようとしてくるでふっち。
+
+Nameless #1000285
+無名 #1000285
+(Balloon)
+Very good. But what
+of the delivery's status?
+ふむ、ふむ
+
+Zacheus
+ザケウス
+Sylphs are, by and large, a bright and happy kind of folk, but those who have left their homeland behind have grown nervous and wary. I would ask that you do nothing to startle them.
+シルフ族は、だいたい陽気な性格だが、
+故郷を離れて暮らしてるせいで、神経質になってる者もいる。
+脅かすようなことはしないでくれよ。
+
+Nameless #1000492
+無名 #1000492
+(Balloon)
+<groan>
+うう…
+
+Nameless #1000493
+無名 #1000493
+(Balloon)
+My apologies...
+す、すまない…
+
+Florimond
+フロリモン
+The lads and I are certainly glad of the Hawthornes and their hut. A sentry's work is tedious and tiring, so having a place where we can relax and let our guard down is truly invaluable.
+ホウソーン家の主には世話になっている。
+気を張りつめる衛士たちにとって、
+ここでの休息は、なくてはならないものだ。
+
+Victor
+ヴィクター
+Hearing the tales that Rolfe and visiting adventurers tell, I can't help wondering if I picked the right path in life. - Just once, it'd be grand to sail the seas on a proud galley, and spy the towers of a distant city glowing golden in the rays of the morning sun... Well, a man can dream, can't he?
+主や、ここを訪ねる冒険者の方のお話を聞くと、
+私も少し、冒険者というものに憧れてしまいます。 - 大海原を駆ける艦船に、まばゆいばかりの黄金都市……
+いちどで良いので、目にしてみたいものです。
+まぁ、夢見るだけなら、自由ですよね。
+
+Nameless #1000546
+無名 #1000546
+(Balloon)
+Only a few more
+turns of the sun now.
+もうちょっと…
+
+Nameless #1000547
+無名 #1000547
+(Balloon)
+What I wouldn't give
+for a cup of mead.
+ふぅ…
+
+Ismey
+イスメイ
+Have you tried Rosa's mead? It's simply to die for! Well...perhaps not “die” as such, but I would certainly suffer a few stings for a mug. She and those honeybees of hers have a hit on their hands. - It was shortly after the spire sentries developed a taste for the stuff that word began to spread, then before we knew it, customers were turning up from as far afield as Limsa Lominsa! Still, men have traveled further for less!
+養蜂の監督をしているロサさんは、
+ここから東のホウソーン家の奥様よ。
+養蜂から拘った彼女の作る蜂蜜酒は格別なの。 - 監視哨の衛士に振る舞ううちに噂が広まって、
+今では、遠くリムサ・ロミンサから
+買い付けに来る方もいるのだとか。
+
+Nameless #1000549
+無名 #1000549
+(Balloon)
+May the Matron bless
+these busy bees.
+育ってきたなぁ
+
+Nameless #1000551
+無名 #1000551
+(Balloon)
+Well done. Report to
+the Barracks at once.
+伝えておこう
+
+Nameless #1000552
+無名 #1000552
+(Balloon)
+It had to have
+been the Ixal.
+頼んだぞ
+
+Monne
+モヌ
+Are the aetherytes not a glorious invention? I can only imagine how inconvenient it must have been for adventurers when the Calamity disrupted the aetherial flow and made instantaneous travel all but impossible. - The aetheryte here is relatively new, of course. And this wonderful tower was built to protect it. - It is called “Josselin's Spire” in honor of the captain of the first ever company of Wood Wailers. Fascinating, wouldn't you agree?
+エーテライトは活用している？
+普段からこれを使って移動する冒険者は、
+霊災でエーテライト網が壊滅したときは苦労したと思うわ。 - このエーテライトは、新しく設置しなおしたものなの。
+その防備のために建てた監視哨が「ジョスラン監視哨」よ。 - ちなみに「ジョスラン」という名は、
+鬼哭隊の初代隊長から頂いたものなのよ。
+
+Nameless #1000554
+無名 #1000554
+(Balloon)
+Nnnghaaa! Grrraaah!
+うぅ…
+
+Nameless #1000555
+無名 #1000555
+(Balloon)
+The markings
+were consistent.
+イクサル族の仕業のようです
+
+Blaisette
+ブレゼット
+This area is teeming with dangerous creatures. We're doing our part to keep everyone safe, but you must needs take care of yourself as well.
+この辺りは凶暴な魔物が多く
+私たちも警備の気が抜けない。
+お前もよく気をつけろよ。
+
+Nameless #1000559
+無名 #1000559
+(Balloon)
+How much longer?
+I grow weary of this.
+大丈夫よ
+
+Joacin
+ジョアシャン
+Do take sufficient precautions when traversing the Twelveswood. This area has an abundance of belligerent beasts, and even experienced Adders have had to seek my care.
+この辺りには好戦的な魔物が多く、
+兵士の怪我が絶えません。
+あなたも存分にお気をつけください。
+
+Ameexia
+アミシア
+This one is weaving cloth. All the pretty cloth that walking one can see was made by these ones. - These ones keep the ways of weaving a secret. But even if this one taught walking one how to weave, this one doesn't think walking one could make cloth in the same way.
+あたぴは布のお手入れ中でふっち。
+この綺麗な布は全部シルフが作ったのでふっち。 - 作り方は内緒でふっち。
+教えても、きっとマネできないでふっち。
+
+Nameless #1000565
+無名 #1000565
+(Balloon)
+♪♪♪
+……♪
+
+Nameless #1000575
+無名 #1000575
+(Balloon)
+Sun's sweet smile
+and wind's cool breath,
+both of these
+I send thee...♪
+励ましてくれてるのか？
+
+Nameless #1000577
+無名 #1000577
+(Balloon)
+  ...?
+…………？
+
+Marinterre
+マランテル
+A word, if you will. The lands beyond this point belong to the sylphs. Unlike the gentle souls in Little Solace, the vicious woodland sprites out there will slaughter any outsider that dares cross their borders. - You're free to travel where you please, but know that none will come to your rescue should you stride blithely into the jaws of danger.
+気をつけよ。これより先はシルフ族の本拠地。
+ここにいる者たちと違い、凶暴化したシルフ族が
+侵入者に容赦なく襲いかかってくる。 - 進むというのなら止めはせんが、
+貴様が危険にさらされようと、我らは一切
+手助けはせぬこと、覚悟しておけ。
+
+Imedia
+イメディア
+Do not be alarmed. The sylphs here at Little Solace are of no mind to cause us harm. - The sylphs you should fear are the ones who dwell to the northeast, in the woodland tribe's homeland. - I am not privy to the details, but it appears some manner of quarrel has divided their people. I suggest you remain wary should you venture beyond the boundaries of this settlement.
+ご安心を。
+ここ「シルフの仮宿」に暮らすシルフ族は、
+我らに危害を加える意思はございません。 - 問題は、ここより北東、
+シルフ族の本拠地に住まうシルフたち……。
+彼らは同族以外の者に、強い敵意を抱いているようです。 - 詳しい話はわかりませんが、
+どうやらシルフ族の間で諍いがあった様子。
+もし集落の外で出くわした時はご用心ください。
+
+Pelixia
+ペリクシア
+This one cannot follow walking one's words. This one begins to feel...sleepy... - But walking one speaks with much eagerness. So this one...will try to...stay awake...
+言ってることがよくわからないでふっち。
+このまま寝ちゃいそう……ふっち……。 - でも一生懸命話してるから……
+聞いて……あげ……ぐぅ……。
+
+Nameless #1000586
+無名 #1000586
+(Balloon)
+Are you two
+even listening?
+ええと、つまり…
+
+Ysabel Hawthorne
+イサベル・ホウソーン
+Do you smell the honey? It may not compare to Mother's mead, but it's a lot nicer than the first batch I made. That one smelled like wet chocobo...
+蜂蜜の甘い香りがするでしょ？
+母さんの蜂蜜酒には敵わないけど、
+私もかなり、上達したと思うのよね。
+
+Jeulerand
+ジュルラン
+I can't talk to those sylphs. Yes, they scare me a little. Look, they aren't like you and me, you'd be talkin' to them and they'll just start...messin' with you.
+僕、シルフ族とうまく会話できないや……。
+話の途中で、急にいたずらしはじめたりするし……。
+
+Aniud
+アニウド
+If this is your first visit to Josselin's Spire, fear not─the tower is manned day and night by members of the Gods' Quiver and Wood Wailer units stationed here in Nine Ivies.
+ここは「ジョスラン監視哨」。
+この「ナインアイビー」の一帯を管轄する
+鬼哭隊と神勇隊が詰める監視哨だ。
+
+Matheomi
+マテオミ牙軍曹
+With Castrum Oriens to the south and the Sylphlands to the north, we must remain vigilant for any signs of aggression. Every sentry that patrols the East Shroud knows well that we are surrounded by enemies at all times.
+南にはガレマール帝国軍、北にはシルフ族の砦。
+ふたつの脅威に挟まれた、東部森林を監視する我々は、
+一刻たりとも気を抜けないんだ。
+
+Rosa Hawthorne
+ロサ・ホウソーン
+Welcome to Fullflower Comb. As you may have deduced, we are in the business of raising honeybees. - And what industrious little creatures they are. Where would we be without their honey to sweeten our meals, and their wax to make the candles that brighten our nights?
+ここは「フルフラワー養蜂場」。
+そこの巣箱を見ればわかるでしょう？
+ご覧のとおり、蜜蜂を飼っている農場よ。 - 甘い蜂蜜、暗闇を照らすための蜜蝋、
+それに、元気の源となる蜂の子……
+小さな体の蜜蜂は、とても大きな仕事を担ってるのよ。
+
+Ayled
+アイレド
+I am tasked with keeping the people in and around Josselin's Spire supplied.
+ジョスラン監視哨に詰める衛士や周辺住民のため、
+各種物資を手配するのが、私の仕事ですの。
+
+Tonaxia
+トナクシア
+Nothing gives these ones greater joy than playing tricks. One day, this one will play a trick so tricksy that even this one will be fooled. It will be this one's masterwork!
+イタズラの道は一日にしてならず……でふっち。
+日々、新しいイタズラを考えて頭を悩ませるのが、
+わたぴたちの日常なのでふっち。
+
+Ponnixia
+ポニシア
+Milkroot is tasty, and frees one's mind of care. But one must not partake too much, oh no!
+ミルクルートは節度を守ってたしなむものでふっち。
+悪い子シルフみたいに飲んだくれるのは、ダメでふっち。
+
+Moxia
+モキシア
+These ones play tricks for fun. Nasty ones play tricks to hurt. Is hurting other ones fun for nasty ones? The thought alone makes this one sad.
+まったく、悪い子シルフは困ったものでふっち。
+あいつらのイタズラには、美学というものがないでふっち。
+ただ相手を困らせればいいってもんじゃないのでふっち！
+
+Sylphic Vendor
+シルフ族のよろず屋
+Walking one wants to buy this one's things? This one does not sell to just any one. Do something good for these ones, and this one will think about it.
+おや？　シルフ族のお宝に興味があるでふっち？
+じゃあ、あたぴらに「コーケン」してくれたら、
+それなりに売ってやってもいいでふっち？
+
+Amelain
+アムラン少牙士
+We intend to establish a base of operations here, but the environs remain most inhospitable. Without Rolfe's aid, we'd be lost.
+この辺りは東部森林の拠点として拓かれたのだが、
+人が駐在するにはまだ不便でな。
+ロルフの旦那の協力には、常々感謝しているよ。
+
+Piralnaut
+ピラルノー
+Josselin─whose name this spire bears─was a legendary captain from the Wood Wailers' early days. Whenever my bow falters, I need only remind myself that my forebears fight in spirit by my side.
+ここジョスラン監視哨には、
+偉大な鬼哭隊の元隊長の名が付けられているのだ。
+英雄の霊と共に任務にあたっているような、心強さがあるな。
+
+Laxio
+ラキシオ
+Walking ones may think this one's home is small, but this one has biggest home of all! The forest itself is this one's home! What does walking one think of that?
+ここのお家が小さいからって、
+バカにしないでほぴいのでふっち！
+本当は、もっともっと大きいお家があるのでふっち！
+
+Yda
+イダ
+No need to overthink things! So long as your heart is in it, the sylphs will understand you!
+だいじょーぶ、だいじょーぶ！
+真剣に伝えれば、きっとシルフ族もわかってくれるよ！
+
+Papalymo
+パパリモ
+By virtue of the crystal trade, the sylphs have maintained friendly terms with most every race in Eorzea. Alas, the appearance of Ramuh has been as a storm cloud over relations. - If peace is to be secured, we must reopen a dialogue with the sylphs before they have the chance to summon their god again.
+シルフ族は、クリスタルの交易なんかを通じて、
+ほかの種族と友好的な関係を築いてきた。
+僕たちが仮宿に立ち入れるのも、その関係の賜物さ。 - だけど、最近はどうも雲行きが怪しい……。
+蛮神「ラムウ」を召喚される前に、
+どうにか話し合いの場を設けたいね。
+
+Kain
+ケイン
+It is a sight to gladden the heart, isn't it? A garden to exalt the Twelve is a daunting task indeed, and ever do I strive. But sometimes─sometimes, I simply enjoy the beauty we have wrought.
+どうだい、綺麗な庭だろう？
+なんせここは、十二神をすべて祀っているんだ。
+毎日キレイな花を咲かせないとな。
+
+Maerwynn
+メルウィン
+I feel truly privileged to be involved in the restoration of the Sanctum. Returning each masterpiece to its original glory is like glimpsing into the mind of the artisan from whose hands it was wrought.
+ここの美しい彫金細工の補修に関われることは、
+彫金師として、とても誇りなことよ。
+作者の意図を汲んで、一つ一つ修理していくの。
+
+Elfleda
+エルフレダ
+Of late, more and more people are being joined here in the Ceremony of Eternal Bonding. Seeing newly bound couples come out of the chapel with happiness writ upon their faces never fails to set my heart aflutter! - <sigh> When will my turn come, I wonder...
+ねえ知ってる～？
+ここで結婚式を挙げたお嫁さんは、
+ず～っと幸せになれるんですって～！！ - あと、近ごろはね～！
+「エターナルセレモニー」っていう、
+新しい絆の儀式をする冒険者さんも増えてるんだって～！
+
+Nameless #1008336
+無名 #1008336
+(Balloon)
+Walking one is strong one! This one will leave the rest to strong one!
+あとはまかせたでふっち！
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+This one is ready for you!
+迎え撃つでふっち
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+What is scaredy one waiting for?
+くるならこいでふっち！
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+Walking one will not leave here alive!
+やってやるでふっち！
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+What is scaredy one waiting for?
+くるならこいでふっち！
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+This one is ready for you!
+迎え撃つでふっち
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+This one is ready for you!
+迎え撃つでふっち
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+What is scaredy one waiting for?
+くるならこいでふっち！
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+Walking one will not leave here alive!
+やってやるでふっち！
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+This one is ready for you!
+迎え撃つでふっち
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+Walking one will not leave here alive!
+やってやるでふっち！
+
+Captured Sylph
+捕らわれたシルフ
+(Balloon)
+This one needs help!
+助けてふっち！
+
+Captured Sylph
+捕らわれたシルフ
+(Balloon)
+Let go of this one!
+離せでふっち！
+
+Captured Sylph
+捕らわれたシルフ
+(Balloon)
+Ick! This one is all sticky!
+苦しいでふっち！
+
+Captured Sylph
+捕らわれたシルフ
+(Balloon)
+This one needs help!
+助けてふっち！
+
+Captured Sylph
+捕らわれたシルフ
+(Balloon)
+Let go of this one!
+離せでふっち！
+
+Captured Sylph
+捕らわれたシルフ
+(Balloon)
+Ick! This one is all sticky!
+苦しいでふっち！
+
+Captured Sylph
+捕らわれたシルフ
+(Balloon)
+This one needs help!
+助けてふっち！
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+Be on guard, every one!
+仮宿のヤツらを
+やっつけるでふっち～
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+These ones are smart ones, oh yes.
+フ～ムフムでふっち
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+These ones must protect these ones' home!
+ふふ、それは名案でふっち…
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+Tee hee!
+毒気をまき散らす
+キノコを植えるでふっち
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+Ta ha!
+罠をしかけるでふっち…
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+These ones are smart ones, oh yes.
+フ～ムフムでふっち
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+Stupid ones will never see it coming. Tee hee!
+オオグチソウを
+改良するでふっち！
+
+Hostile Sylph
+悪い子シルフ
+(Balloon)
+These ones must protect these ones' home!
+ふふ、それは名案でふっち…
+
+Serpent Lieutenant
+双蛇党中牙士
+If we fail at this mission, Gridania's relations with the sylphs could be damaged beyond repair. We must succeed at all costs!
+蛮神「ラムウ」との対話を仕損じれば、
+グリダニアの民とシルフ族との関係も決裂しかねません。
+この作戦、必ずや成功させましょう！
+
+Nameless #1009107
+無名 #1009107
+(Balloon)
+I have this area under control!
+ここはお任せを！
+
+Nameless #1009108
+無名 #1009108
+(Balloon)
+You should be on your guard against mischief!
+イタズラに注意するんだ
+
+Nameless #1009109
+無名 #1009109
+(Balloon)
+Have you found your wise companions?
+賢人は見つかったか？
+
+Nameless #1011011
+無名 #1011011
+(Balloon)
+We fight as one!
+For all Eorzeans!
+ともに戦いましょう！
+エオルゼアのために！
+
+Serpent Scout
+双蛇党の斥候
+The fortification directly below us is Castrum Oriens. Baelsar's Wall is the structure you see towering behind it.
+眼下に見えるのが、帝国軍が築いた拠点、
+カストルム・オリエンス……。
+そのさらに向こうにそびえるのが「バエサルの長城」です。
+
+Thancred
+サンクレッド
+Papalymo and I have known...knew...each other for a long time. When I saw that look in his eyes, I could not refuse his plea...
+パパリモとは長い付き合いだった……。
+あんな眼をされたら、俺は……。
+
+Yda
+イダ
+......
+…………。
+
+Yugiri
+ユウギリ
+He saw his duty through to the end, even at the cost of his own life. I shall honor that heroism by watching over those he left behind.
+己の命を賭して、使命を成し遂げる。
+パパリモ殿の姿は、ドマの武者たちを思わせるものだった。
+彼女のことは、私がそっと見守っておこう……。
+
+Pipin
+ピピン
+Ala Mhigo has suffered under imperial occupation for twenty years. Long has the Resistance fought and failed to slip free of the Empire's yoke, but I wonder how this latest clash will change the lay of the land.
+アラミゴ占領から20年……
+幾度となく繰り返されてきた反帝国運動だが、
+果たして今回は……。
+

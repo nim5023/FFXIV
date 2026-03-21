@@ -1,0 +1,300 @@
+Nameless #1004156
+無名 #1004156
+(Balloon)
+Not too tight, is it, boy?
+よし、よし
+
+Nameless #1004159
+無名 #1004159
+(Balloon)
+I believe we'll be
+needing another chocobo.
+ふむふむ…
+
+Nameless #1004171
+無名 #1004171
+(Balloon)
+If I catch you stealing,
+I'll cut off more than
+just your hand.
+この奥は商店だ
+
+Nameless #1004172
+無名 #1004172
+(Balloon)
+Watch yourself, adventurer.
+騒ぐなよ…
+
+Nameless #1004173
+無名 #1004173
+(Balloon)
+You hear something?
+気のせいか…
+
+Nameless #1004174
+無名 #1004174
+(Balloon)
+Best you not wander
+far from camp... If you
+value your life, that is.
+非番は明日か
+
+Nameless #1004183
+無名 #1004183
+(Balloon)
+Here by the aetheryte all
+day... When will I get to
+see some real fighting?
+異常ないか…
+
+Nameless #1004193
+無名 #1004193
+(Balloon)
+Always keep an eye open.
+The Empire never sleeps.
+帝国兵に気をつけろ
+
+Nameless #1004194
+無名 #1004194
+(Balloon)
+Eat, man! Ye cannae
+right kill an imperial
+on an empty belly, now!
+食え、食え
+
+Nameless #1004200
+無名 #1004200
+(Balloon)
+I sharpened
+these myself.
+気をつけろ
+
+Nameless #1004221
+無名 #1004221
+(Balloon)
+Don't think! Feeeeeel!
+足が止まってるぞ！
+
+Nameless #1004227
+無名 #1004227
+(Balloon)
+Not here to relieve
+us, are you?
+帝国兵がいつ来るか…
+
+Nameless #1004231
+無名 #1004231
+(Balloon)
+Don't tell the sergeant, but
+without my spectacles, I
+cannot see worth shite.
+油断ならねえ
+
+Nameless #1004232
+無名 #1004232
+(Balloon)
+How I long to be back
+in Ul'dah with my wife...
+毎日が戦いさ
+
+Nameless #1004233
+無名 #1004233
+(Balloon)
+If you had any wits
+about you, you'd turn back.
+おかしいところは…
+
+Chocobokeep
+チョコボ屋
+(Balloon)
+未使用937
+未使用937
+
+Nameless #1004246
+無名 #1004246
+(Balloon)
+Absolutely no entry to
+unauthorized personnel.
+工場内は立入禁止だ
+
+Nameless #1004259
+無名 #1004259
+(Balloon)
+Yer mother was an
+imperial whore!
+んだとコラ！
+
+Nameless #1004260
+無名 #1004260
+(Balloon)
+Aye, and she still
+wouldn't take yer coin!
+来いやぁ！
+
+Nameless #1004261
+無名 #1004261
+(Balloon)
+Twenty-eight, twen─ Oh!
+Would you stop interrupting?
+Now I'll have to start again!
+ふんっ、ふんっ
+
+Nameless #1004263
+無名 #1004263
+(Balloon)
+You didn't happen to
+see a caravan on your
+way here, did you?
+…よし
+
+Nameless #1004265
+無名 #1004265
+(Balloon)
+Not today. Not yester-
+day. Not the day before...
+なかなかね
+
+Nameless #1004267
+無名 #1004267
+(Balloon)
+Anything?
+どうだ？
+
+Nameless #1004279
+無名 #1004279
+(Balloon)
+If the imperials don't
+kill you, the fog will.
+異常なし、と
+
+Nameless #1004280
+無名 #1004280
+(Balloon)
+Don't wait for your oppo-
+nent! Strike him down
+before he strikes you!
+軸がブレてるぞ！
+
+Nameless #1004286
+無名 #1004286
+(Balloon)
+Your safety cannot be
+guaranteed once you
+leave these gates.
+無闇に帝国軍に近づくなよ
+
+Nameless #1004289
+無名 #1004289
+(Balloon)
+You'll find little respite
+beyond this gate.
+ここは青燐精製工場だ
+
+Nameless #1004297
+無名 #1004297
+(Balloon)
+We're now a sennight
+behind schedule.
+護衛はまかせた
+
+Nameless #1004298
+無名 #1004298
+(Balloon)
+The foreman'll have
+our arses on a stick.
+搬出予定日は…
+
+Papawazu
+パパワズ
+Aaand what's he doing here, you might ask. Aaand I'd answer, a very...important...job. I do look forward to finishing it and returning to Ul'dah covered in glory─thank you, thank you...you may stop admiring me now. I've moved on.
+ん～、早く仕事を片付けて、ウルダハに戻りたいですねぇ。
+なんてったって、私はアマジナ鉱山社のエリート社員。
+仕事が終われば、重役の座が約束されてますからねぇ。
+
+Rafold
+ラフォルド二等闘兵
+You'd be wise to hold fast your weapon in these parts. Castrum Meridianum bears down on us from the north, the Garleans poised to strike at a moment's notice.
+この付近では、武器を手放さぬようご留意ください。
+北方に「カストルム・メリディアヌム」があります故、
+いつ何時、帝国兵が攻めこんでくるかわかりません……。
+
+Zezeragi
+ゼゼラギ二等闘兵
+A dear friend of mine died by Garlean hands, and I joined the Immortal Flames to avenge him. But now that I'm here... <gulp>
+帝国兵に殺された友の仇を討つため、不滅隊に入りました。
+戦場に立つ道を選んだこと、一切後悔はしていません。
+しかし……死の恐怖が消えることはありません。
+
+Adelena
+アデレナ一等闘兵
+I like to think that the fire in my heart burns as strongly as anyone else's. But when I behold the might of the Garleans, I can't help but be struck dumb.
+不滅なる闘志を抱き、ここの任務についています。
+それでも、帝国の軍勢を目の当たりにする度に、
+その圧倒的な技術力に愕然とします……。
+
+Betyn
+ベティン二等闘兵
+It's trying, not knowing when death will finally come for you. My mind often wanders to the family I left behind.
+死と背中合わせの毎日を送っていると、
+ふと故郷に残した家族のことを思うことがあります。
+……いかんいかん、気持ちを切り替えねば。
+
+Memezofu
+メメゾフ一等闘兵
+Every day carries its share of lumps, bumps, strains, sprains, bruises, and broken bones. - I've treated blacksmiths, goldsmiths, alchemists, botanists, armorers, leatherworkers, miners, carpenters, you name it─never lost a patient yet.
+突き指をした採掘師から、骨を折った不滅隊の兵まで、
+様々な怪我人が、毎日のように担ぎ込まれてくるよ。 - でもね、どんなけが人も絶対に死なせやしない。
+私は、そういう気持ちで治療にあたっているよ。
+
+Wymund
+ワイムンド上等闘兵
+I keep watch over yonder field for Garlean activity. Though half the time I can see nary ten yalms ahead for the accursed fog.
+青燐泉方向における、帝国軍の動向を監視しています。
+時折、青燐水を含んだ青い霧によって、
+視界が真っ青になってしまいますがね。
+
+Hopeful Dawn
+ホープフル・ドーン上等闘兵
+Sentry duty's mind-numbin' work at the best o' times. It takes the perseverance of a bleedin' saint to keep yer wits about ye for when ye actually need 'em.
+ここでの役目は単調ですが、重要なものです。
+素早く危機を察知することで、戦局は大きく変化します。
+だから我々は、常に緊張感を持たなければならないのです。
+
+Raubahn
+ラウバーン
+The final phase of Operation Archon is at hand! The time is come for the Immortal Flames to burn hotter and brighter than ever before!
+「マーチ・オブ・アルコンズ」の最終段階は、目前と迫っている！
+北ザナラーンに滞在する全ての不滅隊兵は、
+己が心の炎を、最大に燃やすのだ！！
+
+Raubahn
+ラウバーン
+Operation Archon is the most ambitious military strategy ever to be conducted on Eorzean soil, and you are its beating heart! You must not fail!
+現在、エオルゼア三国の総力をあげて
+「マーチ・オブ・アルコンズ」が進行中だ。
+貴様は作戦の要、頼んだぞ！
+
+Biggs
+ビッグス
+
+未使用
+
+Wedge
+ウェッジ
+
+未使用
+
+Spiraling Path
+スパイラリング・パス闘軍曹
+Each step north brings us closer to the Garlean threat, and each day brings us closer to war.
+北に行くにつれ、兵の緊張度は大きくなっています。
+なんせ、帝国軍の拠点が目と鼻の先なんですから。
+
+Nameless #1011009
+無名 #1011009
+(Balloon)
+We fight as one!
+For all Eorzeans!
+ともに戦いましょう！
+エオルゼアのために！
+

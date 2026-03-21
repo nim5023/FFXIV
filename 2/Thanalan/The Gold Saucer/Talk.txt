@@ -1,0 +1,981 @@
+Nameless #1010486
+無名 #1010486
+(Balloon)
+Rumor is it's
+anatomically correct.
+ここの支配人らしいよ…
+
+Nameless #1010487
+無名 #1010487
+(Balloon)
+That's quite the statue...
+金ピカだね…
+
+Rilulu
+リルル
+This passage leads to the chocobo racing course. Unauthorized entrance is strictly prohibited.
+こちらはレース場へと通じる扉でございます。
+許可なき立ち入りは、ご遠慮くださいませ。
+
+Rikeke
+リケケ
+When post time draws near, we will provide further instructions. If you are looking to enter a race, please wait patiently within the halls of Chocobo Square.
+レースの準備が整いましたら、
+わたくしどもが、きっちりご案内しますので、
+出走の際は、チョコボスクウェア内でお待ちくださいませ。
+
+Nameless #1010492
+無名 #1010492
+(Balloon)
+Old enough to waddle,
+old enough to race.
+いつかレースに出ようね
+
+Joseph
+ジョー
+Hey, name's Joe. Nice to meet... Wait, we met before? No...maybe not. Hmmm... I can tell you've got a story...and I reckon it's pretty interesting. Aye, I have a feeling that we'll meet again. Then, until we meet again.
+やぁ、これは美しいお嬢さんだ。
+ここにいるということは、君もレースに出走するのかな？
+……ふっ、君とはいい勝負ができそうな気がするよ！
+
+Nameless #1010498
+無名 #1010498
+(Balloon)
+I wonder if I have time for
+a swing at Cuff-a-Cur
+before the next race...
+出走時間はまだかな…
+
+Nameless #1010499
+無名 #1010499
+(Balloon)
+It's alright, Boko.
+The people here will
+take good care of you.
+ボコ、いいのか！？
+
+Nameless #1010500
+無名 #1010500
+(Balloon)
+No wonder there are so
+many chicken dishes!
+まだ早いんじゃない？
+
+Nameless #1010501
+無名 #1010501
+(Balloon)
+I heard the Saucer's kitchens
+claim all abandoned chocobos.
+仕上がりはバッチリだ！
+
+Roland
+ローランド
+Ho, friend! I trust your bird fares well? Ah, but the races are ever a sight to behold!
+これは、様！
+競走羽の調子は上々ですかな？
+私も遠くからレースを眺めては、心を熱くさせていますよ！
+
+Amycia
+アミシア
+Here at the Gold Saucer, we strive to make all your dreams come true─even the dreams you never knew you had! Tee hee!
+ここはゴールドソーサー。
+すべての人が、うたかたの夢を見る場所でございます！
+
+Abbelina
+アベリナ
+Welcome to the Gold Saucer, honored guest. There's no end to the wonders within these halls─pray don't be shy about partaking in them!
+ゴールドソーサーへようこそ。
+あなたも、ステキな夢の世界を楽しんでね！
+
+S'llooni
+ス・ルーニ
+Oh, what should I do next? Enter a chocobo race or play Triple Triad? Or do something else altogether!? For the life of me, I can't decide!
+あなたは、どんな施設で遊ぶつもり！？
+チョコボレースもトリプルトライアドも楽しくて……
+もう、選べなくて迷っちゃうわ～！
+
+Nameless #1011026
+無名 #1011026
+(Balloon)
+The stroke... The follow-
+through... That boy truly
+knows how to handle a ball...
+ふむ、筋がいい…
+
+Chocobokeep
+チョコボ厩務員
+Beyond those doors is where we train race chocobos. Mayhap you prefer the raw excitement of a race, though? Believe me, there is much joy in watching the fledglings grow stronger and predicting how well they will perform.
+向こうにある扉が見えるかしら。
+あの扉の先では、競走羽の調教を行っているわ。
+調教しながら、レースの様子を眺めるのが、私の楽しみなの！
+
+Nameless #1011032
+無名 #1011032
+(Balloon)
+Welcome to the
+Manderville Gold Saucer!
+ゴールドソーサーへようこそ！
+
+Nameless #1011034
+無名 #1011034
+(Balloon)
+Escape reality,
+live the fantasy!
+楽しんでいってね！
+
+Nameless #1011036
+無名 #1011036
+(Balloon)
+I'll never best that Teioh!
+俺の競走羽が勝つために…
+
+Grege
+グレッグ
+Newcomer or veteran, the Gold Saucer has something for everyone. Why not cast your worries aside for the day and delight in the myriad diversions we have to offer?
+よう、一見さんかい？
+それとも常連さんかな……？
+どっちにしても、たくさん遊んでってくれよ！
+
+Nameless #1011042
+無名 #1011042
+(Balloon)
+Everything in this place is
+so massive! I wonder if
+the owner is attempting to
+compensate for something.
+おっきい像だなぁ！
+
+Nameless #1011046
+無名 #1011046
+(Balloon)
+Pipe down, boy. Can't
+ye see I'm thinkin'?
+今日は何で遊ぼうか…
+
+Nameless #1011048
+無名 #1011048
+(Balloon)
+Today's my lucky day!
+Or perhaps tomorrow!
+今日こそ当ててやる！
+
+King Elmer III
+キングのエルマー
+Fond of Triple Triad, are you? I can't play enough of the game myself. I've defeated so many opponents now, they started calling me “King.” - And I must say, I've grown rather attached to the title. If you mean to topple me from my throne, then you'd best prepare yourself for a royal rumble!
+お姉さん、「トリプルトライアド」は好きですか？
+僕はカードが大好きで、いろんな人と対戦しているうちに、
+いつの間にか、「キング」なんて呼ばれるようになっちゃって。 - その名に恥じないように、がんばりますから、
+もし戦うことがあったら、よろしくお願いします！
+
+Aurifort Of The Three Clubs
+クラブのオリフォル
+...Stop. Before you utter a word, know that you address a Triple Triad champion. If you intend to challenge me, then pray do so only once your skills have reached their peak. - Until then, mayhap Jonas of the Three Spades would provide you with a less...daunting adversary.
+…………最初に言っておくけど、僕は強いよ。
+君も「トリプルトライアド」をやるのなら、
+それなりの腕を身につけてから、僕に挑むことだ。 - それまでは、あっちの「スペード」とでも戦って、
+修行を積むんだね……。
+
+Ruhtwyda Of The Three Hearts
+ハートのルヒトウィダ
+Well, now, ain't ye a pretty one! I'll have me summat nice to look at while I'm takin' ye apart at the card table!
+ハ～イ！　あなた、いい顔してるじゃない。
+あなたとなら、気持ちいいバトルができそうだわ！
+もちろん、勝つのは私だけどね！
+
+Jonas Of The Three Spades
+スペードのジョナス
+Ah, the cards are in my favor today! You'd best bring your finest decks against me, friend, because I am ON FIRE!
+おっしゃあ、今日もガンガン絶好調！
+あんた、俺と戦うときは覚悟しろよ？
+俺、手加減とかはできねえ性格だからさ！
+
+Guhtwint Of The Three Diamonds
+ダイヤのグートウィント
+Fancy yourself a Triple Triad player, do you? I've built a fair reputation at the game myself─enough to earn a place in the Gold Saucer “court,” at any rate. - So, you see, there's no need to take it easy on me...as I certainly won't be easy on you!
+君も「トリプルトライアド」をやるのかい？
+僕は「ダイヤ」の異名で呼ばれる者さ……。
+一応、それなりの実力はあるつもりだよ。 - 対戦することになったら、全力で挑んでくるといい。
+もちろん、僕も本気で臨ませてもらうよ！
+
+Nameless #1011063
+無名 #1011063
+(Balloon)
+Knavery is unnecessary
+when matching wits with
+the likes of you.
+油断は禁物ね
+
+Nameless #1011064
+無名 #1011064
+(Balloon)
+Them some right baggin'
+sleeves you 'ave there.
+まだ逆転可能よ…！
+
+Nameless #1011068
+無名 #1011068
+(Balloon)
+You going to let her
+take your money like that?
+俺たちの女神の勝利だ！
+
+Nameless #1011070
+無名 #1011070
+(Balloon)
+Da! I'm hungry
+and I miss Ma and Sis!
+ねえ、早く行こうよー！
+
+Nameless #1011071
+無名 #1011071
+(Balloon)
+Can someone─anyone─
+show me to the privy? I'm
+like to explode!
+あのモーグリ可愛い…
+
+Nameless #1011072
+無名 #1011072
+(Balloon)
+“El Coloso” means
+“the Coloso.”
+一緒にまわろうよー
+
+Nameless #1011073
+無名 #1011073
+(Balloon)
+<swoon>
+You know everything!
+えー、どうしようかなー
+
+Telbi Kesulbi
+テルビ・ケスルビ
+My companion promised to meet me in Wonder Square, but she's nowhere to be seen! Do you think it's this fragrance I'm wearing? She's always had a most sensitive nose...
+おかしいなあ……。
+ワンダースクウェアで待ち合わせって言ったんだけど、
+彼女が全然来ないんだ……。
+
+Shinana
+シナナ
+My companion promised to meet me in Wonder Square, but I can't find him anywhere! Do you think it's my dress? He's so particular when it comes to fashion...
+ワンダースクウェアで待ち合わせって、約束したのに……
+初デートで、女の子を待たせるなんてサイテー！
+ほんとに失礼しちゃうわ！
+
+Nameless #1011076
+無名 #1011076
+(Balloon)
+This seat is taken,
+if you were wondering.
+ちょっと一休み…
+
+Nameless #1011077
+無名 #1011077
+(Balloon)
+What exactly were we
+looking for again, Father?
+これ登りたいー！
+
+Veleda
+ヴェレダ
+Hello, cutie. Come for the Cactpot...or for me? Either way, you're more than welcome to test your luck. Tee hee!
+あら、くじを買いにきたの？
+それとも……私に会いに来てくれたのかしら？
+な～んて、もしそうなら嬉しいけどね！
+
+Nameless #1011085
+無名 #1011085
+(Balloon)
+That sabotender told me
+there was fish in here!
+釣れないなぁ…
+
+Nameless #1011088
+無名 #1011088
+(Balloon)
+How's about another
+go at her, eh?
+きっついわ、これ…
+
+Nameless #1011089
+無名 #1011089
+(Balloon)
+A little more to the left...
+Now up! No, back! Right!
+Stop! Stop! Stop!
+お人形、かわいいな～
+
+Nameless #1011091
+無名 #1011091
+(Balloon)
+I can see the top!
+頂上まで、もう少しよ！
+
+Nameless #1011092
+無名 #1011092
+(Balloon)
+Cactpot!
+I'm rich! I'm rich!
+つ、ついに当たったー！
+
+Nameless #1011108
+無名 #1011108
+(Balloon)
+No pets allowed, my arse.
+何して遊ぼうかー？
+
+Hesdin
+ヘズディン
+If you've not yet done so, you must try wading in the water here. It's remarkably refreshing!
+あんた、この水の中に入ってみたか！？
+騙されたと思って、足突っこんでみなよ。
+マジで、すげーから！！
+
+Nameless #1011115
+無名 #1011115
+(Balloon)
+Where am I? I just
+want to go home...
+なんで、インプが…？
+
+Nameless #1011117
+無名 #1011117
+(Balloon)
+My lucky numbers?
+Why, 1234, of course!
+次こそ当たる気がする…
+
+Nameless #1011121
+無名 #1011121
+(Balloon)
+Close your eyes, darling.
+They cannot see you if
+you cannot see them.
+愛してるよ、ハニー…
+
+Nameless #1011132
+無名 #1011132
+(Balloon)
+Why is everyone
+staring at us, Bradford?
+ここじゃ恥ずかしいわ…
+
+Nameless #1011133
+無名 #1011133
+(Balloon)
+You mean waiting here
+won't see the drawing
+any earlier!?
+今週の購入者ボーナスは…
+
+Nameless #1011138
+無名 #1011138
+(Balloon)
+And by “approximately”
+you mean “exactly,” right?
+先週の当選番号は…
+
+Nameless #1011139
+無名 #1011139
+(Balloon)
+By my calculations, you
+have approximately a 1 in
+10,000 chance of winning.
+最近の傾向として…
+
+Lewena
+レウェナ
+<yawn> All these bright lights and loud noises. I find it all so dreadfully...tedious. Or perhaps you've come to amuse me? - ...No? Then go off and play your silly games, or whatever it is you've come to do. <sigh>
+……あら、わたくしに何かご用かしら？
+うふふ、次は何で遊ぼうか考えていたところですの。 - どんな遊戯だって、かならず遊び尽くしてみせますわ。
+いつも新しいものには、何だって挑戦してみたくなるのだもの。
+この遊技場がわたくしを、ずっと飽きさせないと良いのですけど！ 
+
+Nameless #1011147
+無名 #1011147
+(Balloon)
+A kiss for good luck?
+That'll be 50 MGP.
+星神ニメーヤ様の
+祝福がありますように…
+
+Roland
+ローランド
+Welcome, honored guest, to the Manderville Lounge. On behalf of Master Godbert, we shall do all in our power to see that your stay is a pleasant one.
+これは、様！
+こちらは、憩いの場「ラウンジ・マンダヴィル」です。
+ごゆるりとお過ごしください！
+
+Nameless #1011152
+無名 #1011152
+(Balloon)
+That uniform serves only
+to objectify and is an
+insult to her inner beauty!
+聞いてくれよ…
+
+Nameless #1011153
+無名 #1011153
+(Balloon)
+Any complaints regarding
+staff attire can be taken
+up with the management.
+飲みすぎですよ？
+
+Roland
+ローランド
+The Triple Triad tables are bustling with excitement as ever, no? I can scarcely wait to see who will claim victory in the next tournament!
+これは、様！
+「トリプルトライアド」は、当遊技場でも大人気でして。
+最近では、様々な方が遊んでらっしゃるようですよ！
+
+Roland
+ローランド
+So we meet again...and you could not have picked a better time to come! This event is one of my personal favorites─I heartily encourage you to take your place on stage!
+これは、様！
+ここのイベントは、私も大好きでしてねえ……。
+ぜひ、ステージに上がってみてくださいね！
+
+Minion Master
+ミニオンマスター
+Greetings, and welcome to Minion Square! If you've a stalwart stable of mighty minions, then Lord of Verminion is the game for you! - Feel free to test your tactical talents at any of the tables available. Every gaming station has a rule book on hand, so newcomers can study up before they throw down! - Should your forces feel feeble, our minion trader stands ready to provide fresh fodder for the field. And if the intensity of tournaments tickles your fancy, the recordkeeper to my left will sign you up with a swiftness.
+ようこそ、「ミニオンスクウェア」へ！
+こちらではミニオンを使った遊技、
+「ロード・オブ・ヴァーミニオン（LoVM）」を楽しめます！ - 遊ぶ際は、設置されている「LoVM」からどうぞ。
+ルールを確認することもできるので、
+初めての方もご安心ください！ - なお、ミニオンをお求めでしたら「ミニオントレーダー」を。
+大会にエントリーされる際は「大会受付窓口」を、
+それぞれ、お尋ねくださいませ！
+
+Auphrey
+オーフリー
+Hmmm, I just can't seem to make it into the top ten. Mayhap I should select my minions by their merit, rather than their adorability...
+うーん、なかなか上位に入れないわね。
+かわいいミニオンを使って、相手をメロメロにする作戦……
+考えなおした方がいいかしら……。
+
+Nameless #1011597
+無名 #1011597
+(Balloon)
+Overwhelming numbers!
+That's the best strategy!
+戦いは数だ！
+物量で一気にいくぜ！
+
+Nameless #1011598
+無名 #1011598
+(Balloon)
+I'll let him think he's winning...
+Then BAM! Hee hee!
+もう少し、引きつけてから…
+うふふ…♪
+
+Nameless #1011599
+無名 #1011599
+(Balloon)
+She's usually such a sweet girl...
+性格が出るなぁ…
+
+Simcock
+シムコック
+Continue straight ahead to register your chocobo at the race counter. The Lord of Verminion tables can be found to the right.
+正面奥に進みますと「チョコボレースカウンター」。
+右手に曲がりますと「LoVMカウンター」がございます。
+
+Roland
+ローランド
+Ah, Lady ! Your minion army is in good trim, I trust? I, for one, would not wish to contend with a seasoned adventurer, no matter the field of battle!
+これは、様！
+ミニオンたちの準備は万端ですかな？
+躍動するミニオンの勇姿……ぜひ、ご堪能ください！
+
+Nameless #1016292
+無名 #1016292
+(Balloon)
+Hee hee hee!
+くくく…！
+
+Whisper
+ウィスパー
+When I was lost in those deep woods, I met a fluffy little creature who was white as snow and floated through the air like a cloud, only to vanish before my eyes. Could it be that I had my first encounter with an Eorzean Yo-kai?
+そういえば、森でさまよっていた時、
+白くて、フワフワした、空飛ぶビーバーみたいなのと、
+出会ったのですが、あれも妖怪なんでしょうか？
+
+Nameless #1019835
+無名 #1019835
+(Balloon)
+Oh, Inspector! Are you hurt!? Maybe you should hibernate a bit longer.
+爆弾にやられましたね～
+
+Nameless #1019836
+無名 #1019836
+(Balloon)
+I shall see that someone pays for this! Why is my name not on here!?
+なぜワシの名前がないのだ！
+
+Nameless #1019837
+無名 #1019837
+(Balloon)
+Watch well, Honoroit—you may learn a thing or two!
+オレ様の騎乗術を
+見せてやるぜ！
+
+Nameless #1019838
+無名 #1019838
+(Balloon)
+My lord, please stop this before you hurt yourself!
+き、危険ですから
+おやめください！
+
+Nameless #1019839
+無名 #1019839
+(Balloon)
+One good ticket—that's all I need!
+ここで一発当てて
+財政再建でっす！
+
+Nameless #1019847
+無名 #1019847
+(Balloon)
+Get ready for a Raubahn roasting!
+局長のもなかなか
+可愛くてよ？
+
+Nameless #1019849
+無名 #1019849
+(Balloon)
+I'll have ye know the Admiral's no slouch!
+提督のマメットが最強だぜ！
+
+Nameless #1019851
+無名 #1019851
+(Balloon)
+I cannot help but feel at a disadvantage here...
+ア・ルン様の
+マメットはないのか？
+
+Nameless #1026131
+無名 #1026131
+(Balloon)
+Anyone here caught cheating
+answers to me, understand?
+イカサマしてる悪い子は
+いないかしら…
+
+Nameless #1026132
+無名 #1026132
+(Balloon)
+Next time. Next time I'll hit the cactpot.
+つ、次こそは…
+一攫千金でっす
+
+Nameless #1026134
+無名 #1026134
+(Balloon)
+A present? But it's not
+even my nameday!
+プレゼントにまっしぐら
+すごいです～
+
+Nameless #1026135
+無名 #1026135
+(Balloon)
+Hells take your cards!
+I say we race chocobos!
+いや、チョコボレースで勝負だ！
+
+Nameless #1026136
+無名 #1026136
+(Balloon)
+We should play Triple Triad!
+トリプルトライアドで勝負だ
+
+Nameless #1026138
+無名 #1026138
+(Balloon)
+Don't be such a ssspoilsport.
+しゅ～
+煌びやかな趣向じゃのう
+
+Nameless #1026139
+無名 #1026139
+(Balloon)
+Don't stray too far,
+got that? I promised to
+keep an eye on you.
+警備隊の慰安といっても
+羽目を外しすぎるなよ
+
+Nameless #1026140
+無名 #1026140
+(Balloon)
+I will have that bunny suit!
+オレの勝負運を
+見せてやるぜ！
+
+Nameless #1026142
+無名 #1026142
+(Balloon)
+'Tis your mind playing tricks on you. Nothing more.
+そうか？
+気のせいだろう
+
+Nameless #1026143
+無名 #1026143
+(Balloon)
+I swear I've seen him somewhere before...
+あの人…
+見覚えがあるような…？
+
+Nameless #1026146
+無名 #1026146
+(Balloon)
+You ladies head up first.
+I'll take the rear...
+バニーちゃんは登らんのか？
+
+Nameless #1026147
+無名 #1026147
+(Balloon)
+You'll take my pickaxe to the
+eye should you try anything.
+つい採掘したくなる山ね…
+
+Nameless #1028262
+無名 #1028262
+(Balloon)
+The path to riches is a perilous one, yes, yes...
+大金持ちへの道は険しいのねん…
+
+Nameless #1028263
+無名 #1028263
+(Balloon)
+Seven hells!
+Get a bloody room, will ye!?
+ん～もう！
+目のやり場に困るわ…
+
+Nameless #1028265
+無名 #1028265
+(Balloon)
+The next match is mine!
+次は俺が勝ってやるかんね！
+
+Nameless #1028266
+無名 #1028266
+(Balloon)
+Mewling cub!
+You'll never defeat me!
+何度やっても僕には敵わんよ！
+
+Nameless #1028267
+無名 #1028267
+(Balloon)
+I'll show ye how to swing a damn hammer!
+オレのハンマーさばきを見やがれ！
+
+Nameless #1028270
+無名 #1028270
+(Balloon)
+The abyss take me...
+私が負けてしまうとは…
+
+Nameless #1028393
+無名 #1028393
+(Balloon)
+Wh-Which tile should I discard...?
+は、牌を捨てるときは
+きれいに並べてっと…
+
+Nameless #1028394
+無名 #1028394
+(Balloon)
+Well, this is a disaster!
+ちっくしょう、勝てねえよぉ…！
+
+Nameless #1028398
+無名 #1028398
+(Balloon)
+And one is meant to scale this edifice...?
+ふゥん、これに登れとねぇ？
+
+Nameless #1034576
+無名 #1034576
+(Balloon)
+Hmm, what should I do now...?
+次は何をやろうか…
+
+Nameless #1034578
+無名 #1034578
+(Balloon)
+<gasp> The size of this place!
+広いなぁ！
+
+Nameless #1034579
+無名 #1034579
+(Balloon)
+Where shall we start!?
+楽しみだわ！
+
+Nameless #1034580
+無名 #1034580
+(Balloon)
+Just one more try...
+あと1回だけ…！
+
+Nameless #1034581
+無名 #1034581
+(Balloon)
+What, again!?
+いつまでやるの！？
+
+Nameless #1034898
+無名 #1034898
+(Balloon)
+The next big win is mine, I can feel it!
+次は当てて見せるわよ…！
+
+Nameless #1034899
+無名 #1034899
+(Balloon)
+My “Dawn Deck” will be unstoppable!
+暁デッキで
+目指せ1位でっす！
+
+Nameless #1034903
+無名 #1034903
+(Balloon)
+Prepare to feel my fist of rage!
+日頃のうっぷんを晴らすわ…
+
+Nameless #1034905
+無名 #1034905
+(Balloon)
+Oh, calm down, Ulala...
+ウララったら…
+
+Nameless #1034906
+無名 #1034906
+(Balloon)
+You've the worst mahjong face, my friend...
+バデロンは
+顔に出やすいから…
+
+Nameless #1042838
+無名 #1042838
+(Balloon)
+Aye, now this is interestin'...
+ほう、こいつは面白い…
+
+Nameless #1042841
+無名 #1042841
+(Balloon)
+Why, the Gold Saucer's every bit as wonderful as I imagined─more so, even!
+むほ～、たまらんぞい！
+
+Nameless #1042842
+無名 #1042842
+(Balloon)
+Sparklies! So many sparklies!
+ちゃりちゃり、集めるっちゃ！
+
+Nameless #1042997
+無名 #1042997
+(Balloon)
+H-How many times do I have to tell ye!? I'm not bloody interested!
+い、いや、その…
+
+Nameless #1042998
+無名 #1042998
+(Balloon)
+Such hospitality! A man could get used to this!
+最高のもてなしぢゃ！
+
+Nameless #1042999
+無名 #1042999
+(Balloon)
+Kyokyoroon came for sparklies. Where are sparklies?
+ちゃりちゃり
+どこでもらえるっちゃ？
+
+Nameless #1043001
+無名 #1043001
+(Balloon)
+Do allow me to guide you to the perfect spot to visit with your special someone.
+デートスポットを
+お探しなんですね！？
+
+Nameless #1043073
+無名 #1043073
+(Balloon)
+I wonder what varieties of pudding they serve in this place?
+ここにも、おいしそうな
+プディングが…！？
+
+Nameless #1044899
+無名 #1044899
+(Balloon)
+Can you catch us, kupo?
+モグたちを
+キャッチするクポ！？
+
+Nameless #1044901
+無名 #1044901
+(Balloon)
+So long as there's drink, I can manage...
+酒でも飲まなきゃ
+やってらンねえぜ…
+
+Nameless #1044902
+無名 #1044902
+(Balloon)
+One moment poor as a pauper, the next rich as a king! Ah, what a magical place!
+一攫千金
+これもまたラブ＆ドリーム…
+
+Nameless #1044903
+無名 #1044903
+(Balloon)
+My readers would be very interested to know what items are on offer.
+景品のリストを載せたら
+読者の興味を引けるかな…
+
+Nameless #1046322
+無名 #1046322
+(Balloon)
+These imps don't hold a candle to Senor Sabotender...!
+セニョール・サボテンダーも
+負けてられないな…！
+
+Kipih Jakkya
+キピ・ジャッキヤ
+When I heard that the Gold Saucer took a new approach to their annual celebration, I thought it best to report my findings and write something up before my rivals had the chance, but now that I've seen it for myself, I'm not quite sure where to begin...
+ゴールドソーサーが妙なことになってるって聞いて、
+取材に来たんだけど……。
+この状況、どうまとめようかしらね。
+
+Violet Imp
+人目を忍ぶ今紫色のカッパ
+! Glad am I to find a familiar face among these halls. I am come on behalf of Lord Hien to investigate the creatures you know as water imps. In the Far East, we call them kappa, and they oft appear in our myths. - My lord was unusually intrigued by reports of the imps' appearance, and would not rest until he learned more of this phenomenon. Yet his position allows him little time for such trivial matters, and thus did I travel here in his stead. - Know you of the muscular imp that roams the Saucer? 'Twas no sooner after I arrived that he bestowed upon me this suit of attire. Perhaps I shall wear it again upon my return to Doma─my lord was eager to see these living legends up close.
+なんと、このような場で貴殿と顔を合わすとは……！
+西方の遊技場で「かっぱ」なる存在が現れたと、
+どこからかヒエン様のお耳に届いてな。 - 噂を聞くほどに興味が深まっていったらしく、
+落ち着かない様子だったので、やむなく私が参じたのだ。
+お忙しいあの方に代わり、見聞をお伝えするために……。 - そしてつい先ほど、筋骨隆々なかっぱに勧められ、
+この衣装を貰い受けたところだ。
+……この姿を見せて、ヒエン様はお喜びになるだろうか？
+
+Dreaming Imp
+卵黄色のクチバシをしたカッパ
+Such intriguing creatures, these water imps. If I am ever fortunate enough to dream of them, I would invite them to our Hatching–tide festivities without delay. - Perhaps one day, they might even decipher our language and speak with us more candidly... I once welcomed a curious talking rabbit to our celebrations, and I would welcome talking imps with equal enthusiasm!
+カッパちゃんって、とても不思議な見た目をしているのね。
+私の夢に、この子たちが出てくれば、
+エッグハントにもお招きできるのに！ - エッグハントでも、時折おかしなことを言うウサギを見かけるの。
+ぜひ、カッパちゃんたちとお喋りしてほしいわ。
+
+Nameless #1049035
+無名 #1049035
+(Balloon)
+Prepare yourselves one and all for a thorough drubbing!
+ランカーなど全員
+ワシがひとひねりじゃ！
+
+Nameless #1049036
+無名 #1049036
+(Balloon)
+Unusual to see you so animated, sir.
+旦那が気炎を上げるとは…
+珍しいこともあるもんだ
+
+Nameless #1049037
+無名 #1049037
+(Balloon)
+I wonder what sort of habitat Senor Sabotender prefers.
+セニョール・サボテンダーか…
+どんな生態なのかしら？
+
+Nameless #1049038
+無名 #1049038
+(Balloon)
+I think you'll find it's an employee in costume, Professor...
+あれは着ぐるみですよ…
+
+Nameless #1049039
+無名 #1049039
+(Balloon)
+There sits the king. He better be ready for a good thrashin'!
+あそこで待つのは強敵…
+だけど勝つのはアタシだ！
+
+Nameless #1049040
+無名 #1049040
+(Balloon)
+Great treasures and much jinglyshine await!
+勝ったら　かわいい
+景品いっぱい　ほしいゴブ！
+
+Ollier
+オリアー
+The interest in King Elmer's Triple Triad classes has been positively overwhelming! I've just been providing these two youngsters with a brief explanation. - Who knows, perhaps they'll prove themselves master strategists and go on to become future champions!
+いま、エルマーさんの子ども教室について、
+この子たちに説明をしていたんです。
+おかげさまで大盛況ですよ。 - きっとこの子たちも、エルマーさんのように真似をして、
+戦術を分析することで、強くなっていくのでしょう。
+そう考えると、とてもおもしろいですね！
+
+Nameless #1049049
+無名 #1049049
+(Balloon)
+So formidable, yet no discernable signs of naughtiness!
+あんなに強いのに
+不正が見つからないぞ！
+
+Nameless #1049050
+無名 #1049050
+(Balloon)
+Mt. Corel? More like Mound Corel! Gettin' up was even easier than beatin' ol Tidus.
+マウント・コイル登頂…
+タコタン討伐より楽勝だったぜ
+
+Nameless #1049051
+無名 #1049051
+(Balloon)
+This gargantuan sabotender is most unsettling.
+サボテンダーが大きすぎて
+私、ドン引きでございます
+
+Nameless #1049052
+無名 #1049052
+(Balloon)
+A stage fit for the Homunculi...
+この大舞台で
+ホムンクルスに演奏を…
+
+Nameless #1049053
+無名 #1049053
+(Balloon)
+Where'd you go, Mummy!?
+どこ行ってたの、お母さん！
+
+Nameless #1049054
+無名 #1049054
+(Balloon)
+You poor thing... Mummy's so sorry!
+この子ったら…
+見つかってよかったわ
+
+Nameless #1049055
+無名 #1049055
+(Balloon)
+I'm just glad you're reunited.
+再会のお手伝いができて
+私も嬉しいです
+
+Malevolent Weasel
+マレヴォレント・ウィーゼル
+What brings you to the Gold Saucer? Personally, I'm a Triple Triad man, through and through. I've set my sights on beating King Elmer III!
+お前さんは、何を遊びに来たんだ？
+俺はもちろん、トリプルトライアドよ！
+ここに来たからには、キングのエルマーに挑戦しなきゃな！
+

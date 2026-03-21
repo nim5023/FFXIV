@@ -1,0 +1,148 @@
+ミンフィリア 	 Minfilia
+ウリエンジェ 	 Urianger
+イダ 	 Yda
+パパリモ 	 Papalymo
+サンクレッド 	 Thancred
+ヤ・シュトラ 	 Y'shtola
+オリ 	 Aulie
+アレンヴァルド 	 Arenvald
+ア・アバ・ティア 	 A'aba Tia
+ウナ・タユーン 	 Una Tayuun
+ミンフィリア 	 Minfilia
+イダ 	 Yda
+パパリモ 	 Papalymo
+サンクレッド 	 Thancred
+ヤ・シュトラ 	 Y'shtola
+ウリエンジェ 	 Urianger
+ミンフィリア 	 Minfilia
+イダ 	 Yda
+パパリモ 	 Papalymo
+サンクレッド 	 Thancred
+ヤ・シュトラ 	 Y'shtola
+ウリエンジェ 	 Urianger
+ミンフィリア 	 Minfilia
+イダ 	 Yda
+パパリモ 	 Papalymo
+サンクレッド 	 Thancred
+ヤ・シュトラ 	 Y'shtola
+ウリエンジェ 	 Urianger
+ミンフィリア 	 Minfilia
+ミンフィリア 	 Minfilia
+ミンフィリア 	 Minfilia
+ミンフィリア 	 Minfilia
+ミンフィリア 	 Minfilia
+ミンフィリア 	 Minfilia
+無名 #1007354 	 Nameless #1007354
+ア・アバ・ティア 	 A'aba Tia
+オリ 	 Aulie
+アレンヴァルド 	 Arenvald
+ブレモンド 	 Brendt
+無名 #1007360 	 Nameless #1007360
+オリ 	 Aulie
+アレンヴァルド 	 Arenvald
+ウナ・タユーン 	 Una Tayuun
+ブレモンド 	 Brendt
+無名 #1007369 	 Nameless #1007369
+オリ 	 Aulie
+アレンヴァルド 	 Arenvald
+ウナ・タユーン 	 Una Tayuun
+リアヴィヌ 	 Liavinne
+ブレモンデ 	 Brennan
+無名 #1007378 	 Nameless #1007378
+無名 #1007379 	 Nameless #1007379
+ウリエンジェ 	 Urianger
+ヤ・シュトラ 	 Y'shtola
+サンクレッド 	 Thancred
+ア・アバ・ティア 	 A'aba Tia
+アレンヴァルド 	 Arenvald
+ウナ・タユーン 	 Una Tayuun
+リアヴィヌ 	 Liavinne
+ハリベルト 	 Haribehrt
+ビッグス 	 Biggs
+ウェッジ 	 Wedge
+ブレモンデ 	 Brennan
+無名 #1007400 	 Nameless #1007400
+イダ 	 Yda
+パパリモ 	 Papalymo
+ウリエンジェ 	 Urianger
+ヤ・シュトラ 	 Y'shtola
+サンクレッド 	 Thancred
+ア・アバ・ティア 	 A'aba Tia
+アレンヴァルド 	 Arenvald
+ウナ・タユーン 	 Una Tayuun
+クライブ 	 Clive
+リアヴィヌ 	 Liavinne
+ノラクシア 	 Noraxia
+ハリベルト 	 Haribehrt
+ビッグス 	 Biggs
+ウェッジ 	 Wedge
+ブレモンダ 	 Bremondt
+無名 #1007423 	 Nameless #1007423
+パパリモ 	 Papalymo
+ウリエンジェ 	 Urianger
+ア・アバ・ティア 	 A'aba Tia
+オリ 	 Aulie
+アレンヴァルド 	 Arenvald
+ウナ・タユーン 	 Una Tayuun
+クライブ 	 Clive
+リアヴィヌ 	 Liavinne
+ノラクシア 	 Noraxia
+ハリベルト 	 Haribehrt
+ビッグス 	 Biggs
+ウェッジ 	 Wedge
+ブレモンダ 	 Bremondt
+無名 #1007448 	 Nameless #1007448
+無名 #1007449 	 Nameless #1007449
+ダリウステル 	 Dariustel
+ノラクシア 	 Noraxia
+イダ 	 Yda
+ヤ・シュトラ 	 Y'shtola
+アルフィノ 	 Alphinaud
+シド 	 Cid
+イダ 	 Yda
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+アルフィノ 	 Alphinaud
+シド 	 Cid
+タタル 	 Tataru
+ビッグス 	 Biggs
+ウェッジ 	 Wedge
+無名 #1007491 	 Nameless #1007491
+無名 #1007492 	 Nameless #1007492
+イダ 	 Yda
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+アルフィノ 	 Alphinaud
+ブレモンダ 	 Bremondt
+ブレモンデ 	 Brennan
+ブレモンド 	 Brendt
+無名 #1007505 	 Nameless #1007505
+無名 #1007506 	 Nameless #1007506
+ダリウステル 	 Dariustel
+イダ 	 Yda
+パパリモ 	 Papalymo
+ウリエンジェ 	 Urianger
+ヤ・シュトラ 	 Y'shtola
+サンクレッド 	 Thancred
+アルフィノ 	 Alphinaud
+シド 	 Cid
+アレンヴァルド 	 Arenvald
+ビッグス 	 Biggs
+ウェッジ 	 Wedge
+ブレモンダ 	 Bremondt
+ブレモンデ 	 Brennan
+ブレモンド 	 Brendt
+ダリウステル 	 Dariustel
+イリュド 	 Iliud
+イダ 	 Yda
+パパリモ 	 Papalymo
+ヤ・シュトラ 	 Y'shtola
+サンクレッド 	 Thancred
+ビッグス 	 Biggs
+ウェッジ 	 Wedge
+アルフィノ 	 Alphinaud
+フ・ラミン 	 F'lhaminn
+ラウバーン 	 Raubahn
+ピピン 	 Pipin
+デュララ 	 Dewlala
+ユウギリ 	 Yugiri

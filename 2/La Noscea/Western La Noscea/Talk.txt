@@ -1,0 +1,683 @@
+Fewon Bulion
+フオン・ブリオン
+I realize I'm a tiny fish amid a sea of sharks, but I think there are enough shrewd traders in this cutthroat market for an honest peddler to carve out a decent niche.
+俺はしがない交易商人だ。
+ここはしみったれた入植地だが、
+それだけに、可能性があると思っているのさ。
+
+H'rhanbolo
+ハ・ランボロ
+My Ice Princess is the most graceful vessel ever to glide across the open seas. The waves can spin her round and round, but she'll never fall down.
+あたしは「アイスプリンセス号」のハ・ランボロ船長だ。
+氷の上を滑る姫君のように、あたしの船は美しく、
+そして速く海を走るのさ。
+
+Reynfred
+レインフレッド
+Why don't ye join me for a pint or two, lass? The grog's as cheap as water in this place! Even so, I reckon I've guzzled through half the sparklies I hoarded from me mercenary days, heh heh.
+おヌシも一杯どうだ、わっはっはっ！
+ここは、安く酒が飲めるから最高じゃ！！
+傭兵時代の蓄えは、全部酒にかわっちまったがな。
+
+Pfarstym
+ファールシュティム
+Since I've been stationed here, I've learned more about ale than I thought possible. The folk here taught me that sailors stock barrels of the weaker stuff for long voyages, as even the freshest water will turn foul after a time. - And the stronger stuff? Well, that gets bought up by the merchants visiting Aleport. Lower taxes on our local brews, you see.
+ここはエール取引の中心地エールポート。
+エールは、長期航海の必需品、船乗りの飲み水だ。
+水は腐っちまうが、酒なら長期保存できるからなっ！ - この港なら酒税が安くすむんで、
+商船が競ってエールを買い込みにくるのさ。
+
+Fraeloef
+フレールーフ
+Used to be that these lands were covered with a blanket of wheat, and a small settlement flourished a short walk to the north of here. The ravages of the Calamity put an end to that, as you can see. - Aye, they did their best to rebuild, riding the momentum of the initiative to restore the aetheryte camps, but it's as if the very life has been leeched from the ground. Few can seem to muster the enthusiasm needed to bring vitality back to this barren soil.
+昔は、この辺りには一面の麦畑が広がり、
+少し北には、小さな集落があったというぜ。
+だが、霊災のせいで、ご覧の有様さ。 - エーテライト網の再整備計画に乗っかって、
+建物こそ再建されたが、活気は戻りゃしねえ。
+こんな僻地じゃ手柄もたてづらいし、やる気でないね。
+
+Khanswys
+カンスィス
+Taken a likin' to me lighthouse, have ye? 'Twas built on the ruins of Swiftperch Tower. - We call her the “Brewer's Beacon”─a fittin' name when ye consider it shines down on the ships what are pullin' into Aleport down below.
+第七霊災で壊れてしまった雨燕塔に代わり、
+新たに建てられたのが、このブルワーズ灯台さ。 - エールポートに入港する船を
+見守ってるもんで、「ブルワーズ」……
+つまりエール醸造家だなんて呼ばれているんだ。
+
+Nameless #1003303
+無名 #1003303
+(Balloon)
+Not a moment I don't.
+ウマイのか…？
+
+Nameless #1003304
+無名 #1003304
+(Balloon)
+Ever think of leavin'?
+幸せって、なんだっけ…
+
+Nameless #1003305
+無名 #1003305
+(Balloon)
+A damn hard place, this
+Quarterstone. Damn hard.
+この先どうするか…
+
+Nameless #1003307
+無名 #1003307
+(Balloon)
+Saws me a blue canary!
+A blue canary, it was! Hic!
+酒持ってないかい…？
+
+Nameless #1003308
+無名 #1003308
+(Balloon)
+To be back at sea...
+What I wouldn't give...
+腹減った…
+
+Nameless #1003309
+無名 #1003309
+(Balloon)
+Another day older
+and deeper in debt...
+努力なんてムダさ…
+
+Nameless #1003358
+無名 #1003358
+(Balloon)
+Be careful with that
+firesand, you fool!
+火薬はもっと丁寧に…
+
+S'nairoh
+ス・ナイロ二等甲兵
+Hark, the enemy approaches! Must think, must think...! Stand fast! Then, sit down with a mug of ale...
+あわわわ……あれは、敵影！？
+ど、ど、どどどどうしよう……。
+
+Nameless #1003361
+無名 #1003361
+(Balloon)
+The trunnion is warped
+and the cascabel cracked!
+えっと、教本通りなら…
+
+Nameless #1003365
+無名 #1003365
+(Balloon)
+I've a mind to throw you
+both in the brig to rot!
+お前らたるんどるぞ！
+
+Nameless #1003369
+無名 #1003369
+(Balloon)
+You 'ear? The cap'n
+caught 'em ruttin' like
+rabbits in 'is very bunk!
+知ってる？硝石の原料って…
+
+Nameless #1003372
+無名 #1003372
+(Balloon)
+You 'eard of the
+Ship Graveyard?
+…マジで？
+
+Nameless #1003373
+無名 #1003373
+(Balloon)
+Aye, 'tis crawling with all
+manner of dark spirits!
+でるんだってよ…
+
+Nameless #1003381
+無名 #1003381
+(Balloon)
+Those mountains are
+simply enormous!
+いや～でけェ船だっぺ～
+
+Nameless #1003382
+無名 #1003382
+(Balloon)
+Might be time you got a
+new pair o' spectacles.
+やめろって、恥ずかしい
+
+Nameless #1003385
+無名 #1003385
+(Balloon)
+You one of their mates?
+こんなところに何用だ？
+
+Nameless #1003390
+無名 #1003390
+(Balloon)
+Where's the bloody boat?
+Me shoulder aches!
+軽い軽い
+
+Nameless #1003392
+無名 #1003392
+(Balloon)
+You think she
+can see us?
+んなわけ…グギッ！
+
+Ahldfoet
+アルドフート
+Hear that? There's an edge on that wind. But better blown than becalmed, aye.
+潮風が匂うな……こんな日は沖が荒れる……。
+長年、廻船商をやってるとな、分かるんだよ。
+
+Nameless #1003395
+無名 #1003395
+(Balloon)
+Well, she can certainly
+see you making an arse
+of yourself with that box.
+その荷物ヤバいぜ…
+
+Nameless #1003396
+無名 #1003396
+(Balloon)
+The tariff on ale has
+risen 200 gil per barrel.
+酒税はまからないわよ
+
+Nameless #1003402
+無名 #1003402
+(Balloon)
+Ye look right ferm... Far...
+Mill... Farmar... Aye, I
+reckon I's seen ye afore.
+酔ってないれろ！
+
+Nameless #1003405
+無名 #1003405
+(Balloon)
+Ye need a woman as
+me to watch yer backs!
+御用の際は是非！
+
+Nameless #1003407
+無名 #1003407
+(Balloon)
+The skies haven't been
+kind to the harvest.
+その額で手を打ちましょう
+
+Nameless #1003413
+無名 #1003413
+(Balloon)
+The problem is getting
+the ale to Radz-at-Han
+without it being drunk!
+大型船を手配してだな…
+
+Nameless #1003415
+無名 #1003415
+(Balloon)
+That was the greatest
+quarter bell o' me life.
+うえっぷ、飲みすぎた～
+
+Nameless #1003419
+無名 #1003419
+(Balloon)
+How'd ye fancy a bowl
+o' stew with yer brown?
+特製エール召しあがれ♪
+
+Nameless #1003426
+無名 #1003426
+(Balloon)
+What goes well with
+warm sour ale? More ale.
+エールには魚料理よね
+
+Nameless #1003428
+無名 #1003428
+(Balloon)
+Just because you are
+always right, doesn't
+mean you are this time.
+理論上は正しいはずだ
+
+Nameless #1003429
+無名 #1003429
+(Balloon)
+I don't know why I
+keep looking. I'm never
+going to find it...
+あの船の臨検記録は…
+
+Nameless #1003434
+無名 #1003434
+(Balloon)
+These notched blades
+couldn't even cut butter...
+だいぶ傷んでるわね
+
+Alyrloef
+アリルーフ甲軍曹
+I like to work up a bit o' sweat! Better than shedding tears and mooning about lichyards, I say! What's the matter? You missed a meal? I got good news, supper's fresh fish and you're catching it! 
+よーし、ラストワンセットだ！　訓練が終わったら、
+クラゲの刺身を腹いっぱい食わしてやるぞーっ！
+……俺の分までな。
+
+Nameless #1003439
+無名 #1003439
+(Balloon)
+Gonna skin us some
+fishbacks, we are.
+いっちょやったるか～
+
+Nameless #1003442
+無名 #1003442
+(Balloon)
+Oh, what I wouldn't give
+to be back on the Deep.
+必殺サハギン三枚下ろし！
+
+Nameless #1003443
+無名 #1003443
+(Balloon)
+Might ye 'ave some
+jerked dodo? I've had
+more'n me fill o' jellyfish.
+はぁ、今晩もクラゲかぁ…
+
+Nameless #1003445
+無名 #1003445
+(Balloon)
+Never allow the fish-
+backs the upper ground!
+作戦に異論は？
+
+Nameless #1003449
+無名 #1003449
+(Balloon)
+I fear there won't be
+enough to boil the pitch.
+備蓄数よ～し
+
+Wiltswys
+ウィルトスィス甲曹長
+I do enjoy this work. Who would have thought a girl who didn't have two leather soles to slap together would make a fair quartermaster? Still, you don't get noticed much in this job...
+兵站管理はとっても地道なお仕事。
+地味な私にお似合いね……うふふふ……はぁ。
+どこかに私を幸せにしてくれる人、いないかな……。
+
+Nameless #1003454
+無名 #1003454
+(Balloon)
+I've an 'and free, if that
+crate's too much fer ye.
+早くしなさいよ
+
+Nameless #1003455
+無名 #1003455
+(Balloon)
+We must strike
+while the iron is hot!
+今が好機！
+
+Nameless #1003457
+無名 #1003457
+(Balloon)
+But strike them with
+what? We remain
+sorely undermanned!
+動き理解した？
+
+Nameless #1003462
+無名 #1003462
+(Balloon)
+Are the ballistas
+ready for deployment?
+新兵器の試作には…
+
+Nameless #1003463
+無名 #1003463
+(Balloon)
+Those contraptions do
+us little good without
+men to operate them!
+それより武器弾薬！
+
+Roehanth
+ルーハンド甲軍曹
+I've wondered, Aerghaemr, if you was affrighted. A man is usually, in battle─think I've fought enough to say so. But if I was to know like you did that there wasn't no living left, would I be more afeared, or less?
+エールグヘームル殿……見ていてください。
+貴方の遺志を継ぎ、我ら黒渦団、
+必ずやサハギン族の脅威を退けますぞ……
+
+Skribyld
+スクリビルド
+Business has finally returned to Aleport, but it pains me to say that smugglers have followed the trail of prosperity. The Yellowjackets will not rest until all lawbreakers are taken into custody.
+船便を利用して、密輸を企む犯罪者は後を絶たない。
+だからこそ、ぼくたちイエロージャケットが
+こうやって犯罪に目を光らせているのさ。
+
+Fyuu
+フュウ
+Pshhh... Though my ssscales have yet to harden, the clutchfather has entrusssted me with sssafeguarding the nursssery from intruders. Would that I could protect my ssspawnbrothers from their own foolishness.
+フスィーッ……小難しいことはわからねぇが、
+親父のいいつけに従って、この育成地を守るだけだ。
+バカな弟どもの尻を拭くのが、俺の役目だからよぉ。
+
+Houu
+ホォウ
+When you shhhorewalkers shhhink under the water, you die if you breathe in the shhhea. Shhheems very...inconvenient. - No fins, no shhhcales, and your bodies are covered in hair. I do not undershhhtand how you manage to shhhwim at all. Pshhh...
+フスィーッ……お前たちは水中に潜ると……
+息ができなくなって、死んでしまうようだな……。
+難儀な体だな……フスィーッ……。 - 肌もカサカサに乾いて……毛が生えている……。
+ヒレナシは俺たちとは違う……
+まったく不思議な生き物だ……フスィーッ……。
+
+Nameless #1005942
+無名 #1005942
+(Balloon)
+Read the flow of the currentsss...
+潮の流れを読むんだ
+
+Nameless #1005943
+無名 #1005943
+(Balloon)
+My only wishhh is to catch a fishhh─they're so juicy-sssweet!
+フスィー…オサカナどこ？
+
+Pahh
+海獣使いのパァア
+Clutchfather Novv named me ssseabeast tamer, and massster of the elbssst. - The creatures I raise fear neither ssstorm nor maelssstrom. And I ssspeak not of your finless sssoldiers.
+フスィーッ……。
+俺は親父に「エルブスト」の飼育を任されている、
+「海獣使いのパァア」だ。 - 俺の育てた「エルブスト」は、
+岩砕く荒波にも、逆巻く潮流にも負けない。
+そんじょそこらにいる海獣とは、ワケが違う。
+
+Alza Gamilza
+アルザ・ガミルザ
+This is where we detain pirates and smugglers and other such rogues till we decide as what to do with 'em. See to it you do naught as earns you a place here.
+ここは不正な密輸に手を染めた商人や、
+商船を襲った海賊たちの留置所だ。
+身柄の引き渡しには、お上の許可が必要だぞ。
+
+Firkmann
+フィルクマン
+Bloody 'ells me throat's parched! Can't wait till me shift's over so I can drown meself in ale! Aye, that an' a buxom bar wench to dandle on me lap!
+ふぃ～、喉がカラカラだぜ。
+仕事終わりに冷たいエールをグイっと一杯……。
+たまんねえな！
+
+Q'ahnebb
+キ・アネブ
+You know how ale's brewed, adventurer? You take malted barley, ferment it with yeast, then add herbs and spices to give it character. The stuff is a deal cheaper than wine, and for that it's loved by the smallfolk.
+エールっていうのは、麦芽を上面発酵させたお酒。
+ハーブや香辛料を混ぜて味をアレンジするの。
+ワインより安価で、まさに庶民の味って飲み物よ。
+
+Davyd
+ダヴィッド
+The lights at Pharos Sirius once guided many a sailor home. Ever since the Calamity quenched its fire, it's seen many a ship run aground. But mark my words─one day I will see this beacon of hope restored.
+霊災で、シリウス大灯台は甚大な被害を受けた。
+復興には時間も人手も必要だが、
+いつの日か、必ず火を灯してみせるよ。
+
+Otan Yaratan
+オタン・ヤラタン
+What good's a lighthouse keeper without a lighthouse? Just a landbound wretch watchin' the ships flounder, wringin' his hands. Got to have the lights back on...
+灯台を失った灯台守ってのは、
+なんともミジメな存在だよな。
+早く復興しねェと、船乗りたちも大変だろうよ。
+
+Ahlduwil
+アルドウヴィル
+Pish on the sheven hells and choke on the shteam! Was shupposed to be easy. Wine...wine by the caskful and...mead...beer too, of course, beer too. Warn't shupposed to be no real shpi-spirits, ye see?
+あ～あ、チクショウ！　とんだ貧乏クジだ。
+誰だよ、「幽霊騒動に乗じて火事場泥棒だ！」
+……なんて言いだした奴はよォ！
+
+Erapi Taropi
+エラピ・タロピ
+I told 'em 'twas a bad idea. These shipwrecks be uncanny, I said. I'm not sayin' I expected all these dead folk to be wandrin' about, but I said it was a bad idea!
+だから俺は嫌だったんだ！
+つーか、本当に死霊がウヨウヨしてるって……
+アリかよ、そんな話！
+
+Ahtzatrach
+アーツァトラッハ一等甲兵
+We stand against beast tribes that seek to crush us, see us driven before them, and hear the lamentations of our women. Our very way of life stands or falls with these walls, which is why we must guard them with our very lives.
+この砦が破られれば、たちまち故郷が戦火に晒され、
+家族や友人、恋人が蛮族どもの蹂躙を受けるのだ。
+その覚悟を持って任務に就いてほしいものだな。
+
+U'jughal
+ウ・ジュガル少甲士
+Give the firesand a wide berth, eh? Yer liable to sneeze us all to the high heavens.
+あ、冒険者さん、危険ですから近づかないでください！
+これは最新式の爆薬。火遊びは禁物ですよ！
+
+Eilis
+エイリス中甲士
+Camp Skull Valley is the site of our frontline defense against the Sahagin. The best offense is a good defense─we can ill afford to let our foe take the battle too close to Limsa's shores.
+キャンプ・スカルバレーは、サハギン族対策の水際。
+黒渦団の作戦士官として、無謀な策は了承しかねるわ。
+「守るが勝ち」、これが私のモットーよ。
+
+Ururu Kogururu
+ウルツ・コグルツ少甲士
+Aleport is a strategic location for the Maelstrom, and we're prepared to defend it at all costs. Our cannons are ready to fire at the first sign of trouble.
+エールポートは海運の要所。
+我ら黒渦団の精鋭が、しかと守りを固めている。
+なにかあれば、この特大カノン砲が火を吹くぞ！
+
+Nortmoen
+ノルトムーン大甲士
+If you asked me, I'd say you'd be a fool to leave the safety of the bastion for the perils beyond─but you wouldn't be the first by any means.
+冒険者さんよ。アンタがどんだけ強いか知らんが、
+こっから先は、ちっと遠慮してくんな。
+ま、死んでもいいってんなら、止めねえけどよ。
+
+Sthalrhet
+スタルレット大甲士
+And just where do you think you're going? Beyond South Tidegate, you'll be nothing but fish food.
+おうおう、南防波壁に何の用だ？
+おっと、門の向こうにゃ行くんじゃねえぞ。
+魚野郎に刺身にされちゃ、洒落にもならねえ！
+
+Magic Pot
+マジックポット
+Gimme an elixir!
+エリクサーちょうだい！
+
+Q'molosi
+キ・モロシ
+I was born and raised to the west of here. You won't find the village on recent maps, though. The Sahagin removed any need to mark it.
+以前は西にあった入植地にいたのですが、
+サハギン族のせいで、故郷を失ってしまいました。
+今では、この辺りで魚介類の卸売をしていますのよ？
+
+Fupepe
+フペペ
+Ain't but one thing ye need to succeed in life, an' that's gumption. Had not a gil to me name when I started searchin' for shells to sell, but look at me now─got me own proper business, an' I ain't had to gather shells meself in years!
+魚介類を集めて、お店屋さんに卸しているの。
+貝殻を拾い集めて、お小遣いを稼いでいるうちに、
+これが本業になっちゃったのよね。
+
+Catguistl
+カトグイストル准甲士
+Do you mean to enter the Seagrot? Marvelous! Just bear in mind, though: if you perish in its labyrinthine depth, no one will come for your bones.
+お前「サスタシャ浸食洞」に行くのか？
+じゃあ、俺がありがた～い格言を教えてやる。
+「死して屍拾う者なし」！
+
+Louis
+ルイス
+Our supplies're fast dwindling, fellas. It's past time we up and left this godsforsaken place.
+くあ～、ヤバいぜ、みんな。
+もうじき持ってきた食料がつきちまう。
+そろそろ潮時かもしれんな……帰ろうぜ～。
+
+Thancred
+サンクレッド
+The area has been altered beyond recognition. 'Tis sad indeed when the places of your past may only be visited in memory.
+この辺りは、ずいぶんと様変わりしてしまったもんだ。
+俺がリムサ・ロミンサにいたころの面影は、かけらもない……。
+
+Y'shtola
+ヤ・シュトラ
+Of late, this area has played host to many a bloody skirmish between Lominsan and Sahagin forces.
+ここ最近は、サハギン族の動きが特に活発化していて、
+黒渦団との小競り合いが頻発しているそうよ。
+
+Yugiri
+ユウギリ
+A soldier of the Maelstrom has kindly furnished me with information on the enemy. Armed with this knowledge, I promise you that my presence will count for something.
+敵地となるサプサ産卵地の地形については、
+黒渦団の方に説明を受け、おおかた把握したところだ。
+これで、同行しても荷物になることはなかろう。
+
+Minfilia
+ミンフィリア
+Even with the diversions, the path to the aetheryte is bound to be fraught with danger. Pray be on constant guard, .
+敵地への侵入は、もっとも重要で危険な任務。
+でも、あなたならやってくれると信じているわ。
+
+Merlwyb
+メルウィブ
+Once everything has been set in motion, I, too, shall make my way to the aetheryte. As previously agreed, Lady Minfilia will be with me.
+私は、ミンフィリアとともに、ここから全体を指揮する。
+後ほど、現地へ駆けつけよう。
+
+Y'shtola
+ヤ・シュトラ
+The summoning ritual is taking place at the beastman aetheryte deep within. Thither we must go. - Obstructing our way is a multitude of checkpoints. It would be well advised to dispatch as many enemies as possible along the way, that we might avoid later interference. - Let us take separate routes and merge before the aetheryte, the better to confuse the enemy sentinels.
+私たちの第一目標は、蛮神「リヴァイアサン」の召喚が行われる、
+サプサ産卵地の最奥部、蛮風エーテライトへの到達よ。 - 目的地までには、いくつかの関門がある……。
+警備は厳重だから、もしも敵兵に発見されたら、
+後続部隊のためにも、残らず討伐しておきましょう。 - 私は、あなたと別のルートを進むわ。
+目的地で落ち合いましょう。
+
+Minfilia
+ミンフィリア
+Had only we arrived but a moment earlier... But there is no time to brood over what might have been. Leviathan is returned, and we must needs find a way to deal with him.
+蛮神「リヴァイアサン」の召喚を許してしまうなんて……。
+急いで対策を考えなくては……。
+
+Thancred
+サンクレッド
+Though the mission ended in failure, I take solace in the knowledge that Minfilia is unharmed.
+ミンフィリアを守りぬけたのはよかったが、
+召喚阻止は失敗か……。
+
+Y'shtola
+ヤ・シュトラ
+If we meet Leviathan on the open sea, we put ourselves at the primal's mercy. We must think of a way to face him on equal terms.
+相手は水神、海で待ち構えられたら、
+近づくこともままならない……。
+……何か方法を模索しなければ。
+
+Yugiri
+ユウギリ
+The gods of this realm are vengeful beings. - 'Tis of little wonder the Garleans fear their kind so.
+エオルゼアの「神」とは、
+なんという荒々しい存在なのか……。 - ガレマール帝国が「神」を目の敵にするのも、
+頷けるというものだ……。
+
+Nameless #1008898
+無名 #1008898
+(Balloon)
+Pshhh... Pshhh...
+フスィーッ…いててて…
+
+Nameless #1008899
+無名 #1008899
+(Balloon)
+Pshhh... What business have you with the Tridentsss?
+フスィーッ…！？
+「珊瑚の銛」に何の用だ？
+
+Nameless #1008901
+無名 #1008901
+(Balloon)
+Pshhhahaha, this is one of Novv's ssspawnlings!
+フスィーッ…てめぇ…
+ノォヴんとこのガキか？
+
+Sahagin Vendor
+サハギン族のよろず屋
+What do you ssseek, finless one? I have wonders gathered from the far reaches of the world's oceans. With the clutchfather's permission, they are yours...for a price.
+フスィーッ……ヒレナシよ。
+世界の海で仕入れた、珍しい物品を売ってやるぞ。
+……お前がノォヴの親父に認められた者なら、な。
+
+Beggarly Woman
+貧しい身なりの女性
+(Balloon)
+Pray help our child!
+この子を助けて…！
+
+Nameless #1010230
+無名 #1010230
+(Balloon)
+Open your eyes, son! Please!
+しっかり！目を開けろ！
+
+Nameless #1011017
+無名 #1011017
+(Balloon)
+We fight as one!
+For all Eorzeans!
+ともに戦いましょう！
+エオルゼアのために！
+
+Bloodied Adventurer
+ギルドの中級冒険者
+Have you read our visitors' log? Graduates of the Hall often pen entries with advice for their fellow adventurers─mayhap they've left you some practical pearls of wisdom!
+そこにある「初心者の書」は、もう読んだ？
+新米冒険者たちに向けた、一種の入門書みたいなものよ。
+冒険に役立つ情報もあるでしょうし、目を通してみれば？
+
+Seasoned Adventurer
+ギルドの熟練冒険者
+Welcome to the Hall of the Novice. If you're looking to train in the ways of cooperative combat, then look no further! An adventurer who has studied at the feet of our masters will be prepared to fight in any party.
+「初心者の館」へようこそ。
+ここでは、仲間と共闘するときの立ち回りを訓練できます！
+当館を活用して、素晴らしい冒険をおくってくださいね。
+
+Nameless #1017079
+無名 #1017079
+(Balloon)
+That final exercise is murderous...
+最終訓練がむずかしくて…
+
+Nameless #1021445
+無名 #1021445
+(Balloon)
+Back to the ship!
+沖合の母船へ急げ！
+
+Nameless #1021446
+無名 #1021446
+(Balloon)
+The cargo is secure?
+積荷は確認したか？
+
+Wyssulm
+ウィスルム
+Bloody hells... My legs are still screaming at me from all that running. I can do better than this... I have to.
+長距離を全速力で走るのはきつかったぜ……。
+もっと体を鍛えねぇとなぁ。
+
+Zerig
+ゼリグ
+Would that I possessed your talent for healing, . Perhaps then, we could have─ - No. I mustn't dwell on it overlong. Once Wyssulm and I are well rested, we shall better ourselves from this experience. That is all we can do.
+ああ、さん。
+僕もあなたぐらい、優秀な癒やし手だったらよかったんだが……。 - まあ、ないものねだりをしても仕方ないか。
+体を休めたら、また腕を磨いていくさ。
+

@@ -1,0 +1,358 @@
+Cesteline
+セストゥリヌ
+If you've come for work, speak with Ser Eloin.
+神殿騎士団に、何か用かな？
+
+Temple Knight Guard
+神殿騎士団の衛兵
+Pray keep your voice down when─ Sorry, sorry. Used to serve as a guardsman over by the scholasticate. Force of habit. Carry on.
+本部内では、どうかお静かに。
+重要な指示を聞き漏らすといけませんから。
+
+Herewart
+ヒアーワート
+This gate? Leads to the western highlands, but it won't do you any good if you haven't got any wings.
+この先はクルザス西部高地とつながる、空路用の発着口だ。
+お前がクルザス西部高地を飛び回れるようになったら、
+自由に使うがいい。
+
+Gaucelmard
+ゴーセルマル
+Lost? Saint Valeroyant's Forum is just up these steps. So named for the former Azure Dragoon, in case you were unaware.
+階段を登った先は、聖バルロアイアン広場……。
+数百年前に邪竜「ニーズヘッグ」を退けたこともある、
+「蒼の竜騎士」バルロアイアンを記念した広場です。
+
+Yolaine
+ヨレーヌ
+Got yourself some Centurio Seals, have you? Then perhaps I can offer you a few knickknacks in exchange.
+「セントリオ記章」集めてるかい？
+さまざまな品を用意しているからな……。
+交換してほしい物がないか見ていくといい。
+
+Morgayne
+モルゲイン
+If you want for coin, you might consider undertaking a leve or two. Some are rather more challenging than others, but the rewards are well worth the hassle.
+仕事が欲しければ、そこの神殿騎士に声をかけてみな。
+今のイシュガルドには、それこそ腐るほど仕事がある。
+特にアンタみたいな、デキる奴にとっては、ね。
+
+Dorelle
+ドレル
+These steps will take you to the Pillars, where you will find the manors of the High Houses, Saint Reymanaud's Cathedral, the Athenaeum Astrologicum, the Tribunal, and much more.
+この先は、イシュガルドの「上層」です。
+四大名家のお屋敷や、神聖裁判所、聖レマノー大聖堂……。
+聖ガンリオル占星院などがございます。
+
+Firmalbert
+フィルマルベル
+You stand before the Congregation of Our Knights Most Heavenly─the headquarters of we knights who have sworn to serve the Holy See.
+ここは、イシュガルド正教の総本山を護る要。
+誇り高き、神殿騎士団本部です。
+
+Maelie
+マエリ
+I can't...I can't feel the pain in my arm anymore. Can't feel much anything... That's good, right?
+冷たい……左腕の感覚がないの……。
+ねぇ、これ、どうなっちゃうの……？
+怖い、怖い、怖いよ……。
+
+Cevilia
+シェビリア
+Welcome to the Holy Stables. I guarantee you'll find no finer stock of battle chocobos. Or if your gaze is fixed skyward, we also specialize in black chocobos trained for flight.
+ここは、聖大厩舎。
+騎兵向けの軍用チョコボを飼育、訓練している施設です。
+黒チョコボの訓練なら、我々にお任せください。
+
+Arnoulain
+アルヌーラン
+What's so holy about these stables, you ask? Well, it was established by the See to train mounts for the Temple Knights, for one. - But if you ask me, it's because our birds are so brave and strong, why, they'd be fit for the Fury Herself to ride!
+ここはもともと、神殿騎士団向けのチョコボを飼育するため、
+教皇庁が設立した施設なんだ。
+だから、施設の名前に「聖」が付くってわけさ。
+
+Nameless #1012232
+無名 #1012232
+(Balloon)
+I could use that pickaxe
+over here, Midlander.
+ひとりじゃ無理か…
+
+Nameless #1012236
+無名 #1012236
+(Balloon)
+What were you thinking,
+coming back out here
+before your wounds healed?
+おい、大丈夫か！
+
+Nameless #1012249
+無名 #1012249
+(Balloon)
+Just leave me, Sister.
+うう…
+
+Nameless #1012258
+無名 #1012258
+(Balloon)
+They're all dead...and it
+was me who killed 'em!
+家族全員…
+俺を残して死んじまった…
+
+Amber Trader
+稀少琥珀商人
+Miss, miss! You wouldn't happen to have any amber-encased vilekin for sale, would you? No one in Ishgard will offer you a better price! I promise!
+そこの道行く、お客さん！
+「虫入りアンバー」を持ってないかい？
+皇都にはコレクターが多いんだ、いい品と交換するよ！
+
+Nameless #1012269
+無名 #1012269
+(Balloon)
+Don't look down!
+大丈夫か～？
+
+Nameless #1012272
+無名 #1012272
+(Balloon)
+This won't be
+nearly enough...
+資材は持ったし後は…
+
+Chocobokeep
+チョコボ屋 ロドゥリック
+Be with you in a moment, madam.
+すみません、まだ準備中なものでして……。
+
+Cid
+シド
+My lads have outdone themselves this time!
+どうだい、なかなかイカしてるだろ？
+
+Biggs
+ビッグス
+This's one of our best works, . No doubt about it.
+自信作……そう言ってもいいデキだ。
+
+Wedge
+ウェッジ
+Isn't she a beauty?
+最高にイカしてるッス！
+
+Alphinaud
+アルフィノ
+I doubt they would be so careless as to be caught out by the Temple Knights. Nevertheless, it is only prudent that we ask.
+反体制派なら、神殿騎士の目から逃れようとするはず。
+だからこそ、日ごろの警備体制について、
+聞いておこうと思ってね。
+
+Tataru
+タタル
+At first, I had trouble getting to know people, but with a little effort─and a lot of parley─I've managed to make lots of friends!
+密かに勉強してきた「マンダヴィル流交渉術」で、
+情報を集めまくるでっす！
+
+Tataru
+タタル
+What do you think of my hair, ? Goes well with my garb, does it not? Oh, and did I mention that I made the garb myself? Because I did! Hee hee!
+フッフ～ン！　この髪型、どうでっす？
+自作の衣装に合うように整えてみまっした。
+看板娘として、日々、精進でっす！
+
+Tataru
+タタル
+A customer gifted me with a lovely pair of shoes. For the briefest of moments, I entertained the thought of making a living of this, but in the end, my true calling is with the Scions!
+お客さんから、靴の贈り物をもらっちゃいまっした。
+この道で生きていけそうな予感でっすが、
+情報収集の方が大切でっす！
+
+Tataru
+タタル
+Weaving is far more difficult than I imagined! But just you wait─I'll be a specialist before you know it!
+知り合いになったお婆ちゃんから、
+お裁縫の指導を受けることになりまっした。
+フフフ……マイスタータタルも遠くないでっす！
+
+Cid
+シド
+Gods above, I can't work through the night as easily as I used to. Must be getting old.
+Ahem. ...That's when you say, “You're not that old, Cid.”
+さすがに、徹夜作業の連続はしんどいぜ。
+俺も「オッサン」になったってことか？
+……おい、少しは否定してくれよ。
+
+Crafty Crone
+手先の器用な老婆
+Repeat after me: over, under, around, and through. Over, under, around, and through...
+ひと針、ひと針に、想いを込めるんだよ、嬢ちゃん。
+どうか無事でありますようにと……。
+それが針仕事ってもんさね。
+
+Wedge
+ウェッジ
+...Rivet eight, check. Rivet nine, check. Rivet ten, ch─ Hm? If you could just let me finish this, I'll be with you in a moment! Ahem. Rivet...er. Oh blast.
+1番ボルトよし、2番、3番……
+……い、いま、話しかけないでほしいッス！
+
+Biggs
+ビッグス
+Seeing your ideas take shape before you... This is why I became an engineer.
+発想を形にしていく……
+それが、技術者としての醍醐味だな。
+
+Tataru
+タタル
+I made some supper for the tavern workers, and they liked it so much they put it on the menu! Might I suggest the dawn tea and loaghtan stew?
+仕事終わりに作ったまかないが好評で、
+お客さんにも、お料理を出すようになりまっした。
+特製薬茶とロフタンシチューがオススメでっす！
+
+Tataru
+タタル
+'Tis love! 'Tis love!♪
+All-powerful, shining loooooove!♪
+フンフ　フンフ　フーン。
+みーわくの　おーどりーで　こーころ　まーどわすー。
+あーらたーな　げーぼくーが　うーま、れるのー。 - みつぎもーの　もーらって　ざっくざく！
+げーぼくーが　はーたらーく　らっくらく！
+フンフ　フンフ　フフーン。
+
+Nameless #1013723
+無名 #1013723
+(Balloon)
+You'll see me a knight
+afore you see me
+swing a sledge.
+やってらんねぇぜ～
+
+Nameless #1013727
+無名 #1013727
+(Balloon)
+Why do I even bother?
+It will only be demolished
+again in the next raid...
+早く直さないとな！
+
+Tataru
+タタル
+Oh, it's you, ! I appreciate you coming by, but shouldn't you be at the Congregation? That's where the others are gathering, no?
+おかえりなさいでっす！
+神殿騎士団の本部に行かなくても、
+良いのでっすか？
+
+Nameless #1015436
+無名 #1015436
+(Balloon)
+It's colder than a
+dragon's stare out there!
+ううう…凍える…
+
+Nameless #1015439
+無名 #1015439
+(Balloon)
+“Lift with the legs,”
+she said. Bah!
+重い…！
+何が入ってるんだ！？
+
+Nameless #1016022
+無名 #1016022
+(Balloon)
+I have the watch!
+僕が雲霧街を守るんだ！
+
+Nameless #1017140
+無名 #1017140
+(Balloon)
+Hmm... Odd
+little bugger...
+ムム、怪しい奴…
+
+Nameless #1017540
+無名 #1017540
+(Balloon)
+The Fury aid me...
+I cannot stop shaking...
+く、くそう…
+震えが止まらない…
+
+Nameless #1017543
+無名 #1017543
+(Balloon)
+Come, then, you fiends!
+I'll not let my family burn!
+皇都に残る家族のため
+必ず守りきる！
+
+Nameless #1033518
+無名 #1033518
+(Balloon)
+I have to carry on. My little angel would expect me to.
+亡くなったあの子のためにも
+俺ができることは…
+
+Nameless #1034150
+無名 #1034150
+(Balloon)
+Where to start? Let's see now...
+まずは補修箇所の選定を…
+
+Nameless #1034151
+無名 #1034151
+(Balloon)
+This stone should still serve well...
+この石材は
+まだ使えそうかな…？
+
+Nameless #1034152
+無名 #1034152
+(Balloon)
+How do I even begin to repair this?
+大きくえぐられた部分は
+どうやって直すべきか…
+
+Nameless #1034153
+無名 #1034153
+(Balloon)
+Take care around the scaffold!
+そっちの足場は組み途中だ！
+気をつけろよ！
+
+Nameless #1034154
+無名 #1034154
+(Balloon)
+Don't look down... Don't look down...
+下を見ちゃダメだ
+下を見ちゃダメだ…
+
+Nameless #1034155
+無名 #1034155
+(Balloon)
+The new building materials still haven't arrived?
+補修用の石材は
+まだ届かないのか？
+
+Nameless #1034156
+無名 #1034156
+(Balloon)
+Any moment now, I reckon...
+もうまもなくだと思うぜ
+
+Sestivald
+セスティヴァル
+Well met, friend! I'm pleased to say that we've seen no end of aspiring machinists looking to apprentice here. Say, you wouldn't happen to be interested yourself, would you?
+手に職をつけたい人や、飛空艇の技術に興味がある人が、
+毎日のように話を聞きにきてくれています！
+もしかして英雄様も、興味がありますか？
+
+Firmalbert
+フィルマルベル
+With the threat of the artifact gone, I am pleased to say the reputation of the Temple Knights has recovered. - Of course, our reputation is a distant second to our duty. Even if we were disparaged, our shields would yet stand strong, and we would give our very bodies to the protection of Ishgard's people. - A guardian must protect what he believes in. A lesson well taught by you and Master Tentoawa.
+祭器による騒動が落ち着いて以来、
+神殿騎士の名誉は回復されてきております。 - もちろん、たとえ信頼を得られなかったとしても、
+それで我々の盾が鈍ることはありえません。
+迷わず己の身を投げ出して、民を護ることでしょう。 - 護り手とは、自らが信じるものを護るべし……
+そう教えていただきましたから。
+あなたと、テントーワ殿にね。
+

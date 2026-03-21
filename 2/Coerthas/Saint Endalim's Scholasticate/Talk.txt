@@ -1,0 +1,134 @@
+Archombadin
+アルションバダン
+I am considering ways to alleviate animosity and unite the seminarians of the scholasticate, yet it is a daunting task. It is always easier to fuel the flames than to put the fire out, and there are some who are clearly provoking my peers.
+ハッ、神学院に対する反感など、いかようにも操作できる。
+それが放置されているということは、
+現状が、何者かに望まれているということだとは思わんか？
+
+Janchette
+ジャンシェト
+I have no interest in this shortsighted squabble over seat rankings. It is only natural people would try to take advantage of an unfortunate situation.  - Find a way to atone for the distortions of truth, and guide the people back to the faith in a peaceful manner. This is what I will focus my efforts on.
+学内での席次争いになんて、興味ありませんわ。
+どうせ、発言力が強い者の都合がいいように、
+現実が操作されてしまうのですから……。 - 真実を歪めた罪を償い、人々を安寧に導く術を見出して、
+それらの実践に専念したいものですわ。
+
+Lebrassoir
+ルブラソワール
+Crammevoix can say what he pleases, yet it does not mean it is the truth. In a state of confusion, even blatant lies can seem like rational thought to the desperate. - Faith in the church must be restored not through word, but virtuous deed. Is that not what we seminarians should consider in determining the future?
+クラムヴォワが、いくら真実を訴えても意味はありません。
+「隠された真実」を巡って混乱が続く昨今ですから、
+言葉だけを重ねても、迷いが生じるばかりです。 - 今、求められているのは、言葉ではなく確かな結果……
+それを提示する方法にこそ、知恵を絞るべきでしょう。
+
+Blaisie
+ブレジー
+I'm sure you're always wondering why I stare at Theomocent. He always seems so confident, so I thought maybe I could learn from him. - I don't really have any outstanding talents. And I get discouraged easily. But when he's around, I feel more positive about what I can accomplish.
+テオモサンは、何があっても前向きなので、
+見習いたいなって思います……。 - 私は、何をやってもうまくできなくて、
+すぐに落ち込んでしまうものですから……。
+
+Gaetelle
+ガエテル
+, words are not enough to express my gratitude. Had it not been for you and Inspector Briardien's unyielding efforts, we might not have discovered what had become of our dear Ulaa until it was too late. - <sigh> She has been attempting to sleep this whole ordeal off, but something so terrible as this is not easily forgotten. I only pray that she recovers soon and that this affair will not leave her with any mental scars.
+これは、様。
+ウラーの救出にご協力いただいたそうで、ありがとうございました。
+彼女なら、寮の自室で安静にしていますよ。 - 一刻も早く、真犯人の逮捕を……と言いたいところですが、
+まずは彼女が精神的に落ち着くのを待ちたいのです。
+神殿騎士による事情聴取は、その後となりましょう。
+
+Gaetelle
+ガエテル
+Ever since the inconsistencies in Ishgard's history and the church's teachings were brought to light, I feared it to be the end of an era and, by extension, the scholasticate. - , I cannot tell you how wrong I was. If anything, our fine establishment flourished in the aftermath and, with the help of our dedicated students, will continue to do so.
+様、ようこそいらっしゃいました。
+……ここだけの話ですが、貴方の手で歴史の真実が暴かれた時、
+私は正教に未来はないのではと、悩みもしたのです。 - しかし、今こうして若き神学生たちが躍動する姿を見て、
+そんな悩みなど、杞憂に過ぎなかったと感じるのですよ……。
+彼らがいる限り、正教の未来は明るい……そう思いませんか？
+
+Theomocent
+テオモサン
+! How wonderful of you to come visit! We've been working to reform the foundation of our current school system and curriculum and things here have seen great improvement. - Every day, I feel as though I'm moving a step closer to achieving my dreams and bringing about the change Father Choisseau had hoped Ishgard would one day embrace.
+さん、いらっしゃったのですね！
+アルションバダンさんと協力するようになってから、
+新しい試みが次々と実行に移されています。 - 仲間と手を取り合って、人々の心の安寧のために働く。
+ショワソー司祭が思い描いた聖職者としての理想に向かって、
+一歩ずつ、確かに歩んでいる……そんな実感があるんです。
+
+Leigh
+レイ
+! How go your adventures? Since I last saw you, I've had a few of my own─all of which have involved keeping Theo out of trouble. - The only good thing about having Archombadin around is that he somehow manages to sense trouble before it happens.
+おお、調子はどうだ？
+こっちは、相変わらずテオに振り回されてるぜ。 - 寮長が協力的になったのはありがたいが、
+そのせいで、テオの猪突猛進ぶりに磨きがかかっちまってな。
+ま、派手に転ばないよう、ヤツの足下を見まもるまでさ。
+
+Crammevoix
+クラムヴォワ
+Welcome back, ! You won't believe how much the scholasticate has changed! The somber atmosphere that hovered over the scholasticate has been replaced by radiant joy and not a single day goes by that these halls aren't filled with the jubilant laughter of seminarians.
+やあ、いらっしゃい。
+おかげさまで神学院は、あれから毎日が祝祭という賑わいだよ。
+ま、オレもオレなりに頑張ってるよ……気楽にね。
+
+Blaisie
+ブレジー
+Oh, , with everyone working so well together to make the scholasticate a better place, Theo has never been happier. - His smile grows more radiant by the day, and with each passing week I come to lo—er, admire him all the more.
+来てくださったのですね。
+最近、テオモサンの笑顔が、さらにまぶしくなりました。
+アルションバダンさんと協力しているからでしょう。 - 私も、ささやかながら、ふたりを手伝っているんです。
+彼の笑顔に少しでも役立ててると思うと、
+自然と顔がほころんでしまいます……。
+
+Despondent Seminarian
+ブレジーの友人
+Recently, Blaisie and I started talking again. After opening up to her about how much her silence hurt me, we reconnected and now our friendship is stronger than ever! - ...There's just one teensy problem. You see, Theomocent is completely oblivious to how Blaisie feels about him but she's too shy to admit anything. The two of them are so frustrating to watch!
+色々あったけど、ブレジーとは仲直りしたわ……。
+以前よりもお互いに正直に話すようになって、
+むしろ仲が深まったくらいなの。 - でも、別の悩みができちゃって……。
+鈍感なテオモサンと、自己主張が弱いブレジー……。
+もどかしくて、見ていられないのよ！
+
+Archombadin
+アルションバダン
+I paid a visit to Lebrassoir soon after he was escorted off scholasticate grounds by the Temple Knights. He refused to even acknowledge my presence. - It will take a great deal of time for me to gain his forgiveness, it seems. <sigh> In the meantime, I shall do what I can to see that the scholasticate's reputation is restored. Together with Theo, I feel we will be able to pave the path toward a brighter future for all seminarians here.
+よく来たな。
+収監されたルブラソワールとの面会は、
+奴に拒絶されてばかりで、いまだ叶わぬ状況だ……。 - ハッ……だが、ひとり悶々と思い悩んでもいられない。
+テオモサンのやつが、次から次へと難題を押しつけてくるからな。
+おかげで、気が紛れるというものだ。
+
+Stern Seminarian
+厳格な先輩神学生
+The history we were taught growing up was all a lie, the priest and mentor I had come to respect the most was a fraud, Lebrassoir was never loyal to the Dzemaels, and now Archombadin and Theomocent are practically joined at the hip... It's as if the world's gone mad! - But perhaps a little madness was just what I needed, for all these changes have made me realize how narrow-minded and set in my own ways I was. From now on I shall endeavor to be more accommodating and accepting of others' ideas and opinions.
+皇都の歴史は偽りで、尊敬していた司祭は陰謀を企て、
+忠臣と見えたルブラソワールは主を裏切り、
+その寮長がテオモサンと協力する……。 - 想像すらしていなかった現実を目の当たりにして、
+私も古くさい固定観念を、手離してみることにしました。
+手始めに、後輩の声にも耳を傾けるようにしています。
+
+Sincere Seminarian
+無邪気な後輩神学生
+Lately, one of the seniors who had made it his life's mission to observe and criticize everything I do has become almost cordial. - Where before, I would have to endure one-sided lectures, now we have actual conversations. I must say this change has made me more receptive to what he has to say, and every day my respect for him grows.
+聞いて、聞いて。
+僕、最近、先輩に怒られなくなったんだよ。
+それどころか、僕の意見も受け入れてくれるんだ。 - これまでは、ただ怖いって思ってたけど、
+ちゃんと話すようになったら、先輩の考えもわかるようになってね。
+今では誰よりも、先輩のことを尊敬しているんだ。
+
+Ulaa
+ウラー
+Thanks to you, the teachings of volume eleven are closer than ever to being achieved.  - The misfortune I─we─encountered here at the scholasticate was the catalyst we needed to bring about the necessary change and I can say with confidence was Halone's will.
+その節は、お世話になりました。
+「正教法大全11巻」を読んで、想像していた世界が、
+そう遠くない未来に実現しそうな気がしています。 - 私の身に起きた不幸や、皇都に起きた不幸も、
+理想の未来のために必要な出来事だったのかもしれませんね。
+
+Janchette
+ジャンシェト
+Ah, if it isn't ! What brings you back to our halls? If it's out of concern that you've decided to pay a visit, allow me to put your worries to rest! - The scholasticate has never been better! Ever since Theo and Archombadin set aside their differences and learned to work together, the students have been able to freely express their opinions without fear of retribution. It's opened up the floor for some very interesting conversations, to say the least!
+神学院の様子が気にかかっていらっしゃるのね？
+でも大丈夫、安心してくださいな……。
+着実に、聖アンダリム神学院は良い方向に向かっていますわ。 - テオモサンとアルションバダンが手を取り合ったことで、
+神学院の中に、自由闊達に議論する空気が生まれましたの。
+彼らふたりの行動が、多くの神学生たちに影響を与えたのですよ。
+
